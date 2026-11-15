@@ -1,0 +1,721 @@
+{
+  "mode": "live",
+  "marketState": "CLOSED",
+  "provider": "Yahoo Finance chart endpoint",
+  "updatedAt": "2026-11-15T22:02:20.811Z",
+  "quotes": {
+    "^GSPC": {
+      "price": 7561.67,
+      "change": -0.40474685211526745,
+      "time": 1794606199,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "^IXIC": {
+      "price": 25136.273,
+      "change": -0.9060399509581588,
+      "time": 1794608159,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "^NDX": {
+      "price": 27943.736,
+      "change": -1.2211868840405524,
+      "time": 1794608159,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "AAPL": {
+      "price": 356.27,
+      "change": 0.3916816952209159,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "MSFT": {
+      "price": 523.88,
+      "change": 0.16826003824091693,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "NVDA": {
+      "price": 162.85,
+      "change": -2.0097478789337524,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "AMZN": {
+      "price": 266.66,
+      "change": -0.29165420281183546,
+      "time": 1794603600,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "GOOGL": {
+      "price": 295.77,
+      "change": -0.9809173083361256,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "META": {
+      "price": 641.69,
+      "change": 2.899247927390523,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "BRK-B": {
+      "price": 592.94,
+      "change": 0.5272705694861254,
+      "time": 1794603603,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "AVGO": {
+      "price": 347.01,
+      "change": -4.761774069601499,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "TSLA": {
+      "price": 390.22,
+      "change": -1.8190967417285095,
+      "time": 1794603600,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "JPM": {
+      "price": 346.19,
+      "change": 0.9830231608424259,
+      "time": 1794603602,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "WMT": {
+      "price": 128.09,
+      "change": 1.5056660591172089,
+      "time": 1794603600,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "LLY": {
+      "price": 1443.5,
+      "change": 1.2591631300199955,
+      "time": 1794603661,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "ORCL": {
+      "price": 125.35,
+      "change": -1.3846274880025216,
+      "time": 1794603775,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "NFLX": {
+      "price": 62.15,
+      "change": -0.8613814005423499,
+      "time": 1794603600,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "V": {
+      "price": 425.76,
+      "change": 1.2966619875805925,
+      "time": 1794603602,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "COST": {
+      "price": 1106.21,
+      "change": 1.2818047811318336,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "XOM": {
+      "price": 170.59,
+      "change": 0.47708799623041714,
+      "time": 1794603693,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "AMD": {
+      "price": 534.06,
+      "change": -8.75448487954895,
+      "time": 1794603601,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "CRM": {
+      "price": 217.84,
+      "change": 0.12409799145103197,
+      "time": 1794603602,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    },
+    "PLTR": {
+      "price": 167.99,
+      "change": -2.0923184520340383,
+      "time": 1794603600,
+      "currency": "USD",
+      "marketState": "UNKNOWN"
+    }
+  },
+  "pulse": {
+    "marketState": "CLOSED",
+    "headline": "Η αγορά των ΗΠΑ είναι κλειστή. Τελευταίες διαθέσιμες τιμές: S&P 500 -0.40% · NASDAQ Composite -0.91% · NASDAQ 100 -1.22%.",
+    "breadth": "11 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
+    "advancers": 11,
+    "decliners": 9,
+    "indices": [
+      {
+        "symbol": "^GSPC",
+        "name": "S&P 500",
+        "change": -0.40474685211526745,
+        "price": 7561.67,
+        "time": 1794606199
+      },
+      {
+        "symbol": "^IXIC",
+        "name": "NASDAQ Composite",
+        "change": -0.9060399509581588,
+        "price": 25136.273,
+        "time": 1794608159
+      },
+      {
+        "symbol": "^NDX",
+        "name": "NASDAQ 100",
+        "change": -1.2211868840405524,
+        "price": 27943.736,
+        "time": 1794608159
+      }
+    ],
+    "leaders": [
+      {
+        "symbol": "META",
+        "name": "Meta",
+        "change": 2.899247927390523,
+        "sector": "technology"
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart",
+        "change": 1.5056660591172089,
+        "sector": "consumer"
+      },
+      {
+        "symbol": "V",
+        "name": "Visa",
+        "change": 1.2966619875805925,
+        "sector": "finance"
+      }
+    ],
+    "laggards": [
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": -8.75448487954895,
+        "sector": "chips"
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "change": -4.761774069601499,
+        "sector": "chips"
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir",
+        "change": -2.0923184520340383,
+        "sector": "technology"
+      }
+    ],
+    "strongestNews": [
+      {
+        "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+        "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-15T18:42:38.000Z"
+      },
+      {
+        "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-15T11:15:00.000Z"
+      },
+      {
+        "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply” - Yahoo Finance",
+        "whyItMatters": "Το δημοσίευμα περιγράφει εβδομαδιαία άνοδο μετά από αναβάθμιση αναλυτή. Αυτός ο ορίζοντας δεν εξηγεί από μόνος του την ημερήσια μεταβολή της τιμής· η αναβάθμιση είναι άποψη αναλυτή, όχι εταιρικό στοιχείο.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-15T08:06:36.000Z"
+      }
+    ],
+    "asOf": 1794608159
+  },
+  "moves": [
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "change": -0.40474685211526745,
+      "price": 7561.67,
+      "intradayMove": -0.40474685211526745,
+      "movement": "S&P 500: πτωτική μεταβολή 0.40% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "NASDAQ Composite",
+      "change": -0.9060399509581588,
+      "price": 25136.273,
+      "intradayMove": -0.9060399509581588,
+      "movement": "NASDAQ Composite: πτωτική μεταβολή 0.91% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "^NDX",
+      "name": "NASDAQ 100",
+      "change": -1.2211868840405524,
+      "price": 27943.736,
+      "intradayMove": -1.2211868840405524,
+      "movement": "NASDAQ 100: πτωτική μεταβολή 1.22% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "change": -8.75448487954895,
+      "price": 534.06,
+      "intradayMove": -8.75448487954895,
+      "movement": "AMD: πτωτική μεταβολή 8.75% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Το δημοσίευμα περιγράφει εβδομαδιαία άνοδο μετά από αναβάθμιση αναλυτή. Αυτός ο ορίζοντας δεν εξηγεί από μόνος του την ημερήσια μεταβολή της τιμής· η αναβάθμιση είναι άποψη αναλυτή, όχι εταιρικό στοιχείο. Η μεταβολή είναι 7.53 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply” - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+          "publishedAt": "2026-11-15T08:06:36.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "company",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 56,
+          "whyItMatters": "Το δημοσίευμα περιγράφει εβδομαδιαία άνοδο μετά από αναβάθμιση αναλυτή. Αυτός ο ορίζοντας δεν εξηγεί από μόνος του την ημερήσια μεταβολή της τιμής· η αναβάθμιση είναι άποψη αναλυτή, όχι εταιρικό στοιχείο.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+          "publishedAt": "2026-11-15T11:15:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "change": -4.761774069601499,
+      "price": 347.01,
+      "intradayMove": -4.761774069601499,
+      "movement": "Broadcom: πτωτική μεταβολή 4.76% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή είναι 3.54 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+          "publishedAt": "2026-11-15T11:15:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "change": 2.899247927390523,
+      "price": 641.69,
+      "intradayMove": 2.899247927390523,
+      "movement": "Meta: ανοδική μεταβολή 2.90% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή είναι 4.12 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+          "publishedAt": "2026-11-15T11:15:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "change": -2.0923184520340383,
+      "price": 167.99,
+      "intradayMove": -2.0923184520340383,
+      "movement": "Palantir: πτωτική μεταβολή 2.09% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+          "publishedAt": "2026-11-15T11:15:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "change": -2.0097478789337524,
+      "price": 162.85,
+      "intradayMove": -2.0097478789337524,
+      "movement": "NVIDIA: πτωτική μεταβολή 2.01% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Το δημοσίευμα περιγράφει εβδομαδιαία άνοδο μετά από αναβάθμιση αναλυτή. Αυτός ο ορίζοντας δεν εξηγεί από μόνος του την ημερήσια μεταβολή της τιμής· η αναβάθμιση είναι άποψη αναλυτή, όχι εταιρικό στοιχείο. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply” - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+          "publishedAt": "2026-11-15T08:06:36.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "company",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 56,
+          "whyItMatters": "Το δημοσίευμα περιγράφει εβδομαδιαία άνοδο μετά από αναβάθμιση αναλυτή. Αυτός ο ορίζοντας δεν εξηγεί από μόνος του την ημερήσια μεταβολή της τιμής· η αναβάθμιση είναι άποψη αναλυτή, όχι εταιρικό στοιχείο.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+          "publishedAt": "2026-11-15T11:15:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDlSdUFwT1BPM19HSDU1VkpxNzV3bjF6NGJ5MzdPUmhINTFzdnVmeUh0OUtFdUVCNXZkbmhOb0J1S2VnTnJURTN4YzJOVmszYVIxek1lOEpNRkdpZjA0R2FWWFRWM1FEZV94cVpVVXJfOUowNFg4a0Z1T0NtdFZqbTdNZ0s5UnRuZE45UU45TDF5bnRjc0FBcXVJYmdaN0xj?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "change": -1.8190967417285095,
+      "price": 390.22,
+      "intradayMove": -1.8190967417285095,
+      "movement": "Tesla: πτωτική μεταβολή 1.82% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή είναι 1.41 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "publishedAt": "2026-11-15T18:42:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-15T22:02:20.811Z"
+    }
+  ]
+}
