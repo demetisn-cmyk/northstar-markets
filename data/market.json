@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-16T02:25:50.119Z",
+  "updatedAt": "2026-11-16T03:35:33.163Z",
   "quotes": {
     "^GSPC": {
       "price": 7561.67,
@@ -237,6 +237,14 @@
     ],
     "strongestNews": [
       {
+        "title": "U.S. stock futures little changed as investors await Nvidia earnings - Yahoo Finance",
+        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-16T02:05:00.000Z"
+      },
+      {
         "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
         "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
@@ -282,13 +290,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "^IXIC",
@@ -316,13 +324,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "^NDX",
@@ -350,13 +358,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "AMD",
@@ -384,7 +392,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -405,13 +413,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 55,
+          "importance": 53,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "AVGO",
@@ -439,7 +447,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -460,13 +468,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 55,
+          "importance": 53,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "META",
@@ -494,7 +502,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -515,13 +523,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 55,
+          "importance": 53,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.118Z"
+      "updatedAt": "2026-11-16T03:35:33.162Z"
     },
     {
       "symbol": "PLTR",
@@ -549,7 +557,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -570,13 +578,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 55,
+          "importance": 53,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.119Z"
+      "updatedAt": "2026-11-16T03:35:33.163Z"
     },
     {
       "symbol": "NVDA",
@@ -585,9 +593,30 @@
       "price": 162.85,
       "intradayMove": -2.0097478789337524,
       "movement": "NVIDIA: πτωτική μεταβολή 2.01% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "U.S. stock futures little changed as investors await Nvidia earnings - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5",
+          "publishedAt": "2026-11-16T02:05:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "company",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 70,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
         {
           "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
@@ -604,7 +633,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -625,13 +654,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 55,
+          "importance": 53,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.119Z"
+      "updatedAt": "2026-11-16T03:35:33.163Z"
     },
     {
       "symbol": "TSLA",
@@ -659,13 +688,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T02:25:50.119Z"
+      "updatedAt": "2026-11-16T03:35:33.163Z"
     }
   ]
 }
