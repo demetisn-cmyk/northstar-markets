@@ -2,888 +2,350 @@
   "mode": "live",
   "marketState": "REGULAR",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-16T19:38:13.299Z",
+  "updatedAt": "2026-11-16T20:29:59.987Z",
   "quotes": {
     "^GSPC": {
-      "price": 7416.2,
-      "change": -1.9237813869158567,
-      "time": 1794857892,
+      "price": 7412.66,
+      "change": -1.970596442320284,
+      "time": 1794860995,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^IXIC": {
-      "price": 24526.68,
-      "change": -2.425152686716924,
-      "time": 1794857890,
+      "price": 24508.07,
+      "change": -2.499189120041787,
+      "time": 1794860996,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^NDX": {
-      "price": 27236.232,
-      "change": -2.5318876473782916,
-      "time": 1794857892,
+      "price": 27202.705,
+      "change": -2.651868025091559,
+      "time": 1794860997,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AAPL": {
-      "price": 352,
-      "change": -1.1985292053779386,
-      "time": 1794857888,
+      "price": 351.93,
+      "change": -1.2181772251382308,
+      "time": 1794860997,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "MSFT": {
-      "price": 518.44,
-      "change": -1.0384057417729138,
-      "time": 1794857892,
+      "price": 517.74,
+      "change": -1.172024127662821,
+      "time": 1794860997,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NVDA": {
-      "price": 155.835,
-      "change": -4.307645072152279,
-      "time": 1794857891,
+      "price": 155.53,
+      "change": -4.494933988332818,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMZN": {
-      "price": 257.51,
-      "change": -3.4313357833945974,
-      "time": 1794857892,
+      "price": 257.96,
+      "change": -3.26258156453913,
+      "time": 1794860999,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "GOOGL": {
-      "price": 285,
-      "change": -3.6413429353889786,
-      "time": 1794857891,
+      "price": 284.485,
+      "change": -3.815464719207482,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "META": {
-      "price": 624.57,
-      "change": -2.6679549315089846,
-      "time": 1794857890,
+      "price": 626.53,
+      "change": -2.3625114930885758,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "BRK-B": {
-      "price": 591.075,
-      "change": -0.31453435423483134,
-      "time": 1794857880,
+      "price": 592.34,
+      "change": -0.10119067696563272,
+      "time": 1794860993,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AVGO": {
-      "price": 333.355,
-      "change": -3.9350450995648463,
-      "time": 1794857891,
+      "price": 332.47,
+      "change": -4.190080977493434,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "TSLA": {
-      "price": 377.192,
-      "change": -3.338629491056332,
-      "time": 1794857888,
+      "price": 377.64,
+      "change": -3.223822459125632,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "JPM": {
-      "price": 337.94,
-      "change": -2.383084433403622,
-      "time": 1794857890,
+      "price": 337.33,
+      "change": -2.559288252115894,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "WMT": {
-      "price": 128.08,
-      "change": -0.007807010695597552,
-      "time": 1794857891,
+      "price": 128.22,
+      "change": 0.10149113904285693,
+      "time": 1794860996,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "LLY": {
-      "price": 1440.495,
-      "change": -0.20817457568410871,
-      "time": 1794857883,
+      "price": 1436.96,
+      "change": -0.4530654658815354,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "ORCL": {
-      "price": 118.785,
-      "change": -5.23733546071001,
-      "time": 1794857890,
+      "price": 118.47,
+      "change": -5.488631830873551,
+      "time": 1794860996,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NFLX": {
-      "price": 60.635,
-      "change": -2.437650844730492,
-      "time": 1794857890,
+      "price": 60.705,
+      "change": -2.3250201126307326,
+      "time": 1794860996,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "V": {
-      "price": 426.05,
-      "change": 0.06811349116873837,
-      "time": 1794857892,
+      "price": 425.91,
+      "change": 0.03523111612176675,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "COST": {
-      "price": 1109.215,
-      "change": 0.27164824038834234,
-      "time": 1794857884,
+      "price": 1111.295,
+      "change": 0.4596776380614925,
+      "time": 1794860985,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "XOM": {
-      "price": 166.984,
-      "change": -1.495988673902785,
-      "time": 1794857891,
+      "price": 166.68,
+      "change": -1.6753185464841926,
+      "time": 1794860992,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMD": {
-      "price": 506.57,
-      "change": -5.147361719656959,
-      "time": 1794857892,
+      "price": 504.839,
+      "change": -5.4714826049507455,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "CRM": {
-      "price": 215.8,
-      "change": -0.9364671318398788,
-      "time": 1794857882,
+      "price": 215.275,
+      "change": -1.1774697025339689,
+      "time": 1794860989,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "PLTR": {
-      "price": 160.415,
-      "change": -4.509196976010487,
-      "time": 1794857887,
+      "price": 159.515,
+      "change": -5.044943151378072,
+      "time": 1794860998,
       "currency": "USD",
       "marketState": "UNKNOWN"
     }
   },
   "pulse": {
     "marketState": "REGULAR",
-    "headline": "Πτωτική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 -1.92% · NASDAQ Composite -2.43% · NASDAQ 100 -2.53%.",
-    "breadth": "2 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
-    "advancers": 2,
-    "decliners": 18,
+    "headline": "Πτωτική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 -1.97% · NASDAQ Composite -2.50% · NASDAQ 100 -2.65%.",
+    "breadth": "3 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
+    "advancers": 3,
+    "decliners": 17,
     "indices": [
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "change": -1.9237813869158567,
-        "price": 7416.2,
-        "time": 1794857892
+        "change": -1.970596442320284,
+        "price": 7412.66,
+        "time": 1794860995
       },
       {
         "symbol": "^IXIC",
         "name": "NASDAQ Composite",
-        "change": -2.425152686716924,
-        "price": 24526.68,
-        "time": 1794857890
+        "change": -2.499189120041787,
+        "price": 24508.07,
+        "time": 1794860996
       },
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
-        "change": -2.5318876473782916,
-        "price": 27236.232,
-        "time": 1794857892
+        "change": -2.651868025091559,
+        "price": 27202.705,
+        "time": 1794860997
       }
     ],
     "leaders": [
       {
         "symbol": "COST",
         "name": "Costco",
-        "change": 0.27164824038834234,
+        "change": 0.4596776380614925,
+        "sector": "consumer"
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart",
+        "change": 0.10149113904285693,
         "sector": "consumer"
       },
       {
         "symbol": "V",
         "name": "Visa",
-        "change": 0.06811349116873837,
+        "change": 0.03523111612176675,
         "sector": "finance"
-      },
-      {
-        "symbol": "WMT",
-        "name": "Walmart",
-        "change": -0.007807010695597552,
-        "sector": "consumer"
       }
     ],
     "laggards": [
       {
         "symbol": "ORCL",
         "name": "Oracle",
-        "change": -5.23733546071001,
+        "change": -5.488631830873551,
         "sector": "technology"
       },
       {
         "symbol": "AMD",
         "name": "AMD",
-        "change": -5.147361719656959,
+        "change": -5.4714826049507455,
         "sector": "chips"
       },
       {
         "symbol": "PLTR",
         "name": "Palantir",
-        "change": -4.509196976010487,
+        "change": -5.044943151378072,
         "sector": "technology"
       }
     ],
-    "strongestNews": [
-      {
-        "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-        "source": "MarketWatch",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-16T18:54:00.000Z"
-      },
-      {
-        "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-        "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-        "source": "Yahoo Finance",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-16T14:33:42.000Z"
-      },
-      {
-        "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-        "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-        "source": "Yahoo Finance",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-16T14:24:53.000Z"
-      }
-    ],
-    "asOf": 1794857892
+    "strongestNews": [],
+    "asOf": 1794860997
   },
   "moves": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "change": -1.9237813869158567,
-      "price": 7416.2,
-      "intradayMove": -1.9237813869158567,
-      "movement": "S&P 500: πτωτική μεταβολή 1.92% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -1.970596442320284,
+      "price": 7412.66,
+      "intradayMove": -1.970596442320284,
+      "movement": "S&P 500: πτωτική μεταβολή 1.97% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ Composite",
-      "change": -2.425152686716924,
-      "price": 24526.68,
-      "intradayMove": -2.425152686716924,
-      "movement": "NASDAQ Composite: πτωτική μεταβολή 2.43% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -2.499189120041787,
+      "price": 24508.07,
+      "intradayMove": -2.499189120041787,
+      "movement": "NASDAQ Composite: πτωτική μεταβολή 2.50% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "^NDX",
       "name": "NASDAQ 100",
-      "change": -2.5318876473782916,
-      "price": 27236.232,
-      "intradayMove": -2.5318876473782916,
-      "movement": "NASDAQ 100: πτωτική μεταβολή 2.53% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -2.651868025091559,
+      "price": 27202.705,
+      "intradayMove": -2.651868025091559,
+      "movement": "NASDAQ 100: πτωτική μεταβολή 2.65% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "ORCL",
       "name": "Oracle",
-      "change": -5.23733546071001,
-      "price": 118.785,
-      "intradayMove": -5.23733546071001,
-      "movement": "Oracle: πτωτική μεταβολή 5.24% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 2.71 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -5.488631830873551,
+      "price": 118.47,
+      "intradayMove": -5.488631830873551,
+      "movement": "Oracle: πτωτική μεταβολή 5.49% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 2.84 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now? - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-          "publishedAt": "2026-11-16T12:53:00.000Z",
-          "domain": "uk.finance.yahoo.com",
-          "source": "Yahoo Finance UK",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance UK",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-              "domain": "uk.finance.yahoo.com"
-            }
-          ],
-          "importance": 64,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "change": -5.147361719656959,
-      "price": 506.57,
-      "intradayMove": -5.147361719656959,
-      "movement": "AMD: πτωτική μεταβολή 5.15% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 2.62 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -5.4714826049507455,
+      "price": 504.839,
+      "intradayMove": -5.4714826049507455,
+      "movement": "AMD: πτωτική μεταβολή 5.47% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 2.82 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "change": -4.509196976010487,
-      "price": 160.415,
-      "intradayMove": -4.509196976010487,
-      "movement": "Palantir: πτωτική μεταβολή 4.51% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 1.98 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -5.044943151378072,
+      "price": 159.515,
+      "intradayMove": -5.044943151378072,
+      "movement": "Palantir: πτωτική μεταβολή 5.04% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 2.39 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now? - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-          "publishedAt": "2026-11-16T12:53:00.000Z",
-          "domain": "uk.finance.yahoo.com",
-          "source": "Yahoo Finance UK",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance UK",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-              "domain": "uk.finance.yahoo.com"
-            }
-          ],
-          "importance": 64,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.298Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "change": -4.307645072152279,
-      "price": 155.835,
-      "intradayMove": -4.307645072152279,
-      "movement": "NVIDIA: πτωτική μεταβολή 4.31% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 1.78 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -4.494933988332818,
+      "price": 155.53,
+      "intradayMove": -4.494933988332818,
+      "movement": "NVIDIA: πτωτική μεταβολή 4.49% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 1.84 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.299Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "change": -3.9350450995648463,
-      "price": 333.355,
-      "intradayMove": -3.9350450995648463,
-      "movement": "Broadcom: πτωτική μεταβολή 3.94% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 1.40 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -4.190080977493434,
+      "price": 332.47,
+      "intradayMove": -4.190080977493434,
+      "movement": "Broadcom: πτωτική μεταβολή 4.19% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 1.54 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-          "publishedAt": "2026-11-16T14:33:42.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRVNUZveFlyMzN1YXlaNndmR0QzaGFwNjR5X1FVS2hXa21zV2VxWVJCQ09KNC1ib2c4QTZ1djNDMlE4Qm42S3U5Zk9YRGZYR3NVV3lZM1hJNVRDRjBsUldMNDRLNWZTRmd4TThDWFRDWGZxT0hUSDM1Rlp3VVZZamNkX2FsdE1YWFNEYm1aa2NDWjhzOWRxTUhfbkY2dGJUWEoxRXVOSGhTOE5mal8yOGp6ZHZWcV9HMXdTX3lkZjJuT2JzVWlLb1RR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-          "publishedAt": "2026-11-16T14:24:53.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.299Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
-      "change": -3.6413429353889786,
-      "price": 285,
-      "intradayMove": -3.6413429353889786,
-      "movement": "Alphabet: πτωτική μεταβολή 3.64% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 1.11 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -3.815464719207482,
+      "price": 284.485,
+      "intradayMove": -3.815464719207482,
+      "movement": "Alphabet: πτωτική μεταβολή 3.82% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 1.16 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 75,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now? - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-          "publishedAt": "2026-11-16T12:53:00.000Z",
-          "domain": "uk.finance.yahoo.com",
-          "source": "Yahoo Finance UK",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance UK",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
-              "domain": "uk.finance.yahoo.com"
-            }
-          ],
-          "importance": 64,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-16T19:38:13.299Z"
+      "articles": [],
+      "updatedAt": "2026-11-16T20:29:59.986Z"
     }
   ]
 }
