@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-16T21:25:16.255Z",
+  "updatedAt": "2026-11-16T22:17:42.839Z",
   "quotes": {
     "^GSPC": {
       "price": 7416.59,
@@ -14,14 +14,14 @@
     "^IXIC": {
       "price": 24509.758,
       "change": -2.492473725122254,
-      "time": 1794864315,
+      "time": 1794867359,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^NDX": {
       "price": 27197.152,
       "change": -2.6717400994627294,
-      "time": 1794864313,
+      "time": 1794867359,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
@@ -185,14 +185,14 @@
         "name": "NASDAQ Composite",
         "change": -2.492473725122254,
         "price": 24509.758,
-        "time": 1794864315
+        "time": 1794867359
       },
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
         "change": -2.6717400994627294,
         "price": 27197.152,
-        "time": 1794864313
+        "time": 1794867359
       }
     ],
     "leaders": [
@@ -250,7 +250,7 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
         "source": "MarketWatch",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-16T18:54:00.000Z"
+        "publishedAt": "2026-11-16T21:17:00.000Z"
       },
       {
         "title": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides - Yahoo Finance",
@@ -261,7 +261,7 @@
         "publishedAt": "2026-11-16T17:45:02.000Z"
       }
     ],
-    "asOf": 1794864315
+    "asOf": 1794867359
   },
   "moves": [
     {
@@ -290,7 +290,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 50,
+          "importance": 49,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -311,7 +311,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -319,7 +319,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -332,13 +332,13 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.254Z"
+      "updatedAt": "2026-11-16T22:17:42.838Z"
     },
     {
       "symbol": "^IXIC",
@@ -366,7 +366,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -374,7 +374,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -387,7 +387,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -408,13 +408,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
+          "importance": 67,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.254Z"
+      "updatedAt": "2026-11-16T22:17:42.838Z"
     },
     {
       "symbol": "^NDX",
@@ -442,7 +442,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -450,7 +450,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -463,7 +463,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -484,13 +484,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
+          "importance": 67,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.254Z"
+      "updatedAt": "2026-11-16T22:17:42.838Z"
     },
     {
       "symbol": "AMD",
@@ -505,7 +505,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -518,7 +518,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -539,7 +539,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 63,
           "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -560,13 +560,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.254Z"
+      "updatedAt": "2026-11-16T22:17:42.838Z"
     },
     {
       "symbol": "ORCL",
@@ -594,7 +594,7 @@
               "domain": "uk.finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 61,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -602,7 +602,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -615,7 +615,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -636,13 +636,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.255Z"
+      "updatedAt": "2026-11-16T22:17:42.839Z"
     },
     {
       "symbol": "PLTR",
@@ -657,7 +657,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -670,7 +670,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -691,7 +691,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -712,13 +712,13 @@
               "domain": "uk.finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 61,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.255Z"
+      "updatedAt": "2026-11-16T22:17:42.839Z"
     },
     {
       "symbol": "NVDA",
@@ -746,7 +746,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -767,7 +767,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
+          "importance": 67,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -788,13 +788,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.255Z"
+      "updatedAt": "2026-11-16T22:17:42.839Z"
     },
     {
       "symbol": "GOOGL",
@@ -809,7 +809,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -822,7 +822,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -843,7 +843,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -864,13 +864,13 @@
               "domain": "uk.finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 61,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.255Z"
+      "updatedAt": "2026-11-16T22:17:42.839Z"
     },
     {
       "symbol": "AVGO",
@@ -898,7 +898,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 63,
           "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -906,7 +906,7 @@
         {
           "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
-          "publishedAt": "2026-11-16T18:54:00.000Z",
+          "publishedAt": "2026-11-16T21:17:00.000Z",
           "domain": "marketwatch.com",
           "source": "MarketWatch",
           "description": "",
@@ -919,7 +919,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 73,
+          "importance": 75,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -940,13 +940,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T21:25:16.255Z"
+      "updatedAt": "2026-11-16T22:17:42.839Z"
     }
   ]
 }
