@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-16T03:35:33.163Z",
+  "updatedAt": "2026-11-16T05:04:11.423Z",
   "quotes": {
     "^GSPC": {
       "price": 7561.67,
@@ -290,13 +290,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.421Z"
     },
     {
       "symbol": "^IXIC",
@@ -324,13 +345,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.421Z"
     },
     {
       "symbol": "^NDX",
@@ -358,13 +400,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "AMD",
@@ -392,7 +455,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -413,13 +476,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "AVGO",
@@ -447,7 +531,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -468,13 +552,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "META",
@@ -502,7 +607,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -523,13 +628,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.162Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "PLTR",
@@ -557,7 +683,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -578,13 +704,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.163Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "NVDA",
@@ -612,7 +759,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 69,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -633,7 +780,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -654,13 +801,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.163Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     },
     {
       "symbol": "TSLA",
@@ -688,13 +835,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 60,
           "whyItMatters": "Το σχόλιο υποδηλώνει ότι ο περιορισμός του πληθωρισμού παραμένει προτεραιότητα για τη Fed. Αν οι αγορές το εκλάβουν ως ένδειξη για υψηλότερα επιτόκια για περισσότερο, αυτό συνήθως βαραίνει τις αποτιμήσεις ανάπτυξης και ιδιαίτερα τις τεχνολογικές μετοχές. Έλεγχος: αποδόσεις ομολόγων και προσδοκίες επιτοκίων.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+          "publishedAt": "2026-11-15T09:26:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 49,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-16T03:35:33.163Z"
+      "updatedAt": "2026-11-16T05:04:11.422Z"
     }
   ]
 }
