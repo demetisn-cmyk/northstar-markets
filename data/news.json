@@ -1,31 +1,6 @@
 {
-  "at": 1794988962805,
+  "at": 1794992787283,
   "articles": [
-    {
-      "title": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
-      "publishedAt": "2026-11-18T05:39:12.000Z",
-      "domain": "benzinga.com",
-      "source": "Benzinga",
-      "description": "",
-      "category": "company",
-      "corroborations": 2,
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
-          "domain": "benzinga.com"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeGh2bW9Zck5TV3ZabktkSzBGRGt1ejAwT3NSQndsaHZxWTBhRU5BZ29ielpBNlhaV3JMX1Nib1ZYaUtMVmRURXplbjVEMGE4b1d0c2V6bUN5ZHFldzcybzdBUW5vbTRjeHV1MzVfUHh3eUZhUzlPV09sT283RUpxbGZHazM4M2xITklFbkdfVmdqb2IyUUNTdmhLWWNVVV95b0RIRlpualYyTEtoZy1VS3ZqMkt2UXRDY205eEx2aWtYcnZ3U25ia3pZb0lzbTI0NmJodkVDTFB1bUlhZi1JTkRHWktKVU4yZ25IbDBIWkNqdWd5M1hvZmtvVGJMT2tM?oc=5",
-          "domain": "tradingview.com"
-        }
-      ],
-      "importance": 69,
-      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
-      "confidence": "Χαμηλή"
-    },
     {
       "title": "U.S. Stocks Fall as AI Doubts Fester - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dvYzJxNUllRm1DbUZPMlQ5eXlXYTRhRHdzZzFQdDVGVXlwOEUzalU0M3p6c3BXc0FTbTZZdXhTZ0R2a2E0dk11bXcwb1ExMUJQdXNab2ZucHNPQVhkamZQVmYwVG54WmtOLUIxbkZHSmRtWERZR1dDQVVZTVZ1VnBnYWhxZw?oc=5",
@@ -42,74 +17,14 @@
           "domain": "wsj.com"
         }
       ],
-      "importance": 69,
+      "importance": 67,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Salesforce (CRM) Gets Hammered as Traders Hit Sell Button - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHpqeFl6dHBnWmRSTEdRS3JrLW0tTVhQbEp2V1BZbkg5cHJackZDQ2FrQnFTdmdMRldpVVBYei1uVWdSZ3NaQU96Yy15dWdwV2JmSi1KTWRXc2x3VGZkWGZmMFNFdXpHdTNHSy1TUi1TeFVsajVSSEd2N3lOUVBHSDZreHlvd3NiSEFzMG5XUUxqUTBoc0Z2ZWp0eTMzS3RrMzAw?oc=5",
-      "publishedAt": "2026-11-18T04:56:00.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHpqeFl6dHBnWmRSTEdRS3JrLW0tTVhQbEp2V1BZbkg5cHJackZDQ2FrQnFTdmdMRldpVVBYei1uVWdSZ3NaQU96Yy15dWdwV2JmSi1KTWRXc2x3VGZkWGZmMFNFdXpHdTNHSy1TUi1TeFVsajVSSEd2N3lOUVBHSDZreHlvd3NiSEFzMG5XUUxqUTBoc0Z2ZWp0eTMzS3RrMzAw?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 68,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-      "publishedAt": "2026-11-17T21:46:00.000Z",
-      "domain": "barrons.com",
-      "source": "Barron's",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-          "domain": "barrons.com"
-        }
-      ],
-      "importance": 64,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORkZHWDR3ZUhncjV1akxHdlZHdTJwQkVTN19NODZGd3liaHlXZ2J1ejJVS1V5TGN6ejF3NElLUjVmR2FJa082Z2U4U3BoZnpuZUJ0czZRU0tfWHdMMmtwQ1luXzE4dUI5UzR0ckMzZTVrd2Eyc1RCX2N6cWF2TkgxVEQzajJtanhYYXhNODBpNXNrX25wX1hjeThhVEdodng5Wk9ydURmQ1k5aFh2ako0X005Y1NkcENsRXVwdy1rX29CWjVlOHp3RGV4NE9iRHpraDgxUk91RlZVLUNfcm1xbGNfdkVqSGRFVEUxZ1dqeDRqTmdVeEI3aXA1Zw?oc=5",
-      "publishedAt": "2026-11-17T18:17:36.000Z",
-      "domain": "news.microsoft.com",
-      "source": "Microsoft Source",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Microsoft Source",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORkZHWDR3ZUhncjV1akxHdlZHdTJwQkVTN19NODZGd3liaHlXZ2J1ejJVS1V5TGN6ejF3NElLUjVmR2FJa082Z2U4U3BoZnpuZUJ0czZRU0tfWHdMMmtwQ1luXzE4dUI5UzR0ckMzZTVrd2Eyc1RCX2N6cWF2TkgxVEQzajJtanhYYXhNODBpNXNrX25wX1hjeThhVEdodng5Wk9ydURmQ1k5aFh2ako0X005Y1NkcENsRXVwdy1rX29CWjVlOHp3RGV4NE9iRHpraDgxUk91RlZVLUNfcm1xbGNfdkVqSGRFVEUxZ1dqeDRqTmdVeEI3aXA1Zw?oc=5",
-          "domain": "news.microsoft.com"
-        }
-      ],
-      "importance": 64,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
     {
       "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-      "publishedAt": "2026-11-18T07:01:00.000Z",
+      "publishedAt": "2026-11-18T08:34:28.000Z",
       "domain": "bloomberg.com",
       "source": "Bloomberg.com",
       "description": "",
@@ -120,26 +35,6 @@
           "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
           "domain": "bloomberg.com"
-        }
-      ],
-      "importance": 61,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-      "publishedAt": "2026-11-17T22:25:04.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-          "domain": "finance.yahoo.com"
         }
       ],
       "importance": 61,
@@ -162,7 +57,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 61,
+      "importance": 60,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -182,47 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 58,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "AMD Expects Its CPU Revenue to Double in 2027. Is NVIDIA’s Turmoil AMD’s Opening? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQS1VNjFRWUxReHZERF9KalFEWW5yUVNPTGRfOHVYMWxfS2hZd2NqU0dDYjlwMkdHcUg2NHVmaHl0TGZtLUc0ei1qMldNaU5xSzN1aTJ4Xy1JeGZZTTdvVEJQczh6V2dVUEpFTnpXeWZuWWxQNmQ2OUg0LVZxZWY1cEtScmJvNUZyQ281V2pvMDF0SUNET1BxOXdfbw?oc=5",
-      "publishedAt": "2026-11-17T16:04:41.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQS1VNjFRWUxReHZERF9KalFEWW5yUVNPTGRfOHVYMWxfS2hZd2NqU0dDYjlwMkdHcUg2NHVmaHl0TGZtLUc0ei1qMldNaU5xSzN1aTJ4Xy1JeGZZTTdvVEJQczh6V2dVUEpFTnpXeWZuWWxQNmQ2OUg0LVZxZWY1cEtScmJvNUZyQ281V2pvMDF0SUNET1BxOXdfbw?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 54,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Nvidia’s Earnings Call Is a High-Stakes Moment - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUVyanpxMDNKa0NNX3BKVTltTzN1UW5FdUdBTnpDc1dZV1YwVHoxUGNGd01rdF9HSGRHYTNHYVZGWmFOSGQzdmh6LW8wQ0xuNjFJQVBIR1h4OURaTUo0OTNqaHJvajhHSllYbXBrZ19IS1pUUVUtRTRaQkd4MEtEbmlmWDBoSXNYV0E?oc=5",
-      "publishedAt": "2026-11-17T13:02:17.000Z",
-      "domain": "nytimes.com",
-      "source": "The New York Times",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUVyanpxMDNKa0NNX3BKVTltTzN1UW5FdUdBTnpDc1dZV1YwVHoxUGNGd01rdF9HSGRHYTNHYVZGWmFOSGQzdmh6LW8wQ0xuNjFJQVBIR1h4OURaTUo0OTNqaHJvajhHSllYbXBrZ19IS1pUUVUtRTRaQkd4MEtEbmlmWDBoSXNYV0E?oc=5",
-          "domain": "nytimes.com"
-        }
-      ],
-      "importance": 54,
+      "importance": 56,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -242,7 +97,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 47,
+      "importance": 46,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -262,13 +117,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 47,
+      "importance": 46,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-18T08:02:42.805Z",
+  "checkedAt": "2026-11-18T09:06:27.283Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
