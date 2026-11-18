@@ -1,5 +1,5 @@
 {
-  "at": 1795020025896,
+  "at": 1795023560330,
   "articles": [
     {
       "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
@@ -17,7 +17,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 80,
+      "importance": 79,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +37,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +57,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 65,
+      "importance": 64,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -102,8 +102,28 @@
           "domain": "tradingview.com"
         }
       ],
-      "importance": 59,
+      "importance": 58,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Stocks drop as booming Nvidia results drowned by spy scandal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWw3VDBHVXpMbGJzaFpKS0xHQ1doeVdtcUhWOGZsZW9Ka2xoeXlCcWtYenBMZzVIOFR0ekJNcU9sOVRUWFV6akloaEtHY05HbnZ1Sk9XckxrY0ZYMmI2TmhvZjdEVGowZGtIbVBFN1hPcEtjcEx4T3FYWkZObnRXel9QWGZ0U1Y0M3I2TjBRc2JkN1NrREVIeFRObzItX19J?oc=5",
+      "publishedAt": "2026-11-18T02:45:00.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWw3VDBHVXpMbGJzaFpKS0xHQ1doeVdtcUhWOGZsZW9Ka2xoeXlCcWtYenBMZzVIOFR0ekJNcU9sOVRUWFV6akloaEtHY05HbnZ1Sk9XckxrY0ZYMmI2TmhvZjdEVGowZGtIbVBFN1hPcEtjcEx4T3FYWkZObnRXel9QWGZ0U1Y0M3I2TjBRc2JkN1NrREVIeFRObzItX19J?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 55,
+      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
@@ -122,7 +142,7 @@
           "domain": "news.microsoft.com"
         }
       ],
-      "importance": 54,
+      "importance": 53,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -142,13 +162,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 50,
+      "importance": 49,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-18T16:40:25.896Z",
+  "checkedAt": "2026-11-18T17:39:20.330Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
