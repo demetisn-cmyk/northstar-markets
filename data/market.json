@@ -1,238 +1,238 @@
 {
   "mode": "live",
-  "marketState": "CLOSED",
+  "marketState": "REGULAR",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-18T13:38:21.192Z",
+  "updatedAt": "2026-11-18T14:34:37.839Z",
   "quotes": {
     "^GSPC": {
-      "price": 7340.53,
-      "change": -1.0255386909617545,
-      "time": 1794951732,
+      "price": 7358.24,
+      "change": 0.24126323303630715,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^IXIC": {
-      "price": 24328.383,
-      "change": -0.7400113864853337,
-      "time": 1794953759,
+      "price": 24478.967,
+      "change": 0.6189642772394651,
+      "time": 1795012473,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^NDX": {
-      "price": 27001.785,
-      "change": -0.7183362434419545,
-      "time": 1794953759,
+      "price": 27155.713,
+      "change": 0.5700660160059784,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AAPL": {
-      "price": 351.91,
-      "change": -0.2466126197630103,
-      "time": 1794949201,
+      "price": 353.95,
+      "change": 0.5796936716774072,
+      "time": 1795012475,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "MSFT": {
-      "price": 506.24,
-      "change": -2.2683835595281763,
-      "time": 1794949201,
+      "price": 506.275,
+      "change": 0.006913716814153004,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NVDA": {
-      "price": 155.46,
-      "change": -0.4355065966440236,
-      "time": 1794949200,
+      "price": 159.155,
+      "change": 2.376817187701012,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMZN": {
-      "price": 257.89,
-      "change": 0.05431619786614408,
-      "time": 1794949201,
+      "price": 261.895,
+      "change": 1.552987707937491,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "GOOGL": {
-      "price": 280.2,
-      "change": -1.2406598054419986,
-      "time": 1794949200,
+      "price": 283.64,
+      "change": 1.2276945039257665,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "META": {
-      "price": 618.87,
-      "change": -1.2036844877955275,
-      "time": 1794949201,
+      "price": 617.665,
+      "change": -0.19470971286377445,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "BRK-B": {
-      "price": 586.76,
-      "change": -1.0272412920637652,
-      "time": 1794949318,
+      "price": 582.75,
+      "change": -0.7324759390171118,
+      "time": 1795012475,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AVGO": {
-      "price": 341.6,
-      "change": 2.4595080983803377,
-      "time": 1794949201,
+      "price": 348.8,
+      "change": 2.1077283372365305,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "TSLA": {
-      "price": 380.11,
-      "change": 0.0974350871649035,
-      "time": 1794949201,
+      "price": 381.16,
+      "change": 0.2762358264712876,
+      "time": 1795012477,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "JPM": {
-      "price": 329.96,
-      "change": -2.4393128529611783,
-      "time": 1794949202,
+      "price": 328.8,
+      "change": -0.36061698839358697,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "WMT": {
-      "price": 127.52,
-      "change": -0.6930924382836232,
-      "time": 1794949200,
+      "price": 126.27,
+      "change": -0.9802383939774153,
+      "time": 1795012475,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "LLY": {
-      "price": 1415.55,
-      "change": -1.1259577975371502,
-      "time": 1794949263,
+      "price": 1419.21,
+      "change": 0.26705665416163094,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "ORCL": {
-      "price": 115,
-      "change": -3.434377361659252,
-      "time": 1794949441,
+      "price": 115.76,
+      "change": 0.6083782374413375,
+      "time": 1795012475,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NFLX": {
-      "price": 59.68,
-      "change": -1.761316872427984,
-      "time": 1794949200,
+      "price": 59.93,
+      "change": 0.41890080428954424,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "V": {
-      "price": 416.77,
-      "change": -2.27219434413544,
-      "time": 1794949203,
+      "price": 416.783,
+      "change": -0.046045926014750826,
+      "time": 1795012472,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "COST": {
-      "price": 1110.08,
-      "change": -0.3286224792141866,
-      "time": 1794949200,
+      "price": 1107.16,
+      "change": -0.26304410492936053,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "XOM": {
-      "price": 167.21,
-      "change": 0.20375142326362042,
-      "time": 1794949411,
+      "price": 165.441,
+      "change": -1.0638679583781823,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMD": {
-      "price": 503.41,
-      "change": -0.17252320139603947,
-      "time": 1794949200,
+      "price": 512.695,
+      "change": 1.8444210484495789,
+      "time": 1795012476,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "CRM": {
-      "price": 194.52,
-      "change": -9.453986873341712,
-      "time": 1794949202,
+      "price": 189.93,
+      "change": -2.4098242729421426,
+      "time": 1795012475,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "PLTR": {
-      "price": 156.56,
-      "change": -2.387929422033783,
-      "time": 1794949200,
+      "price": 157.61,
+      "change": 0.6706693919264253,
+      "time": 1795012477,
       "currency": "USD",
       "marketState": "UNKNOWN"
     }
   },
   "pulse": {
-    "marketState": "CLOSED",
-    "headline": "Η αγορά των ΗΠΑ είναι κλειστή. Τελευταίες διαθέσιμες τιμές: S&P 500 -1.03% · NASDAQ Composite -0.74% · NASDAQ 100 -0.72%.",
-    "breadth": "4 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
-    "advancers": 4,
-    "decliners": 16,
+    "marketState": "REGULAR",
+    "headline": "Μικτή / κοντά στο μηδέν εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 +0.24% · NASDAQ Composite +0.62% · NASDAQ 100 +0.57%.",
+    "breadth": "12 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
+    "advancers": 12,
+    "decliners": 8,
     "indices": [
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "change": -1.0255386909617545,
-        "price": 7340.53,
-        "time": 1794951732
+        "change": 0.24126323303630715,
+        "price": 7358.24,
+        "time": 1795012476
       },
       {
         "symbol": "^IXIC",
         "name": "NASDAQ Composite",
-        "change": -0.7400113864853337,
-        "price": 24328.383,
-        "time": 1794953759
+        "change": 0.6189642772394651,
+        "price": 24478.967,
+        "time": 1795012473
       },
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
-        "change": -0.7183362434419545,
-        "price": 27001.785,
-        "time": 1794953759
+        "change": 0.5700660160059784,
+        "price": 27155.713,
+        "time": 1795012476
       }
     ],
     "leaders": [
       {
-        "symbol": "AVGO",
-        "name": "Broadcom",
-        "change": 2.4595080983803377,
+        "symbol": "NVDA",
+        "name": "NVIDIA",
+        "change": 2.376817187701012,
         "sector": "chips"
       },
       {
-        "symbol": "XOM",
-        "name": "Exxon",
-        "change": 0.20375142326362042,
-        "sector": "energy"
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "change": 2.1077283372365305,
+        "sector": "chips"
       },
       {
-        "symbol": "TSLA",
-        "name": "Tesla",
-        "change": 0.0974350871649035,
-        "sector": "consumer"
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": 1.8444210484495789,
+        "sector": "chips"
       }
     ],
     "laggards": [
       {
         "symbol": "CRM",
         "name": "Salesforce",
-        "change": -9.453986873341712,
+        "change": -2.4098242729421426,
         "sector": "technology"
       },
       {
-        "symbol": "ORCL",
-        "name": "Oracle",
-        "change": -3.434377361659252,
-        "sector": "technology"
+        "symbol": "XOM",
+        "name": "Exxon",
+        "change": -1.0638679583781823,
+        "sector": "energy"
       },
       {
-        "symbol": "JPM",
-        "name": "JPMorgan",
-        "change": -2.4393128529611783,
-        "sector": "finance"
+        "symbol": "WMT",
+        "name": "Walmart",
+        "change": -0.9802383939774153,
+        "sector": "consumer"
       }
     ],
     "strongestNews": [
@@ -245,35 +245,77 @@
         "publishedAt": "2026-11-18T11:38:00.000Z"
       },
       {
-        "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-        "source": "Yahoo Finance",
+        "title": "US stock market today: Nasdaq futures rise after Nvidia earnings; Dow futures slip - CNBC TV18",
+        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+        "source": "CNBC TV18",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-18T10:26:01.000Z"
+        "publishedAt": "2026-11-18T13:50:03.000Z"
       },
       {
-        "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears - Yahoo Finance",
-        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnQ3bGYwZFhFLTEzMVdzV2Z4cEZiMkxna0hCcEVValRhUU1GM0hFa1NlbGt4c0JEbTFFcWxWeVJ5S3g4UmluZ0xnT3JzeGw0dmd0dkU4TDRGMjdmVTJfSkdRdGpsM25YSkRyemJDNFBSbXZtb2tfZXpBLUpyUGMtWHBJZ0IxRkdLMklFQlI3ajBzNGNYV3pQOXNmeWEwWnEwWEE?oc=5",
-        "source": "Yahoo Finance",
+        "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+        "source": "CNBC",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-18T09:37:00.000Z"
+        "publishedAt": "2026-11-18T12:20:11.000Z"
       }
     ],
-    "asOf": 1794953759
+    "asOf": 1795012476
   },
   "moves": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "change": -1.0255386909617545,
-      "price": 7340.53,
-      "intradayMove": -1.0255386909617545,
-      "movement": "S&P 500: πτωτική μεταβολή 1.03% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 0.24126323303630715,
+      "price": 7358.24,
+      "intradayMove": 0.24126323303630715,
+      "movement": "S&P 500: ανοδική μεταβολή 0.24% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "US stock market today: Nasdaq futures rise after Nvidia earnings; Dow futures slip - CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+          "publishedAt": "2026-11-18T13:50:03.000Z",
+          "domain": "cnbctv18.com",
+          "source": "CNBC TV18",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+              "domain": "cnbctv18.com"
+            }
+          ],
+          "importance": 75,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+          "publishedAt": "2026-11-18T12:20:11.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 73,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
@@ -290,66 +332,66 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-          "publishedAt": "2026-11-18T09:20:57.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
           "importance": 67,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US Stocks Rise as Nvidia Outlook Tempers AI Fears: Markets Wrap - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-          "publishedAt": "2026-11-18T13:02:38.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 61,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.838Z"
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ Composite",
-      "change": -0.7400113864853337,
-      "price": 24328.383,
-      "intradayMove": -0.7400113864853337,
-      "movement": "NASDAQ Composite: πτωτική μεταβολή 0.74% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 0.6189642772394651,
+      "price": 24478.967,
+      "intradayMove": 0.6189642772394651,
+      "movement": "NASDAQ Composite: ανοδική μεταβολή 0.62% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "US stock market today: Nasdaq futures rise after Nvidia earnings; Dow futures slip - CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+          "publishedAt": "2026-11-18T13:50:03.000Z",
+          "domain": "cnbctv18.com",
+          "source": "CNBC TV18",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+              "domain": "cnbctv18.com"
+            }
+          ],
+          "importance": 75,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+          "publishedAt": "2026-11-18T12:20:11.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 73,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
@@ -366,66 +408,66 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-          "publishedAt": "2026-11-18T09:20:57.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
           "importance": 67,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US Stocks Rise as Nvidia Outlook Tempers AI Fears: Markets Wrap - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-          "publishedAt": "2026-11-18T13:02:38.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 61,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     },
     {
       "symbol": "^NDX",
       "name": "NASDAQ 100",
-      "change": -0.7183362434419545,
-      "price": 27001.785,
-      "intradayMove": -0.7183362434419545,
-      "movement": "NASDAQ 100: πτωτική μεταβολή 0.72% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 0.5700660160059784,
+      "price": 27155.713,
+      "intradayMove": 0.5700660160059784,
+      "movement": "NASDAQ 100: ανοδική μεταβολή 0.57% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "US stock market today: Nasdaq futures rise after Nvidia earnings; Dow futures slip - CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+          "publishedAt": "2026-11-18T13:50:03.000Z",
+          "domain": "cnbctv18.com",
+          "source": "CNBC TV18",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+              "domain": "cnbctv18.com"
+            }
+          ],
+          "importance": 75,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+          "publishedAt": "2026-11-18T12:20:11.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 73,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
@@ -442,64 +484,22 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-          "publishedAt": "2026-11-18T09:20:57.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
           "importance": 67,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US Stocks Rise as Nvidia Outlook Tempers AI Fears: Markets Wrap - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-          "publishedAt": "2026-11-18T13:02:38.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 61,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     },
     {
       "symbol": "CRM",
       "name": "Salesforce",
-      "change": -9.453986873341712,
-      "price": 194.52,
-      "intradayMove": -9.453986873341712,
-      "movement": "Salesforce: πτωτική μεταβολή 9.45% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 8.74 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -2.4098242729421426,
+      "price": 189.93,
+      "intradayMove": -2.4098242729421426,
+      "movement": "Salesforce: πτωτική μεταβολή 2.41% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 2.98 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
@@ -518,7 +518,7 @@
               "domain": "news.microsoft.com"
             }
           ],
-          "importance": 58,
+          "importance": 57,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -539,119 +539,124 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+          "publishedAt": "2026-11-18T12:20:11.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+              "domain": "cnbc.com"
             }
           ],
-          "importance": 68,
+          "importance": 73,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     },
     {
-      "symbol": "ORCL",
-      "name": "Oracle",
-      "change": -3.434377361659252,
-      "price": 115,
-      "intradayMove": -3.434377361659252,
-      "movement": "Oracle: πτωτική μεταβολή 3.43% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 2.72 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "change": 2.376817187701012,
+      "price": 159.155,
+      "intradayMove": 2.376817187701012,
+      "movement": "NVIDIA: ανοδική μεταβολή 2.38% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.81 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEg1QUlnRmtFd2NoV01JWWc5OV95U3hMMW9EVkhoR2c2cHllUDNETER4ejJKbXdpdWlKYTJuelpQcFdCWjRBZmdNc09EOWNsMXY2dGZZVEQxM2lTOVdIeW14U3M3VzU3UEZhc2F1eHR4RHJNYlNSY1NkcElfck5MbzVTWHNrRl8yM21iV1htZ01Ra0RtX0xzanYxX1dBMENZMnhKUkdUaEFvaHJtUXNj?oc=5",
-          "publishedAt": "2026-11-18T11:38:00.000Z",
-          "domain": "wsj.com",
-          "source": "WSJ",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "WSJ",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEg1QUlnRmtFd2NoV01JWWc5OV95U3hMMW9EVkhoR2c2cHllUDNETER4ejJKbXdpdWlKYTJuelpQcFdCWjRBZmdNc09EOWNsMXY2dGZZVEQxM2lTOVdIeW14U3M3VzU3UEZhc2F1eHR4RHJNYlNSY1NkcElfck5MbzVTWHNrRl8yM21iV1htZ01Ra0RtX0xzanYxX1dBMENZMnhKUkdUaEFvaHJtUXNj?oc=5",
-              "domain": "wsj.com"
-            }
-          ],
-          "importance": 78,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "US stock market today: Nasdaq futures rise after Nvidia earnings; Dow futures slip - CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+          "publishedAt": "2026-11-18T13:50:03.000Z",
+          "domain": "cnbctv18.com",
+          "source": "CNBC TV18",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
+              "domain": "cnbctv18.com"
             }
           ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 75,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
-          "directMatch": false
+          "directMatch": true
         },
         {
-          "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnQ3bGYwZFhFLTEzMVdzV2Z4cEZiMkxna0hCcEVValRhUU1GM0hFa1NlbGt4c0JEbTFFcWxWeVJ5S3g4UmluZ0xnT3JzeGw0dmd0dkU4TDRGMjdmVTJfSkdRdGpsM25YSkRyemJDNFBSbXZtb2tfZXpBLUpyUGMtWHBJZ0IxRkdLMklFQlI3ajBzNGNYV3pQOXNmeWEwWnEwWEE?oc=5",
-          "publishedAt": "2026-11-18T09:37:00.000Z",
+          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
+          "publishedAt": "2026-11-18T09:20:57.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
-          "category": "technology",
+          "category": "company",
           "corroborations": 1,
           "sources": [
             {
               "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnQ3bGYwZFhFLTEzMVdzV2Z4cEZiMkxna0hCcEVValRhUU1GM0hFa1NlbGt4c0JEbTFFcWxWeVJ5S3g4UmluZ0xnT3JzeGw0dmd0dkU4TDRGMjdmVTJfSkdRdGpsM25YSkRyemJDNFBSbXZtb2tfZXpBLUpyUGMtWHBJZ0IxRkdLMklFQlI3ajBzNGNYV3pQOXNmeWEwWnEwWEE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
-          "directMatch": false
+          "directMatch": true
+        },
+        {
+          "title": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
+          "publishedAt": "2026-11-18T05:39:12.000Z",
+          "domain": "benzinga.com",
+          "source": "Benzinga",
+          "description": "",
+          "category": "company",
+          "corroborations": 2,
+          "sources": [
+            {
+              "name": "Benzinga",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
+              "domain": "benzinga.com"
+            },
+            {
+              "name": "TradingView",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeGh2bW9Zck5TV3ZabktkSzBGRGt1ejAwT3NSQndsaHZxWTBhRU5BZ29ielpBNlhaV3JMX1Nib1ZYaUtMVmRURXplbjVEMGE4b1d0c2V6bUN5ZHFldzcybzdBUW5vbTRjeHV1MzVfUHh3eUZhUzlPV09sT283RUpxbGZHazM4M2xITklFbkdfVmdqb2IyUUNTdmhLWWNVVV95b0RIRlpualYyTEtoZy1VS3ZqMkt2UXRDY205eEx2aWtYcnZ3U25ia3pZb0lzbTI0NmJodkVDTFB1bUlhZi1JTkRHWktKVU4yZ25IbDBIWkNqdWd5M1hvZmtvVGJMT2tM?oc=5",
+              "domain": "tradingview.com"
+            }
+          ],
+          "importance": 62,
+          "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "change": 2.4595080983803377,
-      "price": 341.6,
-      "intradayMove": 2.4595080983803377,
-      "movement": "Broadcom: ανοδική μεταβολή 2.46% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 3.18 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 2.1077283372365305,
+      "price": 348.8,
+      "intradayMove": 2.1077283372365305,
+      "movement": "Broadcom: ανοδική μεταβολή 2.11% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.54 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
@@ -670,7 +675,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -691,79 +696,92 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 78,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+          "publishedAt": "2026-11-18T12:20:11.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+              "domain": "cnbc.com"
             }
           ],
-          "importance": 68,
+          "importance": 73,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.191Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     },
     {
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "change": -2.4393128529611783,
-      "price": 329.96,
-      "intradayMove": -2.4393128529611783,
-      "movement": "JPMorgan: πτωτική μεταβολή 2.44% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.41 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "symbol": "AMD",
+      "name": "AMD",
+      "change": 1.8444210484495789,
+      "price": 512.695,
+      "intradayMove": 1.8444210484495789,
+      "movement": "AMD: ανοδική μεταβολή 1.84% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.27 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
+          "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
+          "publishedAt": "2026-11-18T09:20:57.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "company",
           "corroborations": 1,
           "sources": [
             {
               "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 66,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-18T13:38:21.192Z"
-    },
-    {
-      "symbol": "PLTR",
-      "name": "Palantir",
-      "change": -2.387929422033783,
-      "price": 156.56,
-      "intradayMove": -2.387929422033783,
-      "movement": "Palantir: πτωτική μεταβολή 2.39% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.67 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
+          "directMatch": true
+        },
+        {
+          "title": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
+          "publishedAt": "2026-11-18T05:39:12.000Z",
+          "domain": "benzinga.com",
+          "source": "Benzinga",
+          "description": "",
+          "category": "company",
+          "corroborations": 2,
+          "sources": [
+            {
+              "name": "Benzinga",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTF9haEtLSWctOVJPRjJYeVN1LWxxM0s0SFRkQ2NvV1hxME1GaDBBbjk5QmVKT1FYRnRyRm4tVnpLQ2k1blFjOXRpMzFuUEkxckgzWDJaeWF2QlFLY3F2Vm1iUnl1SndVMjN2NE1kSEt2VG9SZkFVZ0l1YWV4QmF5QTVSYTZINzVrYjdiQnlPRE5ETHRuQldCU2M5QkJOY0xxT0pYRmlzUWNibTdTenRHQUNXblpaSDhRQ3VYYklKcUU4US1tbkkybnJPbi1ZaVNyN2JMV2h4SE5Ib20tVGhIZm5rdHpwTFZqbmc4MWVvdER0YTE4eUp6QQ?oc=5",
+              "domain": "benzinga.com"
+            },
+            {
+              "name": "TradingView",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeGh2bW9Zck5TV3ZabktkSzBGRGt1ejAwT3NSQndsaHZxWTBhRU5BZ29ielpBNlhaV3JMX1Nib1ZYaUtMVmRURXplbjVEMGE4b1d0c2V6bUN5ZHFldzcybzdBUW5vbTRjeHV1MzVfUHh3eUZhUzlPV09sT283RUpxbGZHazM4M2xITklFbkdfVmdqb2IyUUNTdmhLWWNVVV95b0RIRlpualYyTEtoZy1VS3ZqMkt2UXRDY205eEx2aWtYcnZ3U25ia3pZb0lzbTI0NmJodkVDTFB1bUlhZi1JTkRHWktKVU4yZ25IbDBIWkNqdWd5M1hvZmtvVGJMT2tM?oc=5",
+              "domain": "tradingview.com"
+            }
+          ],
+          "importance": 62,
+          "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
         {
           "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEg1QUlnRmtFd2NoV01JWWc5OV95U3hMMW9EVkhoR2c2cHllUDNETER4ejJKbXdpdWlKYTJuelpQcFdCWjRBZmdNc09EOWNsMXY2dGZZVEQxM2lTOVdIeW14U3M3VzU3UEZhc2F1eHR4RHJNYlNSY1NkcElfck5MbzVTWHNrRl8yM21iV1htZ01Ra0RtX0xzanYxX1dBMENZMnhKUkdUaEFvaHJtUXNj?oc=5",
@@ -780,89 +798,13 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 78,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnQ3bGYwZFhFLTEzMVdzV2Z4cEZiMkxna0hCcEVValRhUU1GM0hFa1NlbGt4c0JEbTFFcWxWeVJ5S3g4UmluZ0xnT3JzeGw0dmd0dkU4TDRGMjdmVTJfSkdRdGpsM25YSkRyemJDNFBSbXZtb2tfZXpBLUpyUGMtWHBJZ0IxRkdLMklFQlI3ajBzNGNYV3pQOXNmeWEwWnEwWEE?oc=5",
-          "publishedAt": "2026-11-18T09:37:00.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnQ3bGYwZFhFLTEzMVdzV2Z4cEZiMkxna0hCcEVValRhUU1GM0hFa1NlbGt4c0JEbTFFcWxWeVJ5S3g4UmluZ0xnT3JzeGw0dmd0dkU4TDRGMjdmVTJfSkdRdGpsM25YSkRyemJDNFBSbXZtb2tfZXpBLUpyUGMtWHBJZ0IxRkdLMklFQlI3ajBzNGNYV3pQOXNmeWEwWnEwWEE?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 67,
+          "importance": 77,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-18T13:38:21.192Z"
-    },
-    {
-      "symbol": "V",
-      "name": "Visa",
-      "change": -2.27219434413544,
-      "price": 416.77,
-      "intradayMove": -2.27219434413544,
-      "movement": "Visa: πτωτική μεταβολή 2.27% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.25 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-          "publishedAt": "2026-11-18T10:26:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-18T13:38:21.192Z"
+      "updatedAt": "2026-11-18T14:34:37.839Z"
     }
   ]
 }
