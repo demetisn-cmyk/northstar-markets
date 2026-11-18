@@ -1,6 +1,106 @@
 {
-  "at": 1794976876146,
+  "at": 1794980706274,
   "articles": [
+    {
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "url": "https://www.klcc.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+      "publishedAt": "20261118T011500Z",
+      "domain": "klcc.org",
+      "source": "klcc.org",
+      "description": "",
+      "category": "company",
+      "corroborations": 5,
+      "sources": [
+        {
+          "name": "klcc.org",
+          "url": "https://www.klcc.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "domain": "klcc.org"
+        },
+        {
+          "name": "kccu.org",
+          "url": "https://www.kccu.org/business/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "domain": "kccu.org"
+        },
+        {
+          "name": "news.prairiepublic.org",
+          "url": "https://news.prairiepublic.org/news-from-npr/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "domain": "news.prairiepublic.org"
+        },
+        {
+          "name": "kazu.org",
+          "url": "https://www.kazu.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "domain": "kazu.org"
+        },
+        {
+          "name": "kwit.org",
+          "url": "https://www.kwit.org/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "domain": "kwit.org"
+        }
+      ],
+      "importance": 96,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Μέτρια"
+    },
+    {
+      "title": "Jensen Huang signals interest in return to role as Nvidia CEO",
+      "url": "https://www.bnnbloomberg.ca/business/2026/11/17/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo/",
+      "publishedAt": "20261118T011500Z",
+      "domain": "bnnbloomberg.ca",
+      "source": "bnnbloomberg.ca",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "bnnbloomberg.ca",
+          "url": "https://www.bnnbloomberg.ca/business/2026/11/17/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo/",
+          "domain": "bnnbloomberg.ca"
+        }
+      ],
+      "importance": 80,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Nvidia forecasts Q4 revenue above Wall Street estimates",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/",
+      "publishedAt": "20261118T011500Z",
+      "domain": "bnnbloomberg.ca",
+      "source": "bnnbloomberg.ca",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "bnnbloomberg.ca",
+          "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/",
+          "domain": "bnnbloomberg.ca"
+        }
+      ],
+      "importance": 80,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Salesforce (CRM) Gets Hammered as Traders Hit Sell Button - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHpqeFl6dHBnWmRSTEdRS3JrLW0tTVhQbEp2V1BZbkg5cHJackZDQ2FrQnFTdmdMRldpVVBYei1uVWdSZ3NaQU96Yy15dWdwV2JmSi1KTWRXc2x3VGZkWGZmMFNFdXpHdTNHSy1TUi1TeFVsajVSSEd2N3lOUVBHSDZreHlvd3NiSEFzMG5XUUxqUTBoc0Z2ZWp0eTMzS3RrMzAw?oc=5",
+      "publishedAt": "2026-11-18T04:56:00.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHpqeFl6dHBnWmRSTEdRS3JrLW0tTVhQbEp2V1BZbkg5cHJackZDQ2FrQnFTdmdMRldpVVBYei1uVWdSZ3NaQU96Yy15dWdwV2JmSi1KTWRXc2x3VGZkWGZmMFNFdXpHdTNHSy1TUi1TeFVsajVSSEd2N3lOUVBHSDZreHlvd3NiSEFzMG5XUUxqUTBoc0Z2ZWp0eTMzS3RrMzAw?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 71,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "U.S. Stocks Fall as AI Doubts Fester - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1dvYzJxNUllRm1DbUZPMlQ5eXlXYTRhRHdzZzFQdDVGVXlwOEUzalU0M3p6c3BXc0FTbTZZdXhTZ0R2a2E0dk11bXcwb1ExMUJQdXNab2ZucHNPQVhkamZQVmYwVG54WmtOLUIxbkZHSmRtWERZR1dDQVVZTVZ1VnBnYWhxZw?oc=5",
@@ -17,7 +117,7 @@
           "domain": "wsj.com"
         }
       ],
-      "importance": 72,
+      "importance": 71,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +137,7 @@
           "domain": "barrons.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +157,7 @@
           "domain": "news.microsoft.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -77,22 +177,22 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 65,
+      "importance": 64,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap - Bloomberg.com",
+      "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-      "publishedAt": "2026-11-18T03:56:00.000Z",
+      "publishedAt": "2026-11-18T04:58:00.000Z",
       "domain": "bloomberg.com",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "description": "",
       "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Bloomberg.com",
+          "name": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
           "domain": "bloomberg.com"
         }
@@ -117,7 +217,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 61,
+      "importance": 60,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -137,7 +237,7 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 58,
+      "importance": 57,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -157,8 +257,28 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
+      "importance": 56,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkZqOHlrNk03N1dKOXVicFlfT29XdDZ1UGJiT280Y0pHSm9IUkNkR2xHWktBamJvblpMUGd4aVhsbkNHSkhfWmJOa1dqQUdzVkVaaHpiUGNobEFaSFpfeU1UVUtDT2lpREJYbWo2MWJWenVFaUl1RHJ3LXExYlg5MzlSS0ZyT3daLW43TTgtRlMzWjJpTEFiMkxsSUFHMDNj?oc=5",
+      "publishedAt": "2026-11-17T10:32:02.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkZqOHlrNk03N1dKOXVicFlfT29XdDZ1UGJiT280Y0pHSm9IUkNkR2xHWktBamJvblpMUGd4aVhsbkNHSkhfWmJOa1dqQUdzVkVaaHpiUGNobEFaSFpfeU1UVUtDT2lpREJYbWo2MWJWenVFaUl1RHJ3LXExYlg5MzlSS0ZyT3daLW43TTgtRlMzWjJpTEFiMkxsSUFHMDNj?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 50,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -177,7 +297,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 51,
+      "importance": 50,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -197,15 +317,15 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 49,
+      "importance": 48,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-18T04:41:16.146Z",
+  "checkedAt": "2026-11-18T05:45:06.274Z",
   "sources": {
-    "gdelt": 0,
+    "gdelt": 1,
     "officialFeeds": true,
     "googleNews": true
   }
