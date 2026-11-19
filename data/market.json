@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-19T01:37:17.033Z",
+  "updatedAt": "2026-11-19T02:34:41.742Z",
   "quotes": {
     "^GSPC": {
       "price": 7323.63,
@@ -242,15 +242,7 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
         "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-19T00:23:00.000Z"
-      },
-      {
-        "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-        "source": "Reuters",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-18T21:46:43.000Z"
+        "publishedAt": "2026-11-19T01:36:00.000Z"
       },
       {
         "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
@@ -259,6 +251,14 @@
         "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-18T21:40:06.000Z"
+      },
+      {
+        "title": "Where Does Nvidia Stock Go After Earnings? What the Charts Tell Us. - Barron's",
+        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5UHBVNVQ0dFREUnNUaEVXMXNKZnA4ODd6eWtaWExjclEzeXV4R0s2alpVNFQxR2pCbU9tZlZpb2JEVkdOQWYyeGU2OHJaR3FUZ3RaM3lRS3A0WkFUaklla0lmM3ptdUpXWGU1N3JKdWc3Y3R4cmNOXzVLa1dpUQ?oc=5",
+        "source": "Barron's",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-18T17:48:00.000Z"
       }
     ],
     "asOf": 1795040159
@@ -290,7 +290,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 57,
+          "importance": 56,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -298,7 +298,7 @@
         {
           "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-          "publishedAt": "2026-11-19T00:23:00.000Z",
+          "publishedAt": "2026-11-19T01:36:00.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -317,28 +317,28 @@
           "directMatch": false
         },
         {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
+          "publishedAt": "2026-11-18T21:40:06.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
-          "category": "macro",
+          "category": "company",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 74,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.031Z"
+      "updatedAt": "2026-11-19T02:34:41.740Z"
     },
     {
       "symbol": "^IXIC",
@@ -353,7 +353,7 @@
         {
           "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-          "publishedAt": "2026-11-19T00:23:00.000Z",
+          "publishedAt": "2026-11-19T01:36:00.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -368,27 +368,6 @@
           ],
           "importance": 79,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -408,13 +387,34 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+          "publishedAt": "2026-11-18T19:09:32.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.031Z"
+      "updatedAt": "2026-11-19T02:34:41.740Z"
     },
     {
       "symbol": "^NDX",
@@ -429,7 +429,7 @@
         {
           "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-          "publishedAt": "2026-11-19T00:23:00.000Z",
+          "publishedAt": "2026-11-19T01:36:00.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -444,27 +444,6 @@
           ],
           "importance": 79,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -484,13 +463,34 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+          "publishedAt": "2026-11-18T19:09:32.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.031Z"
+      "updatedAt": "2026-11-19T02:34:41.740Z"
     },
     {
       "symbol": "AMD",
@@ -518,7 +518,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 60,
+          "importance": 59,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -544,34 +544,34 @@
               "domain": "tradingview.com"
             }
           ],
-          "importance": 49,
+          "importance": 48,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+          "publishedAt": "2026-11-18T19:09:32.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 76,
+          "importance": 63,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.032Z"
+      "updatedAt": "2026-11-19T02:34:41.741Z"
     },
     {
       "symbol": "XOM",
@@ -584,27 +584,6 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
           "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
           "publishedAt": "2026-11-18T19:09:32.000Z",
@@ -620,25 +599,25 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 65,
+          "importance": 63,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-          "publishedAt": "2026-11-18T12:20:11.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
+          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+          "publishedAt": "2026-11-18T10:28:00.000Z",
+          "domain": "reuters.com",
+          "source": "Reuters",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-              "domain": "cnbc.com"
+              "name": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+              "domain": "reuters.com"
             }
           ],
           "importance": 61,
@@ -647,7 +626,7 @@
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.032Z"
+      "updatedAt": "2026-11-19T02:34:41.741Z"
     },
     {
       "symbol": "AMZN",
@@ -660,27 +639,6 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
           "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
           "publishedAt": "2026-11-18T19:09:32.000Z",
@@ -696,7 +654,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 65,
+          "importance": 63,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -717,13 +675,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 63,
           "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+          "publishedAt": "2026-11-18T10:28:00.000Z",
+          "domain": "reuters.com",
+          "source": "Reuters",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+              "domain": "reuters.com"
+            }
+          ],
+          "importance": 61,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.032Z"
+      "updatedAt": "2026-11-19T02:34:41.741Z"
     },
     {
       "symbol": "AVGO",
@@ -751,31 +730,10 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 60,
+          "importance": 59,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
-        },
-        {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
         },
         {
           "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
@@ -793,13 +751,34 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 65,
+          "importance": 63,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "A new wave of U.S. layoffs raises questions about how artificial intelligence is changing job security - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFOUFd4TXpLd1hDZ2t6MzU0MzF5d0NMR2o4aFZJeUc4TUFaeGJTMXRUc1ZUYXdtRi1oUDBTTTZ3NDVDT0xEb1NYUmdIMWhLYVNTZkdaTVBranlWaFoyUjA5OVZScnhVclo2YWxoM042VTNGTkNraU9GZkhKZWM2ZU1TbDJ6M3JwUDh2d040bHJMOS00dFU2Y2pkTQ?oc=5",
+          "publishedAt": "2026-11-18T19:00:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "technology",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFOUFd4TXpLd1hDZ2t6MzU0MzF5d0NMR2o4aFZJeUc4TUFaeGJTMXRUc1ZUYXdtRi1oUDBTTTZ3NDVDT0xEb1NYUmdIMWhLYVNTZkdaTVBranlWaFoyUjA5OVZScnhVclo2YWxoM042VTNGTkNraU9GZkhKZWM2ZU1TbDJ6M3JwUDh2d040bHJMOS00dFU2Y2pkTQ?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.032Z"
+      "updatedAt": "2026-11-19T02:34:41.741Z"
     },
     {
       "symbol": "NVDA",
@@ -808,30 +787,9 @@
       "price": 150.96,
       "intradayMove": -2.8946352759552294,
       "movement": "NVIDIA: πτωτική μεταβολή 2.89% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 3.32 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 3.32 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
         {
           "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
@@ -848,7 +806,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -869,28 +827,15 @@
               "domain": "barrons.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
-        }
-      ],
-      "updatedAt": "2026-11-19T01:37:17.033Z"
-    },
-    {
-      "symbol": "LLY",
-      "name": "Eli Lilly",
-      "change": -2.317120553848324,
-      "price": 1382.75,
-      "intradayMove": -2.317120553848324,
-      "movement": "Eli Lilly: πτωτική μεταβολή 2.32% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.09 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
+        },
         {
           "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "publishedAt": "2026-11-18T21:46:43.000Z",
+          "publishedAt": "2026-11-18T10:28:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -903,11 +848,24 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 76,
+          "importance": 61,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
-          "directMatch": false
-        },
+          "directMatch": true
+        }
+      ],
+      "updatedAt": "2026-11-19T02:34:41.742Z"
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly",
+      "change": -2.317120553848324,
+      "price": 1382.75,
+      "intradayMove": -2.317120553848324,
+      "movement": "Eli Lilly: πτωτική μεταβολή 2.32% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.09 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
         {
           "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
@@ -924,25 +882,25 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 65,
+          "importance": 63,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-          "publishedAt": "2026-11-18T12:20:11.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
+          "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+          "publishedAt": "2026-11-18T10:28:00.000Z",
+          "domain": "reuters.com",
+          "source": "Reuters",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-              "domain": "cnbc.com"
+              "name": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+              "domain": "reuters.com"
             }
           ],
           "importance": 61,
@@ -951,7 +909,7 @@
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T01:37:17.033Z"
+      "updatedAt": "2026-11-19T02:34:41.742Z"
     }
   ]
 }

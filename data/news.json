@@ -1,10 +1,10 @@
 {
-  "at": 1795052236631,
+  "at": 1795055681385,
   "articles": [
     {
       "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-      "publishedAt": "2026-11-19T00:23:00.000Z",
+      "publishedAt": "2026-11-19T01:36:00.000Z",
       "domain": "bloomberg.com",
       "source": "Bloomberg.com",
       "description": "",
@@ -19,26 +19,6 @@
       ],
       "importance": 79,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-      "publishedAt": "2026-11-18T21:46:43.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-          "domain": "reuters.com"
-        }
-      ],
-      "importance": 76,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -57,7 +37,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 75,
+      "importance": 74,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +57,7 @@
           "domain": "barrons.com"
         }
       ],
-      "importance": 67,
+      "importance": 66,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -97,7 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 65,
+      "importance": 63,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -117,24 +97,24 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 64,
+      "importance": 63,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-      "publishedAt": "2026-11-18T12:20:11.000Z",
-      "domain": "cnbc.com",
-      "source": "CNBC",
+      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+      "publishedAt": "2026-11-18T10:28:00.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-          "domain": "cnbc.com"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+          "domain": "reuters.com"
         }
       ],
       "importance": 61,
@@ -157,7 +137,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 60,
+      "importance": 59,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -177,7 +157,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
+      "importance": 56,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -202,13 +182,13 @@
           "domain": "tradingview.com"
         }
       ],
-      "importance": 49,
+      "importance": 48,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-19T01:37:16.631Z",
+  "checkedAt": "2026-11-19T02:34:41.385Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
