@@ -1,5 +1,5 @@
 {
-  "at": 1795110140585,
+  "at": 1795113593266,
   "articles": [
     {
       "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? - MarketWatch",
@@ -17,8 +17,28 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 74,
+      "importance": 73,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Stocks slip as Anthropic gains on market debut and oil prices rise - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWh5RHQ1bW5IMHBlbVU4WVhSWDN1YXNoc1VXY0ktM1d5OTE5bG11T2lkZzhPUEhNNmVWVW11b1pfWkMyRmRzYks0NmgtZkRZTVNVc3dEc3dlZ3k2S1V1Q1kwTmV0LWNFS0M3VXFxVU1DZFdTRzA0VU5MdzNHV3N2OThKQVBQYVlQRTZGcnhYcWgydjRZckRsV0dBSTRkcW8?oc=5",
+      "publishedAt": "2026-11-19T17:55:40.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWh5RHQ1bW5IMHBlbVU4WVhSWDN1YXNoc1VXY0ktM1d5OTE5bG11T2lkZzhPUEhNNmVWVW11b1pfWkMyRmRzYks0NmgtZkRZTVNVc3dEc3dlZ3k2S1V1Q1kwTmV0LWNFS0M3VXFxVU1DZFdTRzA0VU5MdzNHV3N2OThKQVBQYVlQRTZGcnhYcWgydjRZckRsV0dBSTRkcW8?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 71,
+      "whyItMatters": "Μπορεί να μετακινήσει το ενεργειακό ή γεωπολιτικό ασφάλιστρο κινδύνου. Επιβεβαίωση θα φανεί σε τιμές πετρελαίου, μεταφορές, αποδόσεις και κλάδους με μεγάλη ενεργειακή έκθεση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -37,7 +57,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 71,
+      "importance": 70,
       "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +77,7 @@
           "domain": "au.finance.yahoo.com"
         }
       ],
-      "importance": 66,
+      "importance": 65,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +97,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 64,
+      "importance": 63,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -97,7 +117,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 63,
+      "importance": 62,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -117,7 +137,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -137,7 +157,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 53,
+      "importance": 52,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -157,33 +177,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 50,
+      "importance": 49,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "A new wave of U.S. layoffs raises questions about how artificial intelligence is changing job security - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFOUFd4TXpLd1hDZ2t6MzU0MzF5d0NMR2o4aFZJeUc4TUFaeGJTMXRUc1ZUYXdtRi1oUDBTTTZ3NDVDT0xEb1NYUmdIMWhLYVNTZkdaTVBranlWaFoyUjA5OVZScnhVclo2YWxoM042VTNGTkNraU9GZkhKZWM2ZU1TbDJ6M3JwUDh2d040bHJMOS00dFU2Y2pkTQ?oc=5",
-      "publishedAt": "2026-11-18T19:00:00.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFOUFd4TXpLd1hDZ2t6MzU0MzF5d0NMR2o4aFZJeUc4TUFaeGJTMXRUc1ZUYXdtRi1oUDBTTTZ3NDVDT0xEb1NYUmdIMWhLYVNTZkdaTVBranlWaFoyUjA5OVZScnhVclo2YWxoM042VTNGTkNraU9GZkhKZWM2ZU1TbDJ6M3JwUDh2d040bHJMOS00dFU2Y2pkTQ?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 46,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-19T17:42:20.585Z",
+  "checkedAt": "2026-11-19T18:39:53.266Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
