@@ -1,43 +1,43 @@
 {
-  "at": 1795066837887,
+  "at": 1795070549890,
   "articles": [
     {
-      "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg",
+      "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-      "publishedAt": "2026-11-19T04:18:00.000Z",
+      "publishedAt": "2026-11-19T05:47:01.000Z",
       "domain": "bloomberg.com",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "description": "",
       "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Bloomberg",
+          "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 78,
+      "importance": 79,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg",
+      "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
       "publishedAt": "2026-11-18T21:40:06.000Z",
       "domain": "bloomberg.com",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "description": "",
       "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Bloomberg",
+          "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 71,
+      "importance": 70,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +57,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -77,47 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
-      "publishedAt": "2026-11-18T23:00:02.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 64,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
-      "publishedAt": "2026-11-18T19:00:50.000Z",
-      "domain": "cnbc.com",
-      "source": "CNBC",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
-          "domain": "cnbc.com"
-        }
-      ],
-      "importance": 64,
+      "importance": 67,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -137,7 +97,7 @@
           "domain": "barrons.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -157,28 +117,8 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 60,
+      "importance": 59,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Dow Jones falls 333 points, S&P 500 and Nasdaq slip as Nvidia reverses gains - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
-      "publishedAt": "2026-11-18T13:50:03.000Z",
-      "domain": "cnbctv18.com",
-      "source": "CNBC TV18",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN5d1ktdnVfeC1KUjlFUE52cmRxVl9zbDZzUVdrNFNtbWtTSGltUzhTVDhXTll3Nkp2X2pwZzdUdUNQYUFiNUxjb3U2cmtzWWdnenlxWmctQmszTGx1T3diRmFrYWxoNlhEQ3g1M0dVTHN5ZDE0anF5b2lsLXp2alluYXNESG53NDRqTFNjcTVSUU5rcE9XVGp5bVRQemVQTmdXak9rc9IBrAFBVV95cUxOdnJtbEYyTFNuX3dsOHA1NmFKVElaS21jNXpQWm9DMTJYWk5yTmZEcVg3MzFSNWItZlpJMm9qcEUtRFFTYzVJWGFRT3VoSVR5WFp4Tk5OOERScU51ZWdndHNJWjE1M2xjaEhqdlN4cGliTE05RmFsUEpRb0xqd1pWanB1eFlvUUQ3WG0wbzJaYms0eDlGN0xLQWl1dHFsRHRSNGdiMmp5MHJJZEdV?oc=5",
-          "domain": "cnbctv18.com"
-        }
-      ],
-      "importance": 58,
-      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
@@ -197,27 +137,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 58,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-      "publishedAt": "2026-11-18T12:20:11.000Z",
-      "domain": "cnbc.com",
-      "source": "CNBC",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-          "domain": "cnbc.com"
-        }
-      ],
-      "importance": 56,
+      "importance": 57,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -237,7 +157,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 55,
+      "importance": 54,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -257,33 +177,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 53,
+      "importance": 52,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Fed minutes show growing unease about the outlook for inflation - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5",
-      "publishedAt": "2026-11-18T20:51:00.000Z",
-      "domain": "marketwatch.com",
-      "source": "MarketWatch",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2Q3bl9jS2R2NkRscWFmSlBMMXZIX1NPQ0JkZjBLbUptUlY2enBQNXZ2RDIxWk55dXVhY1I1WVhiVDBxLUV5V3hPTXBlZHVVQUtCWTVtY3hmOF9oWmVyM0ZBUHQ4bTZPcFlKbFpvTk12WHhzOUVZRFRRYTlobGJsa0o2OUpxeVNSbm5iZHYyUHF1aFh3Q3FRUk92TGt3WnJfck16eFMyU1ZxUQ?oc=5",
-          "domain": "marketwatch.com"
-        }
-      ],
-      "importance": 48,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-19T05:40:37.887Z",
+  "checkedAt": "2026-11-19T06:42:29.890Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
