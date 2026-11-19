@@ -2,248 +2,240 @@
   "mode": "live",
   "marketState": "REGULAR",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-19T15:40:05.546Z",
+  "updatedAt": "2026-11-19T16:45:15.659Z",
   "quotes": {
     "^GSPC": {
-      "price": 7286.14,
-      "change": -0.5119046156072846,
-      "time": 1795102804,
+      "price": 7313.41,
+      "change": -0.13954828411594053,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^IXIC": {
-      "price": 24382.086,
-      "change": -0.19565790014975132,
-      "time": 1795102803,
+      "price": 24522.078,
+      "change": 0.3773779532732264,
+      "time": 1795106710,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^NDX": {
-      "price": 27022.102,
-      "change": -0.3472308015361215,
-      "time": 1795102802,
+      "price": 27225.938,
+      "change": 0.4044805887301878,
+      "time": 1795106710,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AAPL": {
-      "price": 347.97,
-      "change": -1.2711022840119057,
-      "time": 1795102803,
+      "price": 349.6,
+      "change": -0.8086253369272141,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "MSFT": {
-      "price": 516.02,
-      "change": 1.7168989375332597,
-      "time": 1795102803,
+      "price": 513.58,
+      "change": 1.235930693264481,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NVDA": {
-      "price": 151.82,
-      "change": 0.569687334393207,
-      "time": 1795102804,
+      "price": 152.64,
+      "change": 1.1128775834658045,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMZN": {
-      "price": 267.783,
-      "change": 0.016060357062824517,
-      "time": 1795102804,
+      "price": 269.49,
+      "change": 0.6536191827892731,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "GOOGL": {
-      "price": 288.49,
-      "change": 2.1420478685738606,
-      "time": 1795102803,
+      "price": 288.52,
+      "change": 2.1526695935419857,
+      "time": 1795106715,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "META": {
-      "price": 614.6,
-      "change": -0.2887828936694852,
-      "time": 1795102803,
+      "price": 619.015,
+      "change": 0.42749602517927104,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "BRK-B": {
-      "price": 567.86,
-      "change": -1.1764296404580403,
-      "time": 1795102802,
+      "price": 568.47,
+      "change": -1.0702725279314986,
+      "time": 1795106701,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AVGO": {
-      "price": 353.872,
-      "change": -0.05027538483264998,
-      "time": 1795102803,
+      "price": 360.63,
+      "change": 1.858494562914838,
+      "time": 1795106715,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "TSLA": {
-      "price": 379.725,
-      "change": -1.0411237360575432,
-      "time": 1795102803,
+      "price": 382.17,
+      "change": -0.4039403731887864,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "JPM": {
-      "price": 322.09,
-      "change": -0.6232451945327323,
-      "time": 1795102802,
+      "price": 321.51,
+      "change": -0.8021967850421223,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "WMT": {
-      "price": 125.34,
-      "change": -1.5860552763819065,
-      "time": 1795102802,
+      "price": 125.63,
+      "change": -1.358354271356787,
+      "time": 1795106712,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "LLY": {
-      "price": 1352.915,
-      "change": -2.157656843247155,
-      "time": 1795102802,
+      "price": 1361.415,
+      "change": -1.542939793888992,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "ORCL": {
-      "price": 113.695,
-      "change": -0.17121784177715987,
-      "time": 1795102803,
+      "price": 114.98,
+      "change": 0.9570638335235784,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NFLX": {
-      "price": 59.34,
-      "change": -0.8024072216649898,
-      "time": 1795102804,
+      "price": 59.82,
+      "change": 0,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "V": {
-      "price": 407.4,
-      "change": -1.8833389528442872,
-      "time": 1795102803,
+      "price": 403.625,
+      "change": -2.7924955445306168,
+      "time": 1795106712,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "COST": {
-      "price": 1086.88,
-      "change": -0.8881836917072261,
-      "time": 1795102801,
+      "price": 1085.73,
+      "change": -0.9930513760463856,
+      "time": 1795106700,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "XOM": {
-      "price": 159.64,
-      "change": -0.5853780047328597,
-      "time": 1795102802,
+      "price": 160.16,
+      "change": -0.26155187445511013,
+      "time": 1795106711,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMD": {
-      "price": 490.47,
-      "change": -7.482929037612698,
-      "time": 1795102804,
+      "price": 498.99,
+      "change": -5.8758063907647,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "CRM": {
-      "price": 188.91,
-      "change": -0.7825630252100888,
-      "time": 1795102800,
+      "price": 189.255,
+      "change": -0.6013655462184927,
+      "time": 1795106713,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "PLTR": {
-      "price": 159.63,
-      "change": 1.8893215037977968,
-      "time": 1795102804,
+      "price": 161.08,
+      "change": 2.814833726941996,
+      "time": 1795106714,
       "currency": "USD",
       "marketState": "UNKNOWN"
     }
   },
   "pulse": {
     "marketState": "REGULAR",
-    "headline": "Μικτή / κοντά στο μηδέν εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 -0.51% · NASDAQ Composite -0.20% · NASDAQ 100 -0.35%.",
-    "breadth": "5 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
-    "advancers": 5,
-    "decliners": 15,
+    "headline": "Μικτή / κοντά στο μηδέν εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 -0.14% · NASDAQ Composite +0.38% · NASDAQ 100 +0.40%.",
+    "breadth": "8 από 19 παρακολουθούμενες εταιρείες είναι ανοδικές",
+    "advancers": 8,
+    "decliners": 11,
     "indices": [
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "change": -0.5119046156072846,
-        "price": 7286.14,
-        "time": 1795102804
+        "change": -0.13954828411594053,
+        "price": 7313.41,
+        "time": 1795106714
       },
       {
         "symbol": "^IXIC",
         "name": "NASDAQ Composite",
-        "change": -0.19565790014975132,
-        "price": 24382.086,
-        "time": 1795102803
+        "change": 0.3773779532732264,
+        "price": 24522.078,
+        "time": 1795106710
       },
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
-        "change": -0.3472308015361215,
-        "price": 27022.102,
-        "time": 1795102802
+        "change": 0.4044805887301878,
+        "price": 27225.938,
+        "time": 1795106710
       }
     ],
     "leaders": [
       {
-        "symbol": "GOOGL",
-        "name": "Alphabet",
-        "change": 2.1420478685738606,
-        "sector": "technology"
-      },
-      {
         "symbol": "PLTR",
         "name": "Palantir",
-        "change": 1.8893215037977968,
+        "change": 2.814833726941996,
         "sector": "technology"
       },
       {
-        "symbol": "MSFT",
-        "name": "Microsoft",
-        "change": 1.7168989375332597,
+        "symbol": "GOOGL",
+        "name": "Alphabet",
+        "change": 2.1526695935419857,
         "sector": "technology"
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "change": 1.858494562914838,
+        "sector": "chips"
       }
     ],
     "laggards": [
       {
         "symbol": "AMD",
         "name": "AMD",
-        "change": -7.482929037612698,
+        "change": -5.8758063907647,
         "sector": "chips"
-      },
-      {
-        "symbol": "LLY",
-        "name": "Eli Lilly",
-        "change": -2.157656843247155,
-        "sector": "healthcare"
       },
       {
         "symbol": "V",
         "name": "Visa",
-        "change": -1.8833389528442872,
+        "change": -2.7924955445306168,
         "sector": "finance"
+      },
+      {
+        "symbol": "LLY",
+        "name": "Eli Lilly",
+        "change": -1.542939793888992,
+        "sector": "healthcare"
       }
     ],
     "strongestNews": [
-      {
-        "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut - Reuters",
-        "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-        "source": "Reuters",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-19T15:22:56.000Z"
-      },
       {
         "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? - MarketWatch",
         "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
@@ -253,24 +245,32 @@
         "publishedAt": "2026-11-19T12:12:00.000Z"
       },
       {
-        "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-        "source": "Yahoo Finance Singapore",
+        "title": "Advanced Micro Devices (AMD) Closes $8.2 Billion World Labs Acquisition - Yahoo Finance Australia",
+        "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkNtckk5TW0wbDQzTkxSU3JQNVJROTBBdE5OMjlyWDZMcHR5VE1BemMxOFZxSXNZR2dQS2JNWDRSN2VJYkxDU1FTLVlielg5SW5IOXdibDEzcmNzZU16ekxGNkhoWDRnX0xRcWVzaFBpUmpRMFRmSllnM2pfaGRzYWFXSl9nRmlzUUE?oc=5",
+        "source": "Yahoo Finance Australia",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-19T13:12:29.000Z"
+        "publishedAt": "2026-11-19T12:14:39.000Z"
+      },
+      {
+        "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-19T10:51:38.000Z"
       }
     ],
-    "asOf": 1795102804
+    "asOf": 1795106714
   },
   "moves": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "change": -0.5119046156072846,
-      "price": 7286.14,
-      "intradayMove": -0.5119046156072846,
-      "movement": "S&P 500: πτωτική μεταβολή 0.51% έναντι του προηγούμενου κλεισίματος.",
+      "change": -0.13954828411594053,
+      "price": 7313.41,
+      "intradayMove": -0.13954828411594053,
+      "movement": "S&P 500: πτωτική μεταβολή 0.14% έναντι του προηγούμενου κλεισίματος.",
       "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
@@ -290,33 +290,12 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 53,
+          "importance": 52,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-          "publishedAt": "2026-11-19T15:22:56.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 80,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
           "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTVPd0FEeTNPYkhXbFg0NV9XUVQ2WFQwelNjVlRmQU1pWW9KX1J1bDdHOXhLVkhPRmRmZmJxbDY1YUtkZWJKUnV3MFdtVkd0RnpQSVdJeGtUajY0NnQwLWhHVzd3T01fMDdOZGJSeVpMZl9tSDZ5eFltSFg5RkNHeGxhZzJXMnBiT2ZoRUduUjB2eFI5WTlLMU1LRXRXelRwbGFkMUk5c0xiZHhJWFN5NEJFby1mQQ?oc=5",
           "publishedAt": "2026-11-19T12:12:00.000Z",
@@ -332,45 +311,45 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 72,
+          "importance": 71,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+          "publishedAt": "2026-11-19T10:51:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.545Z"
+      "updatedAt": "2026-11-19T16:45:15.658Z"
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ Composite",
-      "change": -0.19565790014975132,
-      "price": 24382.086,
-      "intradayMove": -0.19565790014975132,
-      "movement": "NASDAQ Composite: πτωτική μεταβολή 0.20% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 0.3773779532732264,
+      "price": 24522.078,
+      "intradayMove": 0.3773779532732264,
+      "movement": "NASDAQ Composite: ανοδική μεταβολή 0.38% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-          "publishedAt": "2026-11-19T15:22:56.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 80,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTVPd0FEeTNPYkhXbFg0NV9XUVQ2WFQwelNjVlRmQU1pWW9KX1J1bDdHOXhLVkhPRmRmZmJxbDY1YUtkZWJKUnV3MFdtVkd0RnpQSVdJeGtUajY0NnQwLWhHVzd3T01fMDdOZGJSeVpMZl9tSDZ5eFltSFg5RkNHeGxhZzJXMnBiT2ZoRUduUjB2eFI5WTlLMU1LRXRXelRwbGFkMUk5c0xiZHhJWFN5NEJFby1mQQ?oc=5",
@@ -387,66 +366,66 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 72,
+          "importance": 71,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
+          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+          "publishedAt": "2026-11-19T10:51:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+          "publishedAt": "2026-11-19T10:17:46.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.545Z"
+      "updatedAt": "2026-11-19T16:45:15.658Z"
     },
     {
       "symbol": "^NDX",
       "name": "NASDAQ 100",
-      "change": -0.3472308015361215,
-      "price": 27022.102,
-      "intradayMove": -0.3472308015361215,
-      "movement": "NASDAQ 100: πτωτική μεταβολή 0.35% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 0.4044805887301878,
+      "price": 27225.938,
+      "intradayMove": 0.4044805887301878,
+      "movement": "NASDAQ 100: ανοδική μεταβολή 0.40% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nasdaq climbs as tech leads gains ahead of Anthropic's market debut - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-          "publishedAt": "2026-11-19T15:22:56.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 80,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTVPd0FEeTNPYkhXbFg0NV9XUVQ2WFQwelNjVlRmQU1pWW9KX1J1bDdHOXhLVkhPRmRmZmJxbDY1YUtkZWJKUnV3MFdtVkd0RnpQSVdJeGtUajY0NnQwLWhHVzd3T01fMDdOZGJSeVpMZl9tSDZ5eFltSFg5RkNHeGxhZzJXMnBiT2ZoRUduUjB2eFI5WTlLMU1LRXRXelRwbGFkMUk5c0xiZHhJWFN5NEJFby1mQQ?oc=5",
@@ -463,43 +442,64 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 72,
+          "importance": 71,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
+          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+          "publishedAt": "2026-11-19T10:51:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+          "publishedAt": "2026-11-19T10:17:46.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.545Z"
+      "updatedAt": "2026-11-19T16:45:15.658Z"
     },
     {
       "symbol": "AMD",
       "name": "AMD",
-      "change": -7.482929037612698,
-      "price": 490.47,
-      "intradayMove": -7.482929037612698,
-      "movement": "AMD: πτωτική μεταβολή 7.48% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση. Η μεταβολή είναι 7.14 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -5.8758063907647,
+      "price": 498.99,
+      "intradayMove": -5.8758063907647,
+      "movement": "AMD: πτωτική μεταβολή 5.88% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση. Η μεταβολή είναι 6.28 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
@@ -518,33 +518,12 @@
               "domain": "au.finance.yahoo.com"
             }
           ],
-          "importance": 68,
+          "importance": 67,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
-            }
-          ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
           "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
           "publishedAt": "2026-11-19T10:51:38.000Z",
@@ -560,62 +539,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-19T15:40:05.545Z"
-    },
-    {
-      "symbol": "LLY",
-      "name": "Eli Lilly",
-      "change": -2.157656843247155,
-      "price": 1352.915,
-      "intradayMove": -2.157656843247155,
-      "movement": "Eli Lilly: πτωτική μεταβολή 2.16% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.65 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
-            }
-          ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-          "publishedAt": "2026-11-19T10:51:38.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -636,121 +560,24 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.546Z"
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet",
-      "change": 2.1420478685738606,
-      "price": 288.49,
-      "intradayMove": 2.1420478685738606,
-      "movement": "Alphabet: ανοδική μεταβολή 2.14% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.49 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
-            }
-          ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-          "publishedAt": "2026-11-19T10:51:38.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
-          "publishedAt": "2026-11-19T10:17:46.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-19T15:40:05.546Z"
+      "updatedAt": "2026-11-19T16:45:15.658Z"
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "change": 1.8893215037977968,
-      "price": 159.63,
-      "intradayMove": 1.8893215037977968,
-      "movement": "Palantir: ανοδική μεταβολή 1.89% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.24 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 2.814833726941996,
+      "price": 161.08,
+      "intradayMove": 2.814833726941996,
+      "movement": "Palantir: ανοδική μεταβολή 2.81% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.41 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
-            }
-          ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
@@ -767,7 +594,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -788,45 +615,45 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+          "publishedAt": "2026-11-18T23:00:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 52,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.546Z"
+      "updatedAt": "2026-11-19T16:45:15.659Z"
     },
     {
       "symbol": "V",
       "name": "Visa",
-      "change": -1.8833389528442872,
-      "price": 407.4,
-      "intradayMove": -1.8833389528442872,
-      "movement": "Visa: πτωτική μεταβολή 1.88% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.37 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": -2.7924955445306168,
+      "price": 403.625,
+      "intradayMove": -2.7924955445306168,
+      "movement": "Visa: πτωτική μεταβολή 2.79% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.65 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-          "publishedAt": "2026-11-19T13:12:29.000Z",
-          "domain": "sg.finance.yahoo.com",
-          "source": "Yahoo Finance Singapore",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance Singapore",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
-              "domain": "sg.finance.yahoo.com"
-            }
-          ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
@@ -843,7 +670,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -864,13 +691,186 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+          "publishedAt": "2026-11-18T23:00:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 52,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-19T15:40:05.546Z"
+      "updatedAt": "2026-11-19T16:45:15.659Z"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "change": 2.1526695935419857,
+      "price": 288.52,
+      "intradayMove": 2.1526695935419857,
+      "movement": "Alphabet: ανοδική μεταβολή 2.15% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.75 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+          "publishedAt": "2026-11-19T10:51:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+          "publishedAt": "2026-11-19T10:17:46.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+          "publishedAt": "2026-11-18T23:00:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 52,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-19T16:45:15.659Z"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "change": 1.858494562914838,
+      "price": 360.63,
+      "intradayMove": 1.858494562914838,
+      "movement": "Broadcom: ανοδική μεταβολή 1.86% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.45 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+          "publishedAt": "2026-11-19T10:51:38.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+          "publishedAt": "2026-11-19T10:17:46.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0hQTVZ0NUlIY2JBYldtUnlMSFJyVjhuMDdNSGVITzZ0TmFmaE5rRlNINXdYZVh1bGQ5bHJsb0FWVnRuSzN0WkJTOTZ2aElDdWNzTjN4RXFlWmg5cUI2X1Ezc0RQc2pUQ2VaLWlTdVBjZ2diTW91R1llRmFCRUNMaWFoa2JySzZ3U05DLXVKQ1p4YmI0bGphellR?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 65,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+          "publishedAt": "2026-11-18T23:00:02.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 52,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-19T16:45:15.659Z"
     }
   ]
 }
