@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-20T06:02:31.878Z",
+  "updatedAt": "2026-11-20T07:19:44.675Z",
   "quotes": {
     "^GSPC": {
       "price": 7175.83,
@@ -237,20 +237,12 @@
     ],
     "strongestNews": [
       {
-        "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market - Barron's",
-        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-        "source": "Barron's",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-20T02:38:32.000Z"
-      },
-      {
-        "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
+        "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
         "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
         "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-19T21:18:45.000Z"
+        "publishedAt": "2026-11-19T21:40:19.000Z"
       },
       {
         "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
@@ -259,6 +251,14 @@
         "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-19T21:13:19.000Z"
+      },
+      {
+        "title": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June - AP News",
+        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+        "source": "AP News",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-19T19:54:50.000Z"
       }
     ],
     "asOf": 1795126559
@@ -275,6 +275,27 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
+          "title": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+          "publishedAt": "2026-11-19T19:54:50.000Z",
+          "domain": "apnews.com",
+          "source": "AP News",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+              "domain": "apnews.com"
+            }
+          ],
+          "importance": 67,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
+        {
           "title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
           "publishedAt": "2026-11-19T22:10:02.000Z",
@@ -290,15 +311,15 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 63,
+          "importance": 61,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -307,38 +328,17 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-          "publishedAt": "2026-11-19T21:13:19.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 70,
+          "importance": 69,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.877Z"
+      "updatedAt": "2026-11-20T07:19:44.674Z"
     },
     {
       "symbol": "^IXIC",
@@ -351,9 +351,9 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -362,11 +362,11 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 69,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -387,25 +387,25 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 68,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "U.S. stock market tumbles again on Thursday - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFlBaG9mMEt4TS1Jam5EUW5EMWRmbFNETjNsWGVoS01JODZqYkp4REdHN3FWbDN4amtkcUZxR0ZkbHo4X0JmeXR0WExzOW44SWt4UjRQTm9GSzk3d21JZ2tzUEswMTRIaVBxbHJoXy0wQTZJRFJlcWxhR2N3U1V2UmQzMA?oc=5",
-          "publishedAt": "2026-11-20T01:57:33.000Z",
-          "domain": "yahoo.com",
-          "source": "Yahoo",
+          "title": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+          "publishedAt": "2026-11-19T19:54:50.000Z",
+          "domain": "apnews.com",
+          "source": "AP News",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFlBaG9mMEt4TS1Jam5EUW5EMWRmbFNETjNsWGVoS01JODZqYkp4REdHN3FWbDN4amtkcUZxR0ZkbHo4X0JmeXR0WExzOW44SWt4UjRQTm9GSzk3d21JZ2tzUEswMTRIaVBxbHJoXy0wQTZJRFJlcWxhR2N3U1V2UmQzMA?oc=5",
-              "domain": "yahoo.com"
+              "name": "AP News",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+              "domain": "apnews.com"
             }
           ],
           "importance": 67,
@@ -414,7 +414,7 @@
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.877Z"
+      "updatedAt": "2026-11-20T07:19:44.674Z"
     },
     {
       "symbol": "^NDX",
@@ -427,9 +427,9 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -438,11 +438,11 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 69,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -463,25 +463,25 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 68,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "U.S. stock market tumbles again on Thursday - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFlBaG9mMEt4TS1Jam5EUW5EMWRmbFNETjNsWGVoS01JODZqYkp4REdHN3FWbDN4amtkcUZxR0ZkbHo4X0JmeXR0WExzOW44SWt4UjRQTm9GSzk3d21JZ2tzUEswMTRIaVBxbHJoXy0wQTZJRFJlcWxhR2N3U1V2UmQzMA?oc=5",
-          "publishedAt": "2026-11-20T01:57:33.000Z",
-          "domain": "yahoo.com",
-          "source": "Yahoo",
+          "title": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+          "publishedAt": "2026-11-19T19:54:50.000Z",
+          "domain": "apnews.com",
+          "source": "AP News",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFlBaG9mMEt4TS1Jam5EUW5EMWRmbFNETjNsWGVoS01JODZqYkp4REdHN3FWbDN4amtkcUZxR0ZkbHo4X0JmeXR0WExzOW44SWt4UjRQTm9GSzk3d21JZ2tzUEswMTRIaVBxbHJoXy0wQTZJRFJlcWxhR2N3U1V2UmQzMA?oc=5",
-              "domain": "yahoo.com"
+              "name": "AP News",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+              "domain": "apnews.com"
             }
           ],
           "importance": 67,
@@ -490,7 +490,7 @@
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.877Z"
+      "updatedAt": "2026-11-20T07:19:44.674Z"
     },
     {
       "symbol": "AMD",
@@ -518,7 +518,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 68,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -539,34 +539,34 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 67,
+          "importance": 65,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5",
-          "publishedAt": "2026-11-19T18:48:07.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
-          "category": "company",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 59,
-          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+          "importance": 69,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.674Z"
     },
     {
       "symbol": "AMZN",
@@ -579,9 +579,9 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -590,33 +590,12 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-          "publishedAt": "2026-11-19T20:11:00.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
           "importance": 69,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -636,13 +615,34 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+          "publishedAt": "2026-11-19T19:55:41.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "technology",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.674Z"
     },
     {
       "symbol": "CRM",
@@ -651,34 +651,13 @@
       "price": 183.31,
       "intradayMove": -3.723739495798321,
       "movement": "Salesforce: πτωτική μεταβολή 3.72% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.51 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 1.51 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-          "publishedAt": "2026-11-20T02:38:32.000Z",
-          "domain": "barrons.com",
-          "source": "Barron's",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Barron's",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-              "domain": "barrons.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -687,38 +666,59 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
+          "importance": 69,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-          "publishedAt": "2026-11-19T20:11:00.000Z",
+          "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+          "publishedAt": "2026-11-19T18:53:15.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+              "domain": "reuters.com"
+            }
+          ],
+          "importance": 66,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+          "publishedAt": "2026-11-19T19:55:41.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
           "description": "",
           "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-              "domain": "reuters.com"
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+              "domain": "cnbc.com"
             }
           ],
-          "importance": 69,
+          "importance": 63,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.675Z"
     },
     {
       "symbol": "GOOGL",
@@ -731,9 +731,9 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -742,33 +742,12 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-          "publishedAt": "2026-11-19T20:11:00.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
           "importance": 69,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -788,13 +767,34 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+          "publishedAt": "2026-11-19T19:55:41.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "technology",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.675Z"
     },
     {
       "symbol": "NVDA",
@@ -803,30 +803,9 @@
       "price": 145.98,
       "intradayMove": -3.298887122416546,
       "movement": "NVIDIA: πτωτική μεταβολή 3.30% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.09 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία. Η μεταβολή είναι 1.09 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-          "publishedAt": "2026-11-20T02:38:32.000Z",
-          "domain": "barrons.com",
-          "source": "Barron's",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Barron's",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
-              "domain": "barrons.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
         {
           "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
@@ -843,7 +822,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 62,
+          "importance": 61,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -864,13 +843,34 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 60,
+          "importance": 58,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
+        },
+        {
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
+          "description": "",
+          "category": "technology",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+              "domain": "bloomberg.com"
+            }
+          ],
+          "importance": 69,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.675Z"
     },
     {
       "symbol": "META",
@@ -883,9 +883,9 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-          "publishedAt": "2026-11-19T21:18:45.000Z",
+          "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "publishedAt": "2026-11-19T21:40:19.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
@@ -894,33 +894,12 @@
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 70,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-          "publishedAt": "2026-11-19T20:11:00.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
           "importance": 69,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -940,13 +919,34 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+          "publishedAt": "2026-11-19T19:55:41.000Z",
+          "domain": "cnbc.com",
+          "source": "CNBC",
+          "description": "",
+          "category": "technology",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+              "domain": "cnbc.com"
+            }
+          ],
+          "importance": 63,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T06:02:31.878Z"
+      "updatedAt": "2026-11-20T07:19:44.675Z"
     }
   ]
 }
