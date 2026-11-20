@@ -1,6 +1,26 @@
 {
-  "at": 1795178376230,
+  "at": 1795183067107,
   "articles": [
+    {
+      "title": "Rep. John Moolenaar: Nvidia, AMD chip sales to China need scrutiny - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
+      "publishedAt": "2026-11-20T12:54:46.000Z",
+      "domain": "cnbc.com",
+      "source": "CNBC",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
+          "domain": "cnbc.com"
+        }
+      ],
+      "importance": 75,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC Africa",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
@@ -17,7 +37,7 @@
           "domain": "cnbcafrica.com"
         }
       ],
-      "importance": 74,
+      "importance": 72,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +57,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 72,
+      "importance": 70,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 69,
+      "importance": 67,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +97,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 66,
+      "importance": 64,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -97,7 +117,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -117,7 +137,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 61,
+      "importance": 60,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -137,7 +157,7 @@
           "domain": "yahoo.com"
         }
       ],
-      "importance": 60,
+      "importance": 58,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -157,7 +177,7 @@
           "domain": "ft.com"
         }
       ],
-      "importance": 59,
+      "importance": 58,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -177,7 +197,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 57,
+      "importance": 55,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -197,7 +217,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 55,
+      "importance": 54,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -217,7 +237,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 54,
+      "importance": 53,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -237,7 +257,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 52,
+      "importance": 51,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -257,13 +277,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 50,
+      "importance": 49,
       "whyItMatters": "Μπορεί να μετακινήσει το ενεργειακό ή γεωπολιτικό ασφάλιστρο κινδύνου. Επιβεβαίωση θα φανεί σε τιμές πετρελαίου, μεταφορές, αποδόσεις και κλάδους με μεγάλη ενεργειακή έκθεση.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-20T12:39:36.230Z",
+  "checkedAt": "2026-11-20T13:57:47.107Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
