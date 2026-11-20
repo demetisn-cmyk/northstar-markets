@@ -1,10 +1,30 @@
 {
-  "at": 1795130091723,
+  "at": 1795132807913,
   "articles": [
+    {
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+      "publishedAt": "2026-11-19T22:43:48.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+          "domain": "reuters.com"
+        }
+      ],
+      "importance": 79,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-      "publishedAt": "2026-11-19T20:07:43.000Z",
+      "publishedAt": "2026-11-19T21:18:45.000Z",
       "domain": "bloomberg.com",
       "source": "Bloomberg.com",
       "description": "",
@@ -17,7 +37,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 76,
+      "importance": 77,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +57,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 75,
+      "importance": 74,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -57,7 +77,7 @@
           "domain": "ft.com"
         }
       ],
-      "importance": 75,
+      "importance": 74,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -77,8 +97,28 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 72,
+      "importance": 71,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
+      "publishedAt": "2026-11-19T22:10:02.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 70,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
@@ -97,7 +137,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -137,48 +177,8 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 66,
-      "whyItMatters": "Μπορεί να μετακινήσει το ενεργειακό ή γεωπολιτικό ασφάλιστρο κινδύνου. Επιβεβαίωση θα φανεί σε τιμές πετρελαίου, μεταφορές, αποδόσεις και κλάδους με μεγάλη ενεργειακή έκθεση.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5",
-      "publishedAt": "2026-11-19T17:15:08.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
       "importance": 65,
-      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Closes $8.2 Billion World Labs Acquisition - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkNtckk5TW0wbDQzTkxSU3JQNVJROTBBdE5OMjlyWDZMcHR5VE1BemMxOFZxSXNZR2dQS2JNWDRSN2VJYkxDU1FTLVlielg5SW5IOXdibDEzcmNzZU16ekxGNkhoWDRnX0xRcWVzaFBpUmpRMFRmSllnM2pfaGRzYWFXSl9nRmlzUUE?oc=5",
-      "publishedAt": "2026-11-19T12:14:39.000Z",
-      "domain": "au.finance.yahoo.com",
-      "source": "Yahoo Finance Australia",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkNtckk5TW0wbDQzTkxSU3JQNVJROTBBdE5OMjlyWDZMcHR5VE1BemMxOFZxSXNZR2dQS2JNWDRSN2VJYkxDU1FTLVlielg5SW5IOXdibDEzcmNzZU16ekxGNkhoWDRnX0xRcWVzaFBpUmpRMFRmSllnM2pfaGRzYWFXSl9nRmlzUUE?oc=5",
-          "domain": "au.finance.yahoo.com"
-        }
-      ],
-      "importance": 59,
-      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "whyItMatters": "Μπορεί να μετακινήσει το ενεργειακό ή γεωπολιτικό ασφάλιστρο κινδύνου. Επιβεβαίωση θα φανεί σε τιμές πετρελαίου, μεταφορές, αποδόσεις και κλάδους με μεγάλη ενεργειακή έκθεση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -197,7 +197,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 58,
+      "importance": 57,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -217,13 +217,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
+      "importance": 56,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-19T23:14:51.723Z",
+  "checkedAt": "2026-11-20T00:00:07.913Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
