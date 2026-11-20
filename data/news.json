@@ -1,6 +1,26 @@
 {
-  "at": 1795216095851,
+  "at": 1795218948992,
   "articles": [
+    {
+      "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+      "publishedAt": "2026-11-20T22:55:43.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+          "domain": "reuters.com"
+        }
+      ],
+      "importance": 79,
+      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
@@ -17,28 +37,8 @@
           "domain": "ft.com"
         }
       ],
-      "importance": 79,
-      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-      "publishedAt": "2026-11-20T21:36:39.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "domain": "reuters.com"
-        }
-      ],
       "importance": 78,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
@@ -57,7 +57,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 74,
+      "importance": 73,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +77,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 73,
+      "importance": 72,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -97,7 +97,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 72,
+      "importance": 71,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -117,28 +117,8 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Anthropic shares fall a day after blockbuster IPO - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
-      "publishedAt": "2026-11-20T14:36:26.000Z",
-      "domain": "bbc.co.uk",
-      "source": "BBC",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMTA3aEdaaExndEY4SmRJdnlxZGlpeVNBNEVqQlh3b0lWS2ZrRFQzV1BSR3N5RnhLSmRlZjNtRTFOV1BQTldXZ0d3YkxBcWJZa01qQ3Z4dFVIV1NlMmc?oc=5",
-          "domain": "bbc.co.uk"
-        }
-      ],
-      "importance": 66,
-      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
@@ -157,7 +137,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 64,
+      "importance": 63,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -177,7 +157,7 @@
           "domain": "uk.finance.yahoo.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -197,7 +177,7 @@
           "domain": "cnbcafrica.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -217,7 +197,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 60,
+      "importance": 59,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -237,7 +217,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
+      "importance": 56,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -262,26 +242,6 @@
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODBxU1BOWDlQazNIZ0E1Zy03ajAxMG53RVVWRC1HVUpGeVVMWWFRd2hyUGZPb1R6UGg2V0ZGRUZkTEdubmxsMU92bnR3VFpGSmlTU3VzS2hkdl96NVlyX3lSYWxUZ2ZhemJsdUpUM1dtMUZ3MjFnTFdtMNIBgAFBVV95cUxNTURqUmZMVXJpQXpJejVMY2N6NldfZjlwUFhVMWtPSDRhYkRoQTY3NXIwVkZZMmFLcllLc2ZKSVRvTFh2VERyd0J5N3pyRHMxQ0ZLMzFsUXB3U3Ftamo3UlQ0bkFSXzdSOUtGUl9XUmxya01hNDlwdlEwcnNSY1JMVQ?oc=5",
-      "publishedAt": "2026-11-20T18:05:29.000Z",
-      "domain": "cnbc.com",
-      "source": "CNBC",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODBxU1BOWDlQazNIZ0E1Zy03ajAxMG53RVVWRC1HVUpGeVVMWWFRd2hyUGZPb1R6UGg2V0ZGRUZkTEdubmxsMU92bnR3VFpGSmlTU3VzS2hkdl96NVlyX3lSYWxUZ2ZhemJsdUpUM1dtMUZ3MjFnTFdtMNIBgAFBVV95cUxNTURqUmZMVXJpQXpJejVMY2N6NldfZjlwUFhVMWtPSDRhYkRoQTY3NXIwVkZZMmFLcllLc2ZKSVRvTFh2VERyd0J5N3pyRHMxQ0ZLMzFsUXB3U3Ftamo3UlQ0bkFSXzdSOUtGUl9XUmxya01hNDlwdlEwcnNSY1JMVQ?oc=5",
-          "domain": "cnbc.com"
-        }
-      ],
-      "importance": 52,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
       "title": "U.S. stock market tumbles again on Thursday - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFlBaG9mMEt4TS1Jam5EUW5EMWRmbFNETjNsWGVoS01JODZqYkp4REdHN3FWbDN4amtkcUZxR0ZkbHo4X0JmeXR0WExzOW44SWt4UjRQTm9GSzk3d21JZ2tzUEswMTRIaVBxbHJoXy0wQTZJRFJlcWxhR2N3U1V2UmQzMA?oc=5",
       "publishedAt": "2026-11-20T01:57:33.000Z",
@@ -297,13 +257,13 @@
           "domain": "yahoo.com"
         }
       ],
-      "importance": 48,
+      "importance": 47,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-20T23:08:15.851Z",
+  "checkedAt": "2026-11-20T23:55:48.992Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
