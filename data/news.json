@@ -1,8 +1,8 @@
 {
-  "at": 1795167382774,
+  "at": 1795171083502,
   "articles": [
     {
-      "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+      "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
       "publishedAt": "2026-11-20T09:06:36.000Z",
       "domain": "cnbc.com",
@@ -17,7 +17,27 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 75,
+      "importance": 74,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+      "publishedAt": "2026-11-20T09:44:20.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 71,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -37,8 +57,48 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 69,
+      "importance": 68,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+      "publishedAt": "2026-11-19T21:40:19.000Z",
+      "domain": "bloomberg.com",
+      "source": "Bloomberg.com",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+          "domain": "bloomberg.com"
+        }
+      ],
+      "importance": 65,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+      "publishedAt": "2026-11-19T21:18:45.000Z",
+      "domain": "bloomberg.com",
+      "source": "Bloomberg.com",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+          "domain": "bloomberg.com"
+        }
+      ],
+      "importance": 65,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
@@ -57,7 +117,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 66,
+      "importance": 65,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -77,8 +137,28 @@
           "domain": "yahoo.com"
         }
       ],
-      "importance": 63,
+      "importance": 62,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+      "publishedAt": "2026-11-19T18:53:15.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+          "domain": "reuters.com"
+        }
+      ],
+      "importance": 62,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -97,7 +177,7 @@
           "domain": "ft.com"
         }
       ],
-      "importance": 63,
+      "importance": 62,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -117,7 +197,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 60,
+      "importance": 59,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -137,7 +217,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 59,
+      "importance": 58,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -157,7 +237,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 58,
+      "importance": 57,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -177,7 +257,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 56,
+      "importance": 54,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -197,35 +277,35 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 54,
+      "importance": 53,
       "whyItMatters": "Μπορεί να μετακινήσει το ενεργειακό ή γεωπολιτικό ασφάλιστρο κινδύνου. Επιβεβαίωση θα φανεί σε τιμές πετρελαίου, μεταφορές, αποδόσεις και κλάδους με μεγάλη ενεργειακή έκθεση.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-      "publishedAt": "2026-11-19T10:51:38.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
+      "title": "Canadian Stock Market Today: TSX Futures Hold Steady As Hawkish Fed Lifts Dollar - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
+      "publishedAt": "2026-11-19T13:12:29.000Z",
+      "domain": "sg.finance.yahoo.com",
+      "source": "Yahoo Finance Singapore",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-          "domain": "finance.yahoo.com"
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnUxb2ZTbHVtTFBUTGgwSGZ4dEJZazcxUE52MlVGalhySFFabEJOVGF2bHBPT3ZndUpsT1lyY0pvelp0OVFzMFNtc1NBc0ZkOWRoU2lvdEVGc25KVHdRX285MlhBR194QTVCT1Rnajc0OWJwWmRNNTNnSmRQa1poa1JmWEZnTEk?oc=5",
+          "domain": "sg.finance.yahoo.com"
         }
       ],
-      "importance": 46,
+      "importance": 47,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-20T09:36:22.774Z",
+  "checkedAt": "2026-11-20T10:38:03.502Z",
   "sources": {
-    "gdelt": 0,
+    "gdelt": 1,
     "officialFeeds": true,
     "googleNews": true
   }

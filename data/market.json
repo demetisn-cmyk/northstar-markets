@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-20T09:36:22.932Z",
+  "updatedAt": "2026-11-20T10:38:03.664Z",
   "quotes": {
     "^GSPC": {
       "price": 7175.83,
@@ -237,12 +237,20 @@
     ],
     "strongestNews": [
       {
-        "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+        "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
         "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
         "source": "CNBC",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-20T09:06:36.000Z"
+      },
+      {
+        "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+        "source": "Yahoo Finance",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-20T09:44:20.000Z"
       },
       {
         "title": "UK Stock Market Today: FTSE 100 Futures Slip On Hawkish Fed And Pound Weakness - Yahoo Finance",
@@ -251,14 +259,6 @@
         "source": "Yahoo Finance",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-20T07:12:00.000Z"
-      },
-      {
-        "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
-        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-        "source": "Bloomberg.com",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-19T21:13:19.000Z"
       }
     ],
     "asOf": 1795126559
@@ -290,13 +290,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 59,
+          "importance": 58,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -311,15 +311,15 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "UK Stock Market Today: FTSE 100 Futures Slip On Hawkish Fed And Pound Weakness - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdubHN4VHpSdUNqOUN4WjQzUExCV0JXYms2OU5SSkFWZ0xPdkpUUVljUXVwbDNSeEJZWEJnU3hHZzl3ZHlYVlU3aHMwMnRoTEF4dUpQWGlNMDNBUURBbGg2MGNNZmZSN3ZidGlPdmVxNEtjQTAxY3VYaTZLNzduQnBVY2h3WXZtdEw4ZGY0OGg5NmwtOXc?oc=5",
-          "publishedAt": "2026-11-20T07:12:00.000Z",
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -328,17 +328,17 @@
           "sources": [
             {
               "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdubHN4VHpSdUNqOUN4WjQzUExCV0JXYms2OU5SSkFWZ0xPdkpUUVljUXVwbDNSeEJZWEJnU3hHZzl3ZHlYVlU3aHMwMnRoTEF4dUpQWGlNMDNBUURBbGg2MGNNZmZSN3ZidGlPdmVxNEtjQTAxY3VYaTZLNzduQnBVY2h3WXZtdEw4ZGY0OGg5NmwtOXc?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 71,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.930Z"
+      "updatedAt": "2026-11-20T10:38:03.662Z"
     },
     {
       "symbol": "^IXIC",
@@ -351,7 +351,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -366,7 +366,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -387,34 +408,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-          "publishedAt": "2026-11-19T21:13:19.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.663Z"
     },
     {
       "symbol": "^NDX",
@@ -427,7 +427,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -442,7 +442,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -463,34 +484,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "AMD Shares Slump After Shortseller Raises China Concerns - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-          "publishedAt": "2026-11-19T21:13:19.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 66,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.663Z"
     },
     {
       "symbol": "AMD",
@@ -503,7 +503,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -518,7 +518,7 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -539,7 +539,7 @@
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -560,13 +560,13 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 63,
+          "importance": 62,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.663Z"
     },
     {
       "symbol": "AMZN",
@@ -579,7 +579,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -594,7 +594,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -615,34 +636,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-          "publishedAt": "2026-11-19T19:55:41.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 60,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.663Z"
     },
     {
       "symbol": "CRM",
@@ -655,7 +655,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -670,7 +670,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -691,34 +712,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-          "publishedAt": "2026-11-19T19:55:41.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 60,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.663Z"
     },
     {
       "symbol": "GOOGL",
@@ -731,7 +731,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -746,7 +746,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -767,34 +788,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-          "publishedAt": "2026-11-19T19:55:41.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 60,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.931Z"
+      "updatedAt": "2026-11-20T10:38:03.664Z"
     },
     {
       "symbol": "NVDA",
@@ -807,7 +807,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -822,7 +822,7 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -843,7 +843,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 58,
+          "importance": 57,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -864,13 +864,13 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 56,
+          "importance": 54,
           "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.932Z"
+      "updatedAt": "2026-11-20T10:38:03.664Z"
     },
     {
       "symbol": "META",
@@ -883,7 +883,7 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
+          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RzRKZlFQNVc5QjdpUWRtYjlWSWVfSm0xeTY5WjFxWkJ3bUFzVzF2RExQNkgwa0ZpUHBvb0gzVG1uRkkwMFpmVU1ET0ozZVJEcWZwSFNLZmZsM0xKOUNHNVg1TUsxZmpGRlpzYVFYOXFYdVkt0gF6QVVfeXFMTWNYWWtkSnZJbkpvWFNBSmVKNTM3aFlCakNSb1BlMWVRMF8tTUlidTdNbWZoSUNyQ2hGNHEwckNsa3VGWUFuYldEc2MweXJsdXc3Yzd0OENTNGlBa1JRYmJZMVEwbmVncmJuVnRvQU9OamlpaDNaU3FVbHc?oc=5",
           "publishedAt": "2026-11-20T09:06:36.000Z",
           "domain": "cnbc.com",
@@ -898,7 +898,28 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
+          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+          "publishedAt": "2026-11-20T09:44:20.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 71,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -919,34 +940,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
+          "importance": 68,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-          "publishedAt": "2026-11-19T19:55:41.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 60,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T09:36:22.932Z"
+      "updatedAt": "2026-11-20T10:38:03.664Z"
     }
   ]
 }
