@@ -1,5 +1,5 @@
 {
-  "at": 1795200061940,
+  "at": 1795203859747,
   "articles": [
     {
       "title": "Canadian dollar falls for third straight week as stock market selloff deepens - Reuters",
@@ -17,8 +17,28 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 79,
+      "importance": 78,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
+      "publishedAt": "2026-11-20T19:22:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 76,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -37,14 +57,14 @@
           "domain": "bbc.co.uk"
         }
       ],
-      "importance": 71,
+      "importance": 70,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
       "title": "Rep. John Moolenaar: Nvidia, AMD chip sales to China need scrutiny - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
-      "publishedAt": "2026-11-20T12:54:46.000Z",
+      "publishedAt": "2026-11-20T12:39:24.000Z",
       "domain": "cnbc.com",
       "source": "CNBC",
       "description": "",
@@ -57,7 +77,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 69,
+      "importance": 68,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -77,7 +97,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
       "confidence": "Χαμηλή"
     },
@@ -97,7 +117,7 @@
           "domain": "cnbcafrica.com"
         }
       ],
-      "importance": 67,
+      "importance": 66,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -117,7 +137,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 62,
+      "importance": 61,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -135,26 +155,6 @@
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
           "domain": "reuters.com"
-        }
-      ],
-      "importance": 61,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "UK Stock Market Today: FTSE 100 Futures Slip On Hawkish Fed And Pound Weakness - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdubHN4VHpSdUNqOUN4WjQzUExCV0JXYms2OU5SSkFWZ0xPdkpUUVljUXVwbDNSeEJZWEJnU3hHZzl3ZHlYVlU3aHMwMnRoTEF4dUpQWGlNMDNBUURBbGg2MGNNZmZSN3ZidGlPdmVxNEtjQTAxY3VYaTZLNzduQnBVY2h3WXZtdEw4ZGY0OGg5NmwtOXc?oc=5",
-      "publishedAt": "2026-11-20T07:12:00.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdubHN4VHpSdUNqOUN4WjQzUExCV0JXYms2OU5SSkFWZ0xPdkpUUVljUXVwbDNSeEJZWEJnU3hHZzl3ZHlYVlU3aHMwMnRoTEF4dUpQWGlNMDNBUURBbGg2MGNNZmZSN3ZidGlPdmVxNEtjQTAxY3VYaTZLNzduQnBVY2h3WXZtdEw4ZGY0OGg5NmwtOXc?oc=5",
-          "domain": "finance.yahoo.com"
         }
       ],
       "importance": 59,
@@ -177,7 +177,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 55,
+      "importance": 54,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -197,7 +197,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 54,
+      "importance": 53,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -217,7 +217,7 @@
           "domain": "yahoo.com"
         }
       ],
-      "importance": 53,
+      "importance": 52,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -237,7 +237,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 48,
+      "importance": 47,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -257,13 +257,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 47,
+      "importance": 46,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-20T18:41:01.940Z",
+  "checkedAt": "2026-11-20T19:44:19.747Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
