@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-20T23:55:49.578Z",
+  "updatedAt": "2026-11-23T00:55:02.732Z",
   "quotes": {
     "^GSPC": {
       "price": 6910.39,
@@ -20,7 +20,7 @@
     },
     "^NDX": {
       "price": 25028.982,
-      "change": -5.611740370818018,
+      "change": -5.611918347028894,
       "time": 1795212959,
       "currency": "USD",
       "marketState": "UNKNOWN"
@@ -190,7 +190,7 @@
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
-        "change": -5.611740370818018,
+        "change": -5.611918347028894,
         "price": 25028.982,
         "time": 1795212959
       }
@@ -237,28 +237,28 @@
     ],
     "strongestNews": [
       {
-        "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-        "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-        "source": "Reuters",
+        "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+        "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-20T22:55:43.000Z"
+        "publishedAt": "2026-11-22T20:00:00.000Z"
       },
       {
-        "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times",
-        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-        "source": "Financial Times",
+        "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+        "source": "The Dark Side Of The Boom",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-20T21:52:25.000Z"
+        "publishedAt": "2026-11-22T03:01:25.000Z"
       },
       {
-        "title": "Canadian dollar falls for third straight week as stock market selloff deepens - Reuters",
-        "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-        "source": "Reuters",
+        "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+        "source": "Yahoo Finance",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-20T17:34:51.000Z"
+        "publishedAt": "2026-11-22T03:30:00.000Z"
       }
     ],
     "asOf": 1795212959
@@ -271,34 +271,55 @@
       "price": 6910.39,
       "intradayMove": -3.6990842871138194,
       "movement": "S&P 500: πτωτική μεταβολή 3.70% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 74,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         },
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dOZlc3N2c4UXkySVk4bUFjN3RFdy1ldjRKcXdJSlJYelZmU1RRN0NsNWVlQ0thZmxQOWhnMEg4c2RUcFJKTGYtU0JsMlRYN0k4QWRqakVPazBPSkJDWmxLNjIxSlJmSWdOMXhmUnhhZlpFQkNJendNb0VkRjJlTE5JRi1NSDZQV3FaRENSTXhkNXJqNWJRMkFJUQ?oc=5",
-          "publishedAt": "2026-11-20T21:00:32.000Z",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
+            }
+          ],
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -307,38 +328,17 @@
           "sources": [
             {
               "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dOZlc3N2c4UXkySVk4bUFjN3RFdy1ldjRKcXdJSlJYelZmU1RRN0NsNWVlQ0thZmxQOWhnMEg4c2RUcFJKTGYtU0JsMlRYN0k4QWRqakVPazBPSkJDWmxLNjIxSlJmSWdOMXhmUnhhZlpFQkNJendNb0VkRjJlTE5JRi1NSDZQV3FaRENSTXhkNXJqNWJRMkFJUQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 69,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-          "publishedAt": "2026-11-20T21:52:25.000Z",
-          "domain": "ft.com",
-          "source": "Financial Times",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Financial Times",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-              "domain": "ft.com"
-            }
-          ],
-          "importance": 78,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "^IXIC",
@@ -347,150 +347,150 @@
       "price": 22617.732,
       "intradayMove": -5.282706288317869,
       "movement": "NASDAQ Composite: πτωτική μεταβολή 5.28% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 1.58 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.58 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 74,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-          "publishedAt": "2026-11-20T21:52:25.000Z",
-          "domain": "ft.com",
-          "source": "Financial Times",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Financial Times",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-              "domain": "ft.com"
-            }
-          ],
-          "importance": 78,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Canadian dollar falls for third straight week as stock market selloff deepens - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-          "publishedAt": "2026-11-20T17:34:51.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-              "domain": "reuters.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
-          "importance": 73,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "^NDX",
       "name": "NASDAQ 100",
-      "change": -5.611740370818018,
+      "change": -5.611918347028894,
       "price": 25028.982,
-      "intradayMove": -5.611740370818018,
+      "intradayMove": -5.611918347028894,
       "movement": "NASDAQ 100: πτωτική μεταβολή 5.61% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 1.91 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.91 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 74,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-          "publishedAt": "2026-11-20T21:52:25.000Z",
-          "domain": "ft.com",
-          "source": "Financial Times",
-          "description": "",
-          "category": "company",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Financial Times",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
-              "domain": "ft.com"
-            }
-          ],
-          "importance": 78,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Canadian dollar falls for third straight week as stock market selloff deepens - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-          "publishedAt": "2026-11-20T17:34:51.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-              "domain": "reuters.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
-          "importance": 73,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "NVDA",
@@ -499,74 +499,74 @@
       "price": 125.53,
       "intradayMove": -14.008768324427997,
       "movement": "NVIDIA: πτωτική μεταβολή 14.01% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 8.40 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 8.40 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Rep. John Moolenaar: Nvidia, AMD chip sales to China need scrutiny - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
-          "publishedAt": "2026-11-20T12:39:24.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 63,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC Africa",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
-          "publishedAt": "2026-11-20T10:42:09.000Z",
-          "domain": "cnbcafrica.com",
-          "source": "CNBC Africa",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC Africa",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
-              "domain": "cnbcafrica.com"
-            }
-          ],
-          "importance": 61,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 74,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
+            }
+          ],
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "AMD",
@@ -575,74 +575,74 @@
       "price": 424.39,
       "intradayMove": -13.24638688444163,
       "movement": "AMD: πτωτική μεταβολή 13.25% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 7.63 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 7.63 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Rep. John Moolenaar: Nvidia, AMD chip sales to China need scrutiny - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
-          "publishedAt": "2026-11-20T12:39:24.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUt1ZUtTTklEU0JZMlVLZW5DRExyMlg3RUNxRzBfeGU1UVlIQXlzRmFvNF8wWGN3TlNEdlRqMjAzYlNiaUplUTNVdmdjSFdoYXR6U1E5VG04ZlJTdFZETE9nSEx1YUkzWlVfNTJGSmpSRlp5RTNHVTRiQ1p6ZWZEemgzQ2JJeE9ONzVSTGR2QVBGYVRTa2ptejZlSDduOC1xbUdINTZBRGpxdw?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 63,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC Africa",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
-          "publishedAt": "2026-11-20T10:42:09.000Z",
-          "domain": "cnbcafrica.com",
-          "source": "CNBC Africa",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC Africa",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeml2Rk5ZcEZhLVBTWGdBcWxzcnlza1p3X0RJSUFnTEVCcHphRTJMQ2gtdWVDdE9PLXJFamhJUkJIZzFLZ1BJZ1liQmpGZGtXQWtNcXNBYmQ1dVNPV0ZwRzBLVmNyUWZLdFFfTVpnU0NGUW40Rlg5dUo5RmlMOEpzSVNmc05vQXFVYnZWbW5BVUp0UlZjUVU0QmJfRkFpSElDWFE0Vm5hZzhubXA0cU5adk9nSjdMUmY1?oc=5",
-              "domain": "cnbcafrica.com"
-            }
-          ],
-          "importance": 61,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 74,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
+            }
+          ],
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "AVGO",
@@ -651,74 +651,74 @@
       "price": 304.41,
       "intradayMove": -12.185201211596699,
       "movement": "Broadcom: πτωτική μεταβολή 12.19% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 6.57 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 6.57 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-          "publishedAt": "2026-11-20T17:19:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 72,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-          "publishedAt": "2026-11-20T19:53:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-              "domain": "marketwatch.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
-          "importance": 71,
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.577Z"
+      "updatedAt": "2026-11-23T00:55:02.731Z"
     },
     {
       "symbol": "ORCL",
@@ -727,74 +727,74 @@
       "price": 101.19,
       "intradayMove": -8.483313737903586,
       "movement": "Oracle: πτωτική μεταβολή 8.48% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 2.87 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.87 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-          "publishedAt": "2026-11-20T17:19:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 72,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-          "publishedAt": "2026-11-20T19:53:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-              "domain": "marketwatch.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
-          "importance": 71,
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.578Z"
+      "updatedAt": "2026-11-23T00:55:02.732Z"
     },
     {
       "symbol": "TSLA",
@@ -807,70 +807,70 @@
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-          "publishedAt": "2026-11-20T17:19:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 72,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-          "publishedAt": "2026-11-20T19:53:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 71,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Tech stocks tumble, Treasury yields fall as traders seek refuge - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
-          "publishedAt": "2026-11-20T01:46:00.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
-              "domain": "reuters.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
           "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.578Z"
+      "updatedAt": "2026-11-23T00:55:02.732Z"
     },
     {
       "symbol": "PLTR",
@@ -879,74 +879,74 @@
       "price": 143.49,
       "intradayMove": -6.6306611140031215,
       "movement": "Palantir: πτωτική μεταβολή 6.63% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 1.02 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.02 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "publishedAt": "2026-11-20T22:55:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
+          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-              "domain": "reuters.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 79,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-          "publishedAt": "2026-11-20T17:19:43.000Z",
-          "domain": "reuters.com",
-          "source": "Reuters",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-              "domain": "reuters.com"
-            }
-          ],
-          "importance": 72,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-          "publishedAt": "2026-11-20T19:53:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
+          "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains - The Dark Side Of The Boom",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+          "publishedAt": "2026-11-22T03:01:25.000Z",
+          "domain": "thedarksideoftheboom.substack.com",
+          "source": "The Dark Side Of The Boom",
           "description": "",
           "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-              "domain": "marketwatch.com"
+              "name": "The Dark Side Of The Boom",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
+              "domain": "thedarksideoftheboom.substack.com"
             }
           ],
-          "importance": 71,
+          "importance": 55,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+          "publishedAt": "2026-11-22T03:30:00.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
+              "domain": "finance.yahoo.com"
+            }
+          ],
+          "importance": 47,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-20T23:55:49.578Z"
+      "updatedAt": "2026-11-23T00:55:02.732Z"
     }
   ]
 }
