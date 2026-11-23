@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-23T11:48:22.904Z",
+  "updatedAt": "2026-11-23T12:50:47.441Z",
   "quotes": {
     "^GSPC": {
       "price": 6910.39,
@@ -242,7 +242,7 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
         "source": "WSJ",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-23T09:25:00.000Z"
+        "publishedAt": "2026-11-23T09:26:11.000Z"
       },
       {
         "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
@@ -277,7 +277,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -290,7 +290,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -311,7 +311,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -332,13 +332,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.903Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "^IXIC",
@@ -353,7 +353,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -366,7 +366,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -387,7 +387,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -408,13 +408,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.903Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "^NDX",
@@ -429,7 +429,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -442,7 +442,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -463,7 +463,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -484,13 +484,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.903Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "NVDA",
@@ -505,7 +505,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -518,7 +518,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -539,7 +539,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -560,13 +560,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "AMD",
@@ -581,7 +581,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -594,7 +594,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -615,7 +615,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -636,13 +636,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "AVGO",
@@ -657,7 +657,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -670,7 +670,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -691,7 +691,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -712,13 +712,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.440Z"
     },
     {
       "symbol": "ORCL",
@@ -733,7 +733,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -746,7 +746,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -767,7 +767,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -788,13 +788,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.441Z"
     },
     {
       "symbol": "TSLA",
@@ -809,7 +809,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -822,7 +822,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -843,13 +843,13 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.441Z"
     },
     {
       "symbol": "PLTR",
@@ -864,7 +864,7 @@
         {
           "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-          "publishedAt": "2026-11-23T09:25:00.000Z",
+          "publishedAt": "2026-11-23T09:26:11.000Z",
           "domain": "wsj.com",
           "source": "WSJ",
           "description": "",
@@ -877,7 +877,7 @@
               "domain": "wsj.com"
             }
           ],
-          "importance": 77,
+          "importance": 76,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -898,7 +898,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 75,
+          "importance": 74,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -919,13 +919,13 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 66,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T11:48:22.904Z"
+      "updatedAt": "2026-11-23T12:50:47.441Z"
     }
   ]
 }
