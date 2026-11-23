@@ -1,5 +1,5 @@
 {
-  "at": 1795462318060,
+  "at": 1795465543070,
   "articles": [
     {
       "title": "Trump Pressed Nvidia Board to Reinstate Jensen Huang as CEO - Bloomberg.com",
@@ -17,7 +17,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 74,
+      "importance": 73,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +37,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 66,
+      "importance": 65,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -57,13 +57,13 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 55,
+      "importance": 54,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T19:31:58.060Z",
+  "checkedAt": "2026-11-23T20:25:43.070Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
