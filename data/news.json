@@ -1,5 +1,5 @@
 {
-  "at": 1795399945245,
+  "at": 1795403639748,
   "articles": [
     {
       "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
@@ -17,33 +17,13 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 73,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
-      "publishedAt": "2026-11-22T03:30:00.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanEyZXRhTktZQlE2T0w0QURCdlo0dkZMRXZOVG13ZXJ4LVN3UDAyRndxMHRHVmoxazN2ZTJnRW5kS0dWSWdWd1htX0lDc0ZLRmZFWUV6WGhtU3pYYl9Zc0h3aHNvMFlFWVFBUGg0SEVKdnQzZ1hmS1pPS0hDeDJ4S2pUMlo3UHQzQmF5ak9jVEVWWGpaa1FsS0R3?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 46,
+      "importance": 72,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T02:12:25.245Z",
+  "checkedAt": "2026-11-23T03:13:59.748Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
