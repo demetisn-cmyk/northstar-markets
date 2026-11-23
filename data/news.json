@@ -1,5 +1,5 @@
 {
-  "at": 1795416781851,
+  "at": 1795422296048,
   "articles": [
     {
       "title": "Gold rises from 14-month low as markets await U.S. inflation data - CNBC",
@@ -17,7 +17,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 75,
+      "importance": 73,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +37,7 @@
           "domain": "bloomberg.com"
         }
       ],
-      "importance": 67,
+      "importance": 66,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -57,13 +57,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 61,
+      "importance": 59,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T06:53:01.851Z",
+  "checkedAt": "2026-11-23T08:24:56.048Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
