@@ -2,7 +2,7 @@
   "mode": "live",
   "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-23T03:14:00.197Z",
+  "updatedAt": "2026-11-23T04:30:51.073Z",
   "quotes": {
     "^GSPC": {
       "price": 6910.39,
@@ -237,12 +237,12 @@
     ],
     "strongestNews": [
       {
-        "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-        "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-        "source": "Bloomberg.com",
+        "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+        "source": "Yahoo Finance",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-22T20:00:00.000Z"
+        "publishedAt": "2026-11-22T21:25:13.000Z"
       }
     ],
     "asOf": 1795212959
@@ -255,32 +255,10 @@
       "price": 6910.39,
       "intradayMove": -3.6990842871138194,
       "movement": "S&P 500: πτωτική μεταβολή 3.70% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "articles": [],
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "^IXIC",
@@ -289,32 +267,10 @@
       "price": 22617.732,
       "intradayMove": -5.282706288317869,
       "movement": "NASDAQ Composite: πτωτική μεταβολή 5.28% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.58 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 1.58 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "articles": [],
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "^NDX",
@@ -323,32 +279,10 @@
       "price": 25028.982,
       "intradayMove": -5.611918347028894,
       "movement": "NASDAQ 100: πτωτική μεταβολή 5.61% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.91 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Δεν βρέθηκε πρόσφατη, αξιόπιστη είδηση που να συνδέεται άμεσα με αυτή τη μεταβολή. Η μεταβολή είναι 1.91 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Προς το παρόν η ασφαλέστερη ανάγνωση είναι σύγκριση με την ευρύτερη αγορά· δεν αποδίδουμε την κίνηση σε συγκεκριμένο γεγονός χωρίς τεκμήριο.",
       "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "articles": [],
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "NVDA",
@@ -357,32 +291,32 @@
       "price": 125.53,
       "intradayMove": -14.008768324427997,
       "movement": "NVIDIA: πτωτική μεταβολή 14.01% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 8.40 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 8.40 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
-          "directMatch": false
+          "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "AMD",
@@ -391,32 +325,32 @@
       "price": 424.39,
       "intradayMove": -13.24638688444163,
       "movement": "AMD: πτωτική μεταβολή 13.25% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 7.63 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 7.63 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
-          "directMatch": false
+          "directMatch": true
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "AVGO",
@@ -425,32 +359,32 @@
       "price": 304.41,
       "intradayMove": -12.185201211596699,
       "movement": "Broadcom: πτωτική μεταβολή 12.19% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 6.57 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 6.57 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "ORCL",
@@ -459,32 +393,32 @@
       "price": 101.19,
       "intradayMove": -8.483313737903586,
       "movement": "Oracle: πτωτική μεταβολή 8.48% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 2.87 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 2.87 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "updatedAt": "2026-11-23T04:30:51.072Z"
     },
     {
       "symbol": "TSLA",
@@ -493,32 +427,32 @@
       "price": 345.82,
       "intradayMove": -7.636013995352696,
       "movement": "Tesla: πτωτική μεταβολή 7.64% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 3.94 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 3.94 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.196Z"
+      "updatedAt": "2026-11-23T04:30:51.073Z"
     },
     {
       "symbol": "PLTR",
@@ -527,32 +461,32 @@
       "price": 143.49,
       "intradayMove": -6.6306611140031215,
       "movement": "Palantir: πτωτική μεταβολή 6.63% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.02 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 1.02 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "publishedAt": "2026-11-22T21:25:13.000Z",
+          "domain": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "description": "",
-          "category": "macro",
+          "category": "technology",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-              "domain": "bloomberg.com"
+              "name": "Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+              "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 72,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "importance": 64,
+          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T03:14:00.197Z"
+      "updatedAt": "2026-11-23T04:30:51.073Z"
     }
   ]
 }

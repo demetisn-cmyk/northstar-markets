@@ -1,29 +1,29 @@
 {
-  "at": 1795403639748,
+  "at": 1795408250893,
   "articles": [
     {
-      "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-      "publishedAt": "2026-11-22T20:00:00.000Z",
-      "domain": "bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+      "publishedAt": "2026-11-22T21:25:13.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "description": "",
-      "category": "macro",
+      "category": "technology",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "domain": "bloomberg.com"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzFCLThadl9IOEFEc0dvVlFSUWtSTVhYZ1VxUjl6YUZfbmx2STdYalNWek9raHNNWWQ2U1UxckRTMU9xemxvVlVrZEczcF9UTVdMbHBxTVg2clJWTk5IN25INE1CQjl5MDJxdExvZi1iaXgzOThkck45QnV1MXlwaUsxbWx6U01teklwazRDRUFhOFBVWlE?oc=5",
+          "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 72,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "importance": 64,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T03:13:59.748Z",
+  "checkedAt": "2026-11-23T04:30:50.893Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
