@@ -1,5 +1,5 @@
 {
-  "at": 1795422296048,
+  "at": 1795427491025,
   "articles": [
     {
       "title": "Gold rises from 14-month low as markets await U.S. inflation data - CNBC",
@@ -17,27 +17,7 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 73,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-      "publishedAt": "2026-11-22T20:00:00.000Z",
-      "domain": "bloomberg.com",
-      "source": "Bloomberg.com",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
-          "domain": "bloomberg.com"
-        }
-      ],
-      "importance": 66,
+      "importance": 71,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -57,13 +37,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 59,
+      "importance": 58,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T08:24:56.048Z",
+  "checkedAt": "2026-11-23T09:51:31.025Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
