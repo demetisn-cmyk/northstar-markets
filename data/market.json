@@ -2,173 +2,173 @@
   "mode": "live",
   "marketState": "REGULAR",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-23T18:25:29.830Z",
+  "updatedAt": "2026-11-23T19:31:58.779Z",
   "quotes": {
     "^GSPC": {
-      "price": 7264.23,
-      "change": 5.120405650042896,
-      "time": 1795458327,
+      "price": 7253.16,
+      "change": 4.960212086437951,
+      "time": 1795462309,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^IXIC": {
-      "price": 24210.41,
-      "change": 7.041722839407593,
-      "time": 1795458327,
+      "price": 24133.877,
+      "change": 6.703346736976106,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "^NDX": {
-      "price": 26834.285,
-      "change": 7.212850286919379,
-      "time": 1795458324,
+      "price": 26762.77,
+      "change": 6.927121526556696,
+      "time": 1795462313,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AAPL": {
-      "price": 350.02,
-      "change": 2.177720691265758,
-      "time": 1795458328,
+      "price": 350.25,
+      "change": 2.244862213918729,
+      "time": 1795462316,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "MSFT": {
-      "price": 498.51,
-      "change": 2.887393709238011,
-      "time": 1795458327,
+      "price": 496.28,
+      "change": 2.427144390324443,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NVDA": {
-      "price": 165.785,
-      "change": 32.06803154624392,
-      "time": 1795458328,
+      "price": 165.23,
+      "change": 31.625906157890537,
+      "time": 1795462318,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMZN": {
-      "price": 259.335,
-      "change": 5.070496718256214,
-      "time": 1795458328,
+      "price": 257.02,
+      "change": 4.132566242605943,
+      "time": 1795462316,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "GOOGL": {
-      "price": 285.02,
-      "change": 7.437144257227924,
-      "time": 1795458328,
+      "price": 283.66,
+      "change": 6.9244977194768005,
+      "time": 1795462317,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "META": {
-      "price": 599.675,
-      "change": 6.924434776406804,
-      "time": 1795458328,
+      "price": 599.45,
+      "change": 6.884316382569006,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "BRK-B": {
-      "price": 573.65,
-      "change": 0.6403508771929785,
-      "time": 1795458327,
+      "price": 573.025,
+      "change": 0.5307017543859609,
+      "time": 1795462311,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AVGO": {
-      "price": 311.75,
-      "change": 2.411221707565446,
-      "time": 1795458327,
+      "price": 311.565,
+      "change": 2.350448408396561,
+      "time": 1795462317,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "TSLA": {
-      "price": 388.61,
-      "change": 12.373489098374883,
-      "time": 1795458327,
+      "price": 387.615,
+      "change": 12.08576716210746,
+      "time": 1795462317,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "JPM": {
-      "price": 319.225,
-      "change": 2.800051524812434,
-      "time": 1795458326,
+      "price": 318.535,
+      "change": 2.577850771262053,
+      "time": 1795462316,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "WMT": {
-      "price": 129.27,
-      "change": 1.0316529894490092,
-      "time": 1795458326,
+      "price": 129.21,
+      "change": 0.98475967174678,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "LLY": {
-      "price": 1364.695,
-      "change": 1.30538708791413,
-      "time": 1795458323,
+      "price": 1364.81,
+      "change": 1.313923881494462,
+      "time": 1795462317,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "ORCL": {
-      "price": 113.805,
-      "change": 12.466646901867783,
-      "time": 1795458326,
+      "price": 113.23,
+      "change": 11.898408933689106,
+      "time": 1795462316,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "NFLX": {
-      "price": 58.195,
-      "change": 2.5824078970562376,
-      "time": 1795458325,
+      "price": 58.14,
+      "change": 2.48545742993126,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "V": {
-      "price": 411.045,
-      "change": 2.2830766168163863,
-      "time": 1795458321,
+      "price": 411.235,
+      "change": 2.330355587627842,
+      "time": 1795462313,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "COST": {
-      "price": 1099.955,
-      "change": -0.19915619471035373,
-      "time": 1795458323,
+      "price": 1100.07,
+      "change": -0.1887220432790595,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "XOM": {
-      "price": 158.245,
-      "change": -1.090693168323023,
-      "time": 1795458315,
+      "price": 157.73,
+      "change": -1.412588286767935,
+      "time": 1795462317,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "AMD": {
-      "price": 457.8,
-      "change": 7.872475788779195,
-      "time": 1795458327,
+      "price": 452.105,
+      "change": 6.5305497302010025,
+      "time": 1795462315,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "CRM": {
-      "price": 185.6,
-      "change": 2.7571697486435554,
-      "time": 1795458323,
+      "price": 185.18,
+      "change": 2.524637360203744,
+      "time": 1795462307,
       "currency": "USD",
       "marketState": "UNKNOWN"
     },
     "PLTR": {
-      "price": 158.658,
-      "change": 10.570771482333248,
-      "time": 1795458326,
+      "price": 158.18,
+      "change": 10.23764722280298,
+      "time": 1795462316,
       "currency": "USD",
       "marketState": "UNKNOWN"
     }
   },
   "pulse": {
     "marketState": "REGULAR",
-    "headline": "Ανοδική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 +5.12% · NASDAQ Composite +7.04% · NASDAQ 100 +7.21%.",
+    "headline": "Ανοδική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 +4.96% · NASDAQ Composite +6.70% · NASDAQ 100 +6.93%.",
     "breadth": "18 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
     "advancers": 18,
     "decliners": 2,
@@ -176,81 +176,73 @@
       {
         "symbol": "^GSPC",
         "name": "S&P 500",
-        "change": 5.120405650042896,
-        "price": 7264.23,
-        "time": 1795458327
+        "change": 4.960212086437951,
+        "price": 7253.16,
+        "time": 1795462309
       },
       {
         "symbol": "^IXIC",
         "name": "NASDAQ Composite",
-        "change": 7.041722839407593,
-        "price": 24210.41,
-        "time": 1795458327
+        "change": 6.703346736976106,
+        "price": 24133.877,
+        "time": 1795462315
       },
       {
         "symbol": "^NDX",
         "name": "NASDAQ 100",
-        "change": 7.212850286919379,
-        "price": 26834.285,
-        "time": 1795458324
+        "change": 6.927121526556696,
+        "price": 26762.77,
+        "time": 1795462313
       }
     ],
     "leaders": [
       {
         "symbol": "NVDA",
         "name": "NVIDIA",
-        "change": 32.06803154624392,
+        "change": 31.625906157890537,
         "sector": "chips"
-      },
-      {
-        "symbol": "ORCL",
-        "name": "Oracle",
-        "change": 12.466646901867783,
-        "sector": "technology"
       },
       {
         "symbol": "TSLA",
         "name": "Tesla",
-        "change": 12.373489098374883,
+        "change": 12.08576716210746,
         "sector": "consumer"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle",
+        "change": 11.898408933689106,
+        "sector": "technology"
       }
     ],
     "laggards": [
       {
         "symbol": "XOM",
         "name": "Exxon",
-        "change": -1.090693168323023,
+        "change": -1.412588286767935,
         "sector": "energy"
       },
       {
         "symbol": "COST",
         "name": "Costco",
-        "change": -0.19915619471035373,
+        "change": -0.1887220432790595,
         "sector": "consumer"
       },
       {
         "symbol": "BRK-B",
         "name": "Berkshire Hathaway",
-        "change": 0.6403508771929785,
+        "change": 0.5307017543859609,
         "sector": "finance"
       }
     ],
     "strongestNews": [
       {
-        "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-        "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-        "source": "Yahoo Finance",
+        "title": "Trump Pressed Nvidia Board to Reinstate Jensen Huang as CEO - Bloomberg.com",
+        "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+        "source": "Bloomberg.com",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-23T17:22:29.000Z"
-      },
-      {
-        "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-        "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-        "source": "Yahoo Finance",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-23T14:49:56.000Z"
+        "publishedAt": "2026-11-23T14:11:39.000Z"
       },
       {
         "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
@@ -259,42 +251,29 @@
         "source": "MarketWatch",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-23T10:57:00.000Z"
+      },
+      {
+        "title": "Wall Street Surges After Jensen Huang’s Return to Nvidia - The New York Times",
+        "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
+        "source": "The New York Times",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-23T01:25:46.000Z"
       }
     ],
-    "asOf": 1795458327
+    "asOf": 1795462315
   },
   "moves": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "change": 5.120405650042896,
-      "price": 7264.23,
-      "intradayMove": 5.120405650042896,
-      "movement": "S&P 500: ανοδική μεταβολή 5.12% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 4.960212086437951,
+      "price": 7253.16,
+      "intradayMove": 4.960212086437951,
+      "movement": "S&P 500: ανοδική μεταβολή 4.96% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "publishedAt": "2026-11-23T14:49:56.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
@@ -311,7 +290,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -332,45 +311,24 @@
               "domain": "nytimes.com"
             }
           ],
-          "importance": 56,
+          "importance": 55,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.828Z"
+      "updatedAt": "2026-11-23T19:31:58.778Z"
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ Composite",
-      "change": 7.041722839407593,
-      "price": 24210.41,
-      "intradayMove": 7.041722839407593,
-      "movement": "NASDAQ Composite: ανοδική μεταβολή 7.04% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 1.92 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 6.703346736976106,
+      "price": 24133.877,
+      "intradayMove": 6.703346736976106,
+      "movement": "NASDAQ Composite: ανοδική μεταβολή 6.70% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.74 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "publishedAt": "2026-11-23T14:49:56.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
@@ -387,7 +345,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -408,45 +366,24 @@
               "domain": "nytimes.com"
             }
           ],
-          "importance": 56,
+          "importance": 55,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.828Z"
+      "updatedAt": "2026-11-23T19:31:58.778Z"
     },
     {
       "symbol": "^NDX",
       "name": "NASDAQ 100",
-      "change": 7.212850286919379,
-      "price": 26834.285,
-      "intradayMove": 7.212850286919379,
-      "movement": "NASDAQ 100: ανοδική μεταβολή 7.21% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 2.09 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 6.927121526556696,
+      "price": 26762.77,
+      "intradayMove": 6.927121526556696,
+      "movement": "NASDAQ 100: ανοδική μεταβολή 6.93% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 1.97 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "publishedAt": "2026-11-23T14:49:56.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
@@ -463,7 +400,7 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -484,125 +421,65 @@
               "domain": "nytimes.com"
             }
           ],
-          "importance": 56,
+          "importance": 55,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.829Z"
+      "updatedAt": "2026-11-23T19:31:58.778Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "change": 32.06803154624392,
-      "price": 165.785,
-      "intradayMove": 32.06803154624392,
-      "movement": "NVIDIA: ανοδική μεταβολή 32.07% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή είναι 24.86 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 31.625906157890537,
+      "price": 165.23,
+      "intradayMove": 31.625906157890537,
+      "movement": "NVIDIA: ανοδική μεταβολή 31.63% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση. Η μεταβολή είναι 24.70 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "publishedAt": "2026-11-23T14:49:56.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Wall Street Surges After Jensen Huang’s Return to Nvidia - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
-          "publishedAt": "2026-11-23T01:25:46.000Z",
-          "domain": "nytimes.com",
-          "source": "The New York Times",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
-              "domain": "nytimes.com"
-            }
-          ],
-          "importance": 56,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Stocks Surge After Jensen Huang’s Return to Nvidia - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-          "publishedAt": "2026-11-23T01:25:46.000Z",
-          "domain": "nytimes.com",
-          "source": "The New York Times",
+          "title": "Trump Pressed Nvidia Board to Reinstate Jensen Huang as CEO - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+          "publishedAt": "2026-11-23T14:11:39.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "company",
           "corroborations": 1,
           "sources": [
             {
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+              "domain": "bloomberg.com"
+            }
+          ],
+          "importance": 74,
+          "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+          "confidence": "Χαμηλή",
+          "directMatch": true
+        },
+        {
+          "title": "Wall Street Surges After Jensen Huang’s Return to Nvidia - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
+          "publishedAt": "2026-11-23T01:25:46.000Z",
+          "domain": "nytimes.com",
+          "source": "The New York Times",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
               "name": "The New York Times",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
               "domain": "nytimes.com"
             }
           ],
-          "importance": 56,
+          "importance": 55,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": true
-        }
-      ],
-      "updatedAt": "2026-11-23T18:25:29.829Z"
-    },
-    {
-      "symbol": "ORCL",
-      "name": "Oracle",
-      "change": 12.466646901867783,
-      "price": 113.805,
-      "intradayMove": 12.466646901867783,
-      "movement": "Oracle: ανοδική μεταβολή 12.47% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 5.25 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "publishedAt": "2026-11-23T17:22:29.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 2,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-              "domain": "finance.yahoo.com"
-            },
-            {
-              "name": "The Motley Fool",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZllYTzBZeV9VWHdORkZYcW1uLWoxZjVYY0QyRHRiOHplOF96ZWozNzlZNW12OTFweFJTcWw2OHdCRzl4NHlvSEF3MUx4Z1RHMFo4ZmRqRXlDdjhXNnphcjRrc0dBYnBkYmM0NE12WElmX0dublVLMFBLR3kxNzh1QjFPakwtVDNndnUteDlic2dYSUVWaG5iSEFMdHh4YXlSMzNsZ0RGSE9kZjhLUU4zVnpwa2F2TjZWUmdRZFlFekRKZVFMSEFDS2hwM3NkZFVVM1NmRGlxWXVXZi1TbmFJVkpmcThDNmJZUGhZ?oc=5",
-              "domain": "fool.com"
-            }
-          ],
-          "importance": 79,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
         },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
@@ -620,22 +497,22 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.829Z"
+      "updatedAt": "2026-11-23T19:31:58.778Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
-      "change": 12.373489098374883,
-      "price": 388.61,
-      "intradayMove": 12.373489098374883,
-      "movement": "Tesla: ανοδική μεταβολή 12.37% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 7.25 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 12.08576716210746,
+      "price": 387.615,
+      "intradayMove": 12.08576716210746,
+      "movement": "Tesla: ανοδική μεταβολή 12.09% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 7.13 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
@@ -654,50 +531,58 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.829Z"
+      "updatedAt": "2026-11-23T19:31:58.779Z"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "change": 11.898408933689106,
+      "price": 113.23,
+      "intradayMove": 11.898408933689106,
+      "movement": "Oracle: ανοδική μεταβολή 11.90% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 4.97 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
+          "publishedAt": "2026-11-23T10:57:00.000Z",
+          "domain": "marketwatch.com",
+          "source": "MarketWatch",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "MarketWatch",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
+              "domain": "marketwatch.com"
+            }
+          ],
+          "importance": 66,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-23T19:31:58.779Z"
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "change": 10.570771482333248,
-      "price": 158.658,
-      "intradayMove": 10.570771482333248,
-      "movement": "Palantir: ανοδική μεταβολή 10.57% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 3.36 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 10.23764722280298,
+      "price": 158.18,
+      "intradayMove": 10.23764722280298,
+      "movement": "Palantir: ανοδική μεταβολή 10.24% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή είναι 3.31 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "publishedAt": "2026-11-23T17:22:29.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 2,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-              "domain": "finance.yahoo.com"
-            },
-            {
-              "name": "The Motley Fool",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZllYTzBZeV9VWHdORkZYcW1uLWoxZjVYY0QyRHRiOHplOF96ZWozNzlZNW12OTFweFJTcWw2OHdCRzl4NHlvSEF3MUx4Z1RHMFo4ZmRqRXlDdjhXNnphcjRrc0dBYnBkYmM0NE12WElmX0dublVLMFBLR3kxNzh1QjFPakwtVDNndnUteDlic2dYSUVWaG5iSEFMdHh4YXlSMzNsZ0RGSE9kZjhLUU4zVnpwa2F2TjZWUmdRZFlFekRKZVFMSEFDS2hwM3NkZFVVM1NmRGlxWXVXZi1TbmFJVkpmcThDNmJZUGhZ?oc=5",
-              "domain": "fool.com"
-            }
-          ],
-          "importance": 79,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
@@ -714,131 +599,24 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.829Z"
-    },
-    {
-      "symbol": "AMD",
-      "name": "AMD",
-      "change": 7.872475788779195,
-      "price": 457.8,
-      "intradayMove": 7.872475788779195,
-      "movement": "AMD: ανοδική μεταβολή 7.87% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "publishedAt": "2026-11-23T17:22:29.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 2,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-              "domain": "finance.yahoo.com"
-            },
-            {
-              "name": "The Motley Fool",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZllYTzBZeV9VWHdORkZYcW1uLWoxZjVYY0QyRHRiOHplOF96ZWozNzlZNW12OTFweFJTcWw2OHdCRzl4NHlvSEF3MUx4Z1RHMFo4ZmRqRXlDdjhXNnphcjRrc0dBYnBkYmM0NE12WElmX0dublVLMFBLR3kxNzh1QjFPakwtVDNndnUteDlic2dYSUVWaG5iSEFMdHh4YXlSMzNsZ0RGSE9kZjhLUU4zVnpwa2F2TjZWUmdRZFlFekRKZVFMSEFDS2hwM3NkZFVVM1NmRGlxWXVXZi1TbmFJVkpmcThDNmJZUGhZ?oc=5",
-              "domain": "fool.com"
-            }
-          ],
-          "importance": 79,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "publishedAt": "2026-11-23T14:49:56.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 68,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
-          "publishedAt": "2026-11-23T10:57:00.000Z",
-          "domain": "marketwatch.com",
-          "source": "MarketWatch",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "MarketWatch",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
-              "domain": "marketwatch.com"
-            }
-          ],
-          "importance": 67,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-23T18:25:29.830Z"
+      "updatedAt": "2026-11-23T19:31:58.779Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
-      "change": 7.437144257227924,
-      "price": 285.02,
-      "intradayMove": 7.437144257227924,
-      "movement": "Alphabet: ανοδική μεταβολή 7.44% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "change": 6.9244977194768005,
+      "price": 283.66,
+      "intradayMove": 6.9244977194768005,
+      "movement": "Alphabet: ανοδική μεταβολή 6.92% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
-        {
-          "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "publishedAt": "2026-11-23T17:22:29.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 2,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-              "domain": "finance.yahoo.com"
-            },
-            {
-              "name": "The Motley Fool",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZllYTzBZeV9VWHdORkZYcW1uLWoxZjVYY0QyRHRiOHplOF96ZWozNzlZNW12OTFweFJTcWw2OHdCRzl4NHlvSEF3MUx4Z1RHMFo4ZmRqRXlDdjhXNnphcjRrc0dBYnBkYmM0NE12WElmX0dublVLMFBLR3kxNzh1QjFPakwtVDNndnUteDlic2dYSUVWaG5iSEFMdHh4YXlSMzNsZ0RGSE9kZjhLUU4zVnpwa2F2TjZWUmdRZFlFekRKZVFMSEFDS2hwM3NkZFVVM1NmRGlxWXVXZi1TbmFJVkpmcThDNmJZUGhZ?oc=5",
-              "domain": "fool.com"
-            }
-          ],
-          "importance": 79,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
         {
           "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
@@ -855,13 +633,47 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 67,
+          "importance": 66,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-23T18:25:29.830Z"
+      "updatedAt": "2026-11-23T19:31:58.779Z"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "change": 6.884316382569006,
+      "price": 599.45,
+      "intradayMove": 6.884316382569006,
+      "movement": "Meta: ανοδική μεταβολή 6.88% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
+          "publishedAt": "2026-11-23T10:57:00.000Z",
+          "domain": "marketwatch.com",
+          "source": "MarketWatch",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "MarketWatch",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempjM3lsdUx2MWstNHkxOEtKelpwUGNGOGVpZUVQdVM0aXBWdjV6TVhrU2lfakxTZ2Z2SS1tS0RMVjRPUW9JSjI5VE85cW9CNk9NbTJOTmdsT0tob0FnVExtdmJpV21UczFvZWs5NGxXT3l1UUpoZGhmZUJ1MTV6aUZMOXZhZDlheHlmOEZ1dkRsWmdnYzZqaHh2OU1uMjZzdktCX0szd1lMWlktRVVpbXZNZXVpRVlQdjdmN2tTMnVuNGljcVFzUjJpNlg?oc=5",
+              "domain": "marketwatch.com"
+            }
+          ],
+          "importance": 66,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-23T19:31:58.779Z"
     }
   ]
 }

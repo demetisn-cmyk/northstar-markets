@@ -1,49 +1,24 @@
 {
-  "at": 1795458329339,
+  "at": 1795462318060,
   "articles": [
     {
-      "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-      "publishedAt": "2026-11-23T17:22:29.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
+      "title": "Trump Pressed Nvidia Board to Reinstate Jensen Huang as CEO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+      "publishedAt": "2026-11-23T14:11:39.000Z",
+      "domain": "bloomberg.com",
+      "source": "Bloomberg.com",
       "description": "",
-      "category": "technology",
-      "corroborations": 2,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "domain": "finance.yahoo.com"
-        },
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZllYTzBZeV9VWHdORkZYcW1uLWoxZjVYY0QyRHRiOHplOF96ZWozNzlZNW12OTFweFJTcWw2OHdCRzl4NHlvSEF3MUx4Z1RHMFo4ZmRqRXlDdjhXNnphcjRrc0dBYnBkYmM0NE12WElmX0dublVLMFBLR3kxNzh1QjFPakwtVDNndnUteDlic2dYSUVWaG5iSEFMdHh4YXlSMzNsZ0RGSE9kZjhLUU4zVnpwa2F2TjZWUmdRZFlFekRKZVFMSEFDS2hwM3NkZFVVM1NmRGlxWXVXZi1TbmFJVkpmcThDNmJZUGhZ?oc=5",
-          "domain": "fool.com"
-        }
-      ],
-      "importance": 79,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-      "publishedAt": "2026-11-23T14:49:56.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "technology",
+      "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "domain": "finance.yahoo.com"
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+          "domain": "bloomberg.com"
         }
       ],
-      "importance": 68,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "importance": 74,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -62,7 +37,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 67,
+      "importance": 66,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -82,33 +57,13 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 56,
-      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Stocks Surge After Jensen Huang’s Return to Nvidia - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-      "publishedAt": "2026-11-23T01:25:46.000Z",
-      "domain": "nytimes.com",
-      "source": "The New York Times",
-      "description": "",
-      "category": "company",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-          "domain": "nytimes.com"
-        }
-      ],
-      "importance": 56,
+      "importance": 55,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-23T18:25:29.339Z",
+  "checkedAt": "2026-11-23T19:31:58.060Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
