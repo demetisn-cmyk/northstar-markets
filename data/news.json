@@ -1,5 +1,5 @@
 {
-  "at": 1795535536344,
+  "at": 1795539352397,
   "articles": [
     {
       "title": "Jensen Huang Just Killed Hopes For a Fed Rate Pause. Will Kevin Warsh Crush the Stock Market Recovery on Dec. 9? - Yahoo Finance",
@@ -22,7 +22,7 @@
           "domain": "fool.com"
         }
       ],
-      "importance": 72,
+      "importance": 71,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -42,7 +42,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -62,52 +62,27 @@
           "domain": "bbc.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
-      "publishedAt": "2026-11-24T03:47:00.000Z",
+      "title": "US futures, European stocks slip as Nvidia rally cools - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkYtS2FmcVdSQWZoN3k3ZGNUbkF1akRXOFU2VTdtLXJBV3JBZF85N2tTZFh5TUpFbHBTRThVQXhMaXpZQzh1WjZESmN5NEdxQjY1LU1EQlZkRUk1NGVfTjNFZTlONVRGaDFZY3dKZWZjVE5zMXVoRXBxNjIweUQwaXpzWW9WOTVBNHJKaEtha0ttTzhhYVZtajhmUnZXUQ?oc=5",
+      "publishedAt": "2026-11-24T10:37:51.000Z",
       "domain": "finance.yahoo.com",
       "source": "Yahoo Finance",
-      "description": "",
-      "category": "company",
-      "corroborations": 2,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
-          "domain": "finance.yahoo.com"
-        },
-        {
-          "name": "Asianet Newsable",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWE1yNWlhUVMwVDNJRjFtak5HUTZoNS1NX0NvdEhNRTgxS3VaLTM0X1VReWZWdVNZRFZWZ0djR19MeTRDMGttUng5cC1pRE96YVVFdmZzd2NRWHBLNU54cDl0NWVqN3JHaE1nZWVMX29hTFhRVzdmVkpidWdnakYtWmZabW5YUzhRNFNFcm00VHU4RXJ0U2h1LXpHRW1sOGFhRDk1N3ltLTFkNE9rNVZOVDByRkdydXM5ekJzc3hTaUtVT0N4bEhic0UyTHo2LVRVMFdSRDF0aGxhZXoxTWpnTUxlU194VlMteVQ1ajU0ck5HYlo4cXBVYkdQSmhUWmF2VlBoZGNray1PQ25f0gGSAkFVX3lxTE9pVlVzLU1DQTRLbnlneGpncmthZjBncFVmaDg0X2NhRGpvTzFrOEdpb1NTbG81V085ZU9GRG4zYXZVOFFBRTJaTzVzYWg3MkkzNDdIRnl3WGJHMXdoWWJ5VC1zZXczang5Yk9LaVU4MF9mVmlPV0RCWVFZR3pjeVRvQmxrLVdzZDJBTW1vV0lhTk95Y3pmSzNCdUJHNFlZVlNjOUYxZ0cxMk9nb3ZoTC1xcUdJWjhwOU16UklTSHVkX3luUWdzV2xUQVdURmFvSjRyQnZZZ3RGM3hwNTdYRWxNLVUzRW8zd0ctOVdLbmtkNS1JS3plZDFncVhyRVdMclNELXFyRktzM1JQZmE5YU1KMHc?oc=5",
-          "domain": "newsable.asianetnews.com"
-        }
-      ],
-      "importance": 66,
-      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "US futures, European stocks slip as Nvidia rally cools - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
-      "publishedAt": "2026-11-24T01:29:00.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
       "description": "",
       "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
-          "domain": "reuters.com"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkYtS2FmcVdSQWZoN3k3ZGNUbkF1akRXOFU2VTdtLXJBV3JBZF85N2tTZFh5TUpFbHBTRThVQXhMaXpZQzh1WjZESmN5NEdxQjY1LU1EQlZkRUk1NGVfTjNFZTlONVRGaDFZY3dKZWZjVE5zMXVoRXBxNjIweUQwaXpzWW9WOTVBNHJKaEtha0ttTzhhYVZtajhmUnZXUQ?oc=5",
+          "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 63,
+      "importance": 65,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -127,8 +102,28 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 63,
+      "importance": 62,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Congress is going to war with Nvidia - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVR4X1QxSE5QdndMMENMQXhvbElkOXN1R3VyUWNhRzRBTjdORnlPZG5QcUNkUGhGM3ZWQmF4cmRDTkhBSWJmcFVqUy14WFJoQk56cXJoZWQ3bVEyY0tuc1hLTXNQYXlKUWJzM3BRN3AwRXVXeGFSZVo5eVJKM3FKMDdoaklhbTZfcXRodUpCNA?oc=5",
+      "publishedAt": "2026-11-23T23:58:00.000Z",
+      "domain": "politico.com",
+      "source": "Politico",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVR4X1QxSE5QdndMMENMQXhvbElkOXN1R3VyUWNhRzRBTjdORnlPZG5QcUNkUGhGM3ZWQmF4cmRDTkhBSWJmcFVqUy14WFJoQk56cXJoZWQ3bVEyY0tuc1hLTXNQYXlKUWJzM3BRN3AwRXVXeGFSZVo5eVJKM3FKMDdoaklhbTZfcXRodUpCNA?oc=5",
+          "domain": "politico.com"
+        }
+      ],
+      "importance": 56,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -147,7 +142,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 55,
+      "importance": 53,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -167,7 +162,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 52,
+      "importance": 51,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -187,28 +182,8 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 52,
-      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-      "publishedAt": "2026-11-23T21:14:26.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
       "importance": 51,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -227,13 +202,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 48,
+      "importance": 46,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-24T15:52:16.344Z",
+  "checkedAt": "2026-11-24T16:55:52.397Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
