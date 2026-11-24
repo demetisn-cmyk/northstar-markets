@@ -1,6 +1,26 @@
 {
-  "at": 1795478829801,
+  "at": 1795483086892,
   "articles": [
+    {
+      "title": "Congress is going to war with Nvidia - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVR4X1QxSE5QdndMMENMQXhvbElkOXN1R3VyUWNhRzRBTjdORnlPZG5QcUNkUGhGM3ZWQmF4cmRDTkhBSWJmcFVqUy14WFJoQk56cXJoZWQ3bVEyY0tuc1hLTXNQYXlKUWJzM3BRN3AwRXVXeGFSZVo5eVJKM3FKMDdoaklhbTZfcXRodUpCNA?oc=5",
+      "publishedAt": "2026-11-23T23:58:00.000Z",
+      "domain": "politico.com",
+      "source": "Politico",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVR4X1QxSE5QdndMMENMQXhvbElkOXN1R3VyUWNhRzRBTjdORnlPZG5QcUNkUGhGM3ZWQmF4cmRDTkhBSWJmcFVqUy14WFJoQk56cXJoZWQ3bVEyY0tuc1hLTXNQYXlKUWJzM3BRN3AwRXVXeGFSZVo5eVJKM3FKMDdoaklhbTZfcXRodUpCNA?oc=5",
+          "domain": "politico.com"
+        }
+      ],
+      "importance": 74,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5",
@@ -17,7 +37,7 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 76,
+      "importance": 74,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +57,7 @@
           "domain": "bbc.com"
         }
       ],
-      "importance": 75,
+      "importance": 74,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -57,28 +77,8 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-      "publishedAt": "2026-11-23T21:14:26.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
       "importance": 69,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -97,7 +97,7 @@
           "domain": "bbc.co.uk"
         }
       ],
-      "importance": 66,
+      "importance": 65,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -117,7 +117,7 @@
           "domain": "marketwatch.com"
         }
       ],
-      "importance": 61,
+      "importance": 59,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -137,13 +137,13 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 50,
+      "importance": 49,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-24T00:07:09.801Z",
+  "checkedAt": "2026-11-24T01:18:06.892Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
