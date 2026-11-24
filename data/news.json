@@ -1,6 +1,46 @@
 {
-  "at": 1795552726655,
+  "at": 1795556296511,
   "articles": [
+    {
+      "title": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+      "publishedAt": "2026-11-24T16:52:08.000Z",
+      "domain": "wsj.com",
+      "source": "WSJ",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+          "domain": "wsj.com"
+        }
+      ],
+      "importance": 75,
+      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US Tariffs on India: Fresh Levies Loom as Trade Deal Awaits Clarity - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEI2cVVtTnkydUpSQy1VbEJyR1dwZl9rc1VLZVA4SFpoYWJMbkx1OUlGS2lpOXRqcGVPMzZRV2FPSGpITkVEc2JINndGWTczbHpLM1dPWkYyV2RaWUpYYzEwbkl2VlRaS053VmNVY1pLMFNDY3A5ZFdaTUkzU3pnSHhxOA?oc=5",
+      "publishedAt": "2026-11-24T14:56:08.000Z",
+      "domain": "niftytrader.in",
+      "source": "NiftyTrader",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "NiftyTrader",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEI2cVVtTnkydUpSQy1VbEJyR1dwZl9rc1VLZVA4SFpoYWJMbkx1OUlGS2lpOXRqcGVPMzZRV2FPSGpITkVEc2JINndGWTczbHpLM1dPWkYyV2RaWUpYYzEwbkl2VlRaS053VmNVY1pLMFNDY3A5ZFdaTUkzU3pnSHhxOA?oc=5",
+          "domain": "niftytrader.in"
+        }
+      ],
+      "importance": 72,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
@@ -17,7 +57,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 69,
       "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +77,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 69,
+      "importance": 67,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -62,7 +102,7 @@
           "domain": "fool.com"
         }
       ],
-      "importance": 67,
+      "importance": 66,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -82,7 +122,32 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 65,
+      "importance": 63,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
+      "publishedAt": "2026-11-24T03:47:00.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "company",
+      "corroborations": 2,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
+          "domain": "finance.yahoo.com"
+        },
+        {
+          "name": "Asianet Newsable",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWE1yNWlhUVMwVDNJRjFtak5HUTZoNS1NX0NvdEhNRTgxS3VaLTM0X1VReWZWdVNZRFZWZ0djR19MeTRDMGttUng5cC1pRE96YVVFdmZzd2NRWHBLNU54cDl0NWVqN3JHaE1nZWVMX29hTFhRVzdmVkpidWdnakYtWmZabW5YUzhRNFNFcm00VHU4RXJ0U2h1LXpHRW1sOGFhRDk1N3ltLTFkNE9rNVZOVDByRkdydXM5ekJzc3hTaUtVT0N4bEhic0UyTHo2LVRVMFdSRDF0aGxhZXoxTWpnTUxlU194VlMteVQ1ajU0ck5HYlo4cXBVYkdQSmhUWmF2VlBoZGNray1PQ25f0gGSAkFVX3lxTE9pVlVzLU1DQTRLbnlneGpncmthZjBncFVmaDg0X2NhRGpvTzFrOEdpb1NTbG81V085ZU9GRG4zYXZVOFFBRTJaTzVzYWg3MkkzNDdIRnl3WGJHMXdoWWJ5VC1zZXczang5Yk9LaVU4MF9mVmlPV0RCWVFZR3pjeVRvQmxrLVdzZDJBTW1vV0lhTk95Y3pmSzNCdUJHNFlZVlNjOUYxZ0cxMk9nb3ZoTC1xcUdJWjhwOU16UklTSHVkX3luUWdzV2xUQVdURmFvSjRyQnZZZ3RGM3hwNTdYRWxNLVUzRW8zd0ctOVdLbmtkNS1JS3plZDFncVhyRVdMclNELXFyRktzM1JQZmE5YU1KMHc?oc=5",
+          "domain": "newsable.asianetnews.com"
+        }
+      ],
+      "importance": 59,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -102,8 +167,28 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 58,
+      "importance": 57,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Gold ticks lower on hawkish Fed bets, U.S. inflation data in focus - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bWhmbU4xZ1hKTVZnTGh3R2tubjZ5SlE0OFVjaGJDcGRzUHIzWnI1RmhuZzBDUkE3R2RIQ3ZDNU9xV282X3QxTFdvZVpIUUhWRnJEWXFCbDJ4QTNiLTNkRWtzYy16S3VWdFY2OS1rS1N1LXo4Z2JBcTNKb0FZNWPSAYQBQVVfeXFMTXd0ckxjMUlfaXVYbFFieDlSbWs1OWZWRkljX0VHM1ZJeE1wRWhNbFJFbmIwZXR4WmR5UC13NGpDaTVMNkw3Vk1EdG43S3c1VWx0WERuM0htTVpHRjFieV9VeVhfN3p2ZUgzQndxT0gxaFZDbE9NRW96VFV0eU4xU0owcWhf?oc=5",
+      "publishedAt": "2026-11-24T04:32:00.000Z",
+      "domain": "cnbc.com",
+      "source": "CNBC",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bWhmbU4xZ1hKTVZnTGh3R2tubjZ5SlE0OFVjaGJDcGRzUHIzWnI1RmhuZzBDUkE3R2RIQ3ZDNU9xV282X3QxTFdvZVpIUUhWRnJEWXFCbDJ4QTNiLTNkRWtzYy16S3VWdFY2OS1rS1N1LXo4Z2JBcTNKb0FZNWPSAYQBQVVfeXFMTXd0ckxjMUlfaXVYbFFieDlSbWs1OWZWRkljX0VHM1ZJeE1wRWhNbFJFbmIwZXR4WmR5UC13NGpDaTVMNkw3Vk1EdG43S3c1VWx0WERuM0htTVpHRjFieV9VeVhfN3p2ZUgzQndxT0gxaFZDbE9NRW96VFV0eU4xU0owcWhf?oc=5",
+          "domain": "cnbc.com"
+        }
+      ],
+      "importance": 56,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
@@ -122,7 +207,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 50,
+      "importance": 48,
       "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     },
@@ -142,33 +227,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 49,
+      "importance": 48,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
-      "publishedAt": "2026-11-23T22:15:48.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 46,
-      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-24T20:38:46.655Z",
+  "checkedAt": "2026-11-24T21:38:16.511Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
