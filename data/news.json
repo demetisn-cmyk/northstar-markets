@@ -1,5 +1,5 @@
 {
-  "at": 1795528223117,
+  "at": 1795531659156,
   "articles": [
     {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang - BBC",
@@ -17,7 +17,7 @@
           "domain": "bbc.com"
         }
       ],
-      "importance": 73,
+      "importance": 72,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -37,7 +37,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -62,12 +62,12 @@
           "domain": "newsable.asianetnews.com"
         }
       ],
-      "importance": 68,
+      "importance": 67,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "US futures, European stocks slip as Nvidia rally cools - Reuters",
+      "title": "US stocks set to slide as Nvidia rally fizzles out - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
       "publishedAt": "2026-11-24T01:29:00.000Z",
       "domain": "reuters.com",
@@ -82,7 +82,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 66,
+      "importance": 65,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -102,7 +102,7 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 65,
+      "importance": 64,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -122,7 +122,7 @@
           "domain": "politico.com"
         }
       ],
-      "importance": 60,
+      "importance": 59,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -142,7 +142,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
+      "importance": 56,
       "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
@@ -162,8 +162,28 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 54,
+      "importance": 53,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
+      "publishedAt": "2026-11-23T22:15:48.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTV0QmI2TEUybTlKQU5JLXpfWEFXbDh2SVF0SkYxS216UVJpYTNRS2I4ODF3RnlLWk5Ic2ExNVlKVEl3MTdtOG9VMWg1UnVqNzNsbmZWdGg2TjQ0WllYSVpmWnlBb0RBRUNNMnd2YlBDT0J3X2EwT2t4WFBPdEwwZ1ZubjJESzdrcnNjeHRoSUZ0anY4SDladmFwb1gtU3M?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 53,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
     {
@@ -182,7 +202,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 53,
+      "importance": 52,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
       "confidence": "Χαμηλή"
     },
@@ -202,7 +222,7 @@
           "domain": "nytimes.com"
         }
       ],
-      "importance": 52,
+      "importance": 51,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     },
@@ -222,33 +242,13 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 50,
+      "importance": 49,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-      "publishedAt": "2026-11-23T17:22:29.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1sWUxrOFVIUEFNYTI1bnFIWFpYYXB5NFpyR1I4X293djJ4WFZhblNlQTFTdnMtaW55emNiMEZPUkRnUGFXUE5nRzNzbTluWTdGYVd1N1h0eWxoOTE1QjM2UkItYnhfcDdqU2tTU3ZzaTFpdGhlMmYxZ1JxQTBZVWNhT0hVV19NTTlUVjczUnZiZVlZWVI3RkltQQ?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 48,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-24T13:50:23.117Z",
+  "checkedAt": "2026-11-24T14:47:39.156Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
