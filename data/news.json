@@ -1,90 +1,50 @@
 {
-  "at": 1795622869916,
+  "at": 1795652370985,
   "articles": [
     {
-      "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
-      "publishedAt": "2026-11-25T15:20:22.000Z",
+      "title": "Asian Stocks Set for Gains After Late US Rebound: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+      "publishedAt": "2026-11-25T23:20:25.000Z",
       "domain": "bloomberg.com",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "description": "",
-      "category": "macro",
+      "category": "company",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
           "domain": "bloomberg.com"
         }
       ],
       "importance": 79,
-      "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Nasdaq falls 3% at the open as AI rout intensifies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-      "publishedAt": "2026-11-25T14:38:10.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
+      "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+      "publishedAt": "2026-11-25T21:52:28.000Z",
+      "domain": "bloomberg.com",
+      "source": "Bloomberg",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-          "domain": "reuters.com"
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+          "domain": "bloomberg.com"
         }
       ],
-      "importance": 78,
+      "importance": 77,
       "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Trump announces new tariffs, undeterred by midterms defeat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-      "publishedAt": "2026-11-25T14:30:58.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
-      "description": "",
-      "category": "politics",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-          "domain": "reuters.com"
-        }
-      ],
-      "importance": 78,
-      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5",
-      "publishedAt": "2026-11-25T15:08:00.000Z",
-      "domain": "marketwatch.com",
-      "source": "MarketWatch",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5",
-          "domain": "marketwatch.com"
-        }
-      ],
-      "importance": 75,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
       "title": "Fed policymakers at odds over causes of high inflation - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
-      "publishedAt": "2026-11-25T11:02:09.000Z",
+      "publishedAt": "2026-11-25T20:50:24.000Z",
       "domain": "reuters.com",
       "source": "Reuters",
       "description": "",
@@ -97,14 +57,94 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 74,
+      "importance": 76,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Wall St set for lower open as AI losses deepen; inflation, tariffs weigh - Yahoo Finance",
+      "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+      "publishedAt": "2026-11-25T18:55:31.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+          "domain": "reuters.com"
+        }
+      ],
+      "importance": 74,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
+      "publishedAt": "2026-11-25T21:32:42.000Z",
+      "domain": "nytimes.com",
+      "source": "The New York Times",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
+          "domain": "nytimes.com"
+        }
+      ],
+      "importance": 73,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+      "publishedAt": "2026-11-25T18:26:10.000Z",
+      "domain": "reuters.com",
+      "source": "Reuters",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+          "domain": "reuters.com"
+        }
+      ],
+      "importance": 73,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0o1WjBQV3JLSkJlU1VRU0I4SUczYUVfcG1zZEVLU0ZZa1Y3MFJYcHhZWHNtVlVPTWJjcUJYalpFWEFIVkdjNW8xTFkwSG5uUC1YNG0zOVpGcE1GQ1h3UU5YZmxkUEFnWFQ1aTZSVklUSU9EblV0ckVYeEpNaGxIVUpNYlplaDBONHEwSkpPUGdXX2RiUXJQb1lOb0RQdEJwQUwxam0xZjZ5dnJlYUNFM2pZeDZmQVVlNzFDRUZHaWZBQWVCLTBPYUF1VXpXYmxT?oc=5",
+      "publishedAt": "2026-11-25T19:39:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0o1WjBQV3JLSkJlU1VRU0I4SUczYUVfcG1zZEVLU0ZZa1Y3MFJYcHhZWHNtVlVPTWJjcUJYalpFWEFIVkdjNW8xTFkwSG5uUC1YNG0zOVpGcE1GQ1h3UU5YZmxkUEFnWFQ1aTZSVklUSU9EblV0ckVYeEpNaGxIVUpNYlplaDBONHEwSkpPUGdXX2RiUXJQb1lOb0RQdEJwQUwxam0xZjZ5dnJlYUNFM2pZeDZmQVVlNzFDRUZHaWZBQWVCLTBPYUF1VXpXYmxT?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 71,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-      "publishedAt": "2026-11-25T14:19:07.000Z",
+      "publishedAt": "2026-11-25T22:19:30.000Z",
       "domain": "finance.yahoo.com",
       "source": "Yahoo Finance",
       "description": "",
@@ -118,33 +158,13 @@
         }
       ],
       "importance": 70,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "US proposes new tariffs aimed at factory overcapacity - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG1ROGduQ1lReEV5Q291bFllMk5UNFFxLU5rdnNHTi1jdTV1SXVtN1JpMTgwalFXZXZVeVBVSzFUNUVJbUQ2Wm5uQk5aMzZETWl3aFJxT0x3ZWVBcGdxZlR0ZVVwQ3NvX3RMXzdmSHpsRUo5NlIyMW5oME82UXFNMy1tbFBvS2hGYVFsWHZJTVVwaVdRMmNpMi1OSE9udw?oc=5",
-      "publishedAt": "2026-11-25T14:00:01.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "politics",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG1ROGduQ1lReEV5Q291bFllMk5UNFFxLU5rdnNHTi1jdTV1SXVtN1JpMTgwalFXZXZVeVBVSzFUNUVJbUQ2Wm5uQk5aMzZETWl3aFJxT0x3ZWVBcGdxZlR0ZVVwQ3NvX3RMXzdmSHpsRUo5NlIyMW5oME82UXFNMy1tbFBvS2hGYVFsWHZJTVVwaVdRMmNpMi1OSE9udw?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 70,
-      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "US inflation rises further in October - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pMenpBcnd0Umw2aENCSkVyS0t2b0RUak43NWY1UHRMMnlaQmd3U1B4RG5nejJfMDI1N2haVWYxd1RZQk1tb25seTFZbS11aE55U3dUN3hPenNtdWVNQmp5UVg1M0VoSkxPcmRIVkVXSG95TndsbHlPX0I4ZVg4SGQ1WWtmOTQzTjdzTGxjdXd3X21RSXFfZ25VZ3drWVNv?oc=5",
-      "publishedAt": "2026-11-25T13:47:51.000Z",
+      "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
+      "publishedAt": "2026-11-25T22:06:45.000Z",
       "domain": "finance.yahoo.com",
       "source": "Yahoo Finance",
       "description": "",
@@ -153,7 +173,7 @@
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pMenpBcnd0Umw2aENCSkVyS0t2b0RUak43NWY1UHRMMnlaQmd3U1B4RG5nejJfMDI1N2haVWYxd1RZQk1tb25seTFZbS11aE55U3dUN3hPenNtdWVNQmp5UVg1M0VoSkxPcmRIVkVXSG95TndsbHlPX0I4ZVg4SGQ1WWtmOTQzTjdzTGxjdXd3X21RSXFfZ25VZ3drWVNv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
           "domain": "finance.yahoo.com"
         }
       ],
@@ -162,9 +182,189 @@
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Global risk-off mood lifts dollar ahead of inflation data - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk1HMjFrYmp4TnhYVVd5aW9TcjZLMGJnOXdlTi0zTFVUelgzbjZZTE82cW5pTU1WTFh3RFE3czlLSjJPa3hiMzRITm5FckYzRFVBbEpObHRvSUVic2VUVGRUcTBsWmtSY2Nad0k0bzl0UjNuUWZ4b29OYm1seEctc2U4YjlLQldQOWM1VThpSjdjeE14VVFYX1lrWTQ5b3Q3?oc=5",
-      "publishedAt": "2026-11-25T12:33:11.000Z",
+      "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+      "publishedAt": "2026-11-25T21:18:06.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 69,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+      "publishedAt": "2026-11-25T17:48:09.000Z",
+      "domain": "bbc.com",
+      "source": "BBC",
+      "description": "",
+      "category": "technology",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+          "domain": "bbc.com"
+        }
+      ],
+      "importance": 68,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1ZXTDVEU29FWUtGNFJaQk13ckRwNjBRYXpXdmV1V3hKRzdsQUNsWE95aFBHenNRUlJ6eGNKNmlCa0thT0EtR285elg2VUpHZDRkcHAtUWZlaWRHOEt2TjJWY3pHRzROdFN6Q3EwZXAweWQ5LWJVZ1dROElKOFhrOGxEM0xBVk10TnF6aFJOOWUzbnVfZzNKNGtZOE1FR2ZfelRJTjV5SXBqX2E3amdtVHVnR2pIX0RWYng3OWxCakVEclk?oc=5",
+      "publishedAt": "2026-11-25T17:39:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1ZXTDVEU29FWUtGNFJaQk13ckRwNjBRYXpXdmV1V3hKRzdsQUNsWE95aFBHenNRUlJ6eGNKNmlCa0thT0EtR285elg2VUpHZDRkcHAtUWZlaWRHOEt2TjJWY3pHRzROdFN6Q3EwZXAweWQ5LWJVZ1dROElKOFhrOGxEM0xBVk10TnF6aFJOOWUzbnVfZzNKNGtZOE1FR2ZfelRJTjV5SXBqX2E3amdtVHVnR2pIX0RWYng3OWxCakVEclk?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 68,
+      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5",
+      "publishedAt": "2026-11-25T17:31:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 68,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+      "publishedAt": "2026-11-25T16:49:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 67,
+      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+      "publishedAt": "2026-11-25T16:21:34.000Z",
+      "domain": "bbc.com",
+      "source": "BBC",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+          "domain": "bbc.com"
+        }
+      ],
+      "importance": 67,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+      "publishedAt": "2026-11-25T15:58:36.000Z",
+      "domain": "nytimes.com",
+      "source": "The New York Times",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+          "domain": "nytimes.com"
+        }
+      ],
+      "importance": 66,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SREI2WkZTZTJWN0daalVYUlBFRVAtcUNzY3BybGN3dnJCUU1OR2dVRkNXMDRMWmtISWZSSkdNeFNGdm4xc2ZveGtVMmtnUFFqanhXbmhhcktZUWRrM1BpVUE0OU5ZNnNTOENfVDhoTmdWQWxNZGlFbXFR0gF_QVVfeXFMTmFSS3ViODJ4VUhoUF9pUHJwRldEZTlzTHoxRWt3djJQZGJLZ2R4dG9MSk9KaEZtbUp1a1ZwZjNMS0VJbDIyTldzcTlTblFKaWZ5LXJ0UXRMZERRbHNUZDdNYzV5UzVSV0pJYUhoVFh2T1psRElLZFlNUEVnUnBMaw?oc=5",
+      "publishedAt": "2026-11-25T13:31:45.000Z",
+      "domain": "cnbc.com",
+      "source": "CNBC",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SREI2WkZTZTJWN0daalVYUlBFRVAtcUNzY3BybGN3dnJCUU1OR2dVRkNXMDRMWmtISWZSSkdNeFNGdm4xc2ZveGtVMmtnUFFqanhXbmhhcktZUWRrM1BpVUE0OU5ZNnNTOENfVDhoTmdWQWxNZGlFbXFR0gF_QVVfeXFMTmFSS3ViODJ4VUhoUF9pUHJwRldEZTlzTHoxRWt3djJQZGJLZ2R4dG9MSk9KaEZtbUp1a1ZwZjNMS0VJbDIyTldzcTlTblFKaWZ5LXJ0UXRMZERRbHNUZDdNYzV5UzVSV0pJYUhoVFh2T1psRElLZFlNUEVnUnBMaw?oc=5",
+          "domain": "cnbc.com"
+        }
+      ],
+      "importance": 64,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
+      "publishedAt": "2026-11-25T15:33:01.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 62,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
+      "publishedAt": "2026-11-25T09:58:15.000Z",
       "domain": "finance.yahoo.com",
       "source": "Yahoo Finance",
       "description": "",
@@ -173,11 +373,31 @@
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk1HMjFrYmp4TnhYVVd5aW9TcjZLMGJnOXdlTi0zTFVUelgzbjZZTE82cW5pTU1WTFh3RFE3czlLSjJPa3hiMzRITm5FckYzRFVBbEpObHRvSUVic2VUVGRUcTBsWmtSY2Nad0k0bzl0UjNuUWZ4b29OYm1seEctc2U4YjlLQldQOWM1VThpSjdjeE14VVFYX1lrWTQ5b3Q3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
+      "importance": 55,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "Wall Street Futures Retreat as AI Investment Concerns Resurface and Markets Await US Inflation Report: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWU0cmYwZUNqeWJmTWNob1h5ZHRqOVVpRUR5TE90SXpIalVBV1ZteXg1bDNyZGIxRnNKQkF1eWg4ZUp5RTA3Vm9BR1lRZTBGTEd2YnJzUUhBTmRWWXBjREtETmVYVTF0SEE3ejNVdXpLSzlaX1ZHdnFDT1Z1MmJFVS10V3dfZw?oc=5",
+      "publishedAt": "2026-11-25T09:52:25.000Z",
+      "domain": "uk.finance.yahoo.com",
+      "source": "Yahoo Finance UK",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWU0cmYwZUNqeWJmTWNob1h5ZHRqOVVpRUR5TE90SXpIalVBV1ZteXg1bDNyZGIxRnNKQkF1eWg4ZUp5RTA3Vm9BR1lRZTBGTEd2YnJzUUhBTmRWWXBjREtETmVYVTF0SEE3ejNVdXpLSzlaX1ZHdnFDT1Z1MmJFVS10V3dfZw?oc=5",
+          "domain": "uk.finance.yahoo.com"
+        }
+      ],
+      "importance": 55,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
@@ -197,12 +417,32 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 65,
+      "importance": 55,
       "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "World stocks fall as new US tariffs loom, AI rebound fizzles - Reuters",
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
+      "publishedAt": "2026-11-25T05:08:05.000Z",
+      "domain": "cnbc.com",
+      "source": "CNBC",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
+          "domain": "cnbc.com"
+        }
+      ],
+      "importance": 54,
+      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
       "publishedAt": "2026-11-25T01:50:00.000Z",
       "domain": "reuters.com",
@@ -217,113 +457,13 @@
           "domain": "reuters.com"
         }
       ],
-      "importance": 64,
+      "importance": 54,
       "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "European shares rise on consumer boost; markets await US tariffs, inflation - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0JkSlpLRDlWUTB6WGlORmRrNHgzcW9wWHZpQTIxaUViTzI2QjFLbE1fdWh5d2tHUWpsdzBmcHpXeF9EZ3lYakFWNll6Zmt1R2NHaUdtdXZSZDNWMmd2cy11QXVTMEs2ZXNIamdGS2VIaU9NMkdzTEdVVG4xVlpLNjJUSDg5ZkpFcmY2ODhqM3lOU01xclVkWWpjM1FHZWJLa3NNVDkya24yams?oc=5",
-      "publishedAt": "2026-11-25T08:27:33.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0JkSlpLRDlWUTB6WGlORmRrNHgzcW9wWHZpQTIxaUViTzI2QjFLbE1fdWh5d2tHUWpsdzBmcHpXeF9EZ3lYakFWNll6Zmt1R2NHaUdtdXZSZDNWMmd2cy11QXVTMEs2ZXNIamdGS2VIaU9NMkdzTEdVVG4xVlpLNjJUSDg5ZkpFcmY2ODhqM3lOU01xclVkWWpjM1FHZWJLa3NNVDkya24yams?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 63,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Gold falters ahead of key US inflation print - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
-      "publishedAt": "2026-11-25T00:49:00.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
-          "domain": "reuters.com"
-        }
-      ],
-      "importance": 62,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "J.P. Morgan's 2027 Outlook: A Year of Moderation — The AI Boom Meets the Reality of Higher Rates - The Dark Side Of The Boom",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTl9sS01HdnZ0ak5SOHJOWC1fZkdXX0VZLWFjVmt3TlBmc1BOX3lrWkpHTjRaRmJybzliak95aTBxVEtWNTlHRTZvSVRNelZJUk00R3Q1eGtNamM0SGo4cGdZdEdGY19pWjNLTVBkcWduRHlJUi1xbTdLcVB1U2JVSDhQNA?oc=5",
-      "publishedAt": "2026-11-25T15:30:56.000Z",
-      "domain": "thedarksideoftheboom.substack.com",
-      "source": "The Dark Side Of The Boom",
-      "description": "",
-      "category": "technology",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "The Dark Side Of The Boom",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTl9sS01HdnZ0ak5SOHJOWC1fZkdXX0VZLWFjVmt3TlBmc1BOX3lrWkpHTjRaRmJybzliak95aTBxVEtWNTlHRTZvSVRNelZJUk00R3Q1eGtNamM0SGo4cGdZdEdGY19pWjNLTVBkcWduRHlJUi1xbTdLcVB1U2JVSDhQNA?oc=5",
-          "domain": "thedarksideoftheboom.substack.com"
-        }
-      ],
-      "importance": 61,
-      "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
-      "publishedAt": "2026-11-25T01:42:00.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 55,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWRkbE8tRFBpVXJpVTBDWU5oN3hoajRwejNvSUd2MFIwTXVlYVFqQTR1RHRMWGVieHVNdWVPMngzT3JvTUNXMzVULTZDWFlIbEVzSmZvNG1HUnBtUHdjVnBlSHhGcnluY1o4dl95cE5uNzRmQ1Yxdlk3bXh2cTczd3pmOFJJaGozRHdmRUxMV3BPZlVMSzhPckFheHR1UW5QcVluYlh4TWJ2dXBJRzFWZFIzVExZMk4xR3NsZ2xDUmZUOWtlMExJRC10aVFBTHNiVWRyQmVBanFWT1p2Q0RJ?oc=5",
-      "publishedAt": "2026-11-24T17:41:54.000Z",
-      "domain": "finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "description": "",
-      "category": "macro",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWRkbE8tRFBpVXJpVTBDWU5oN3hoajRwejNvSUd2MFIwTXVlYVFqQTR1RHRMWGVieHVNdWVPMngzT3JvTUNXMzVULTZDWFlIbEVzSmZvNG1HUnBtUHdjVnBlSHhGcnluY1o4dl95cE5uNzRmQ1Yxdlk3bXh2cTczd3pmOFJJaGozRHdmRUxMV3BPZlVMSzhPckFheHR1UW5QcVluYlh4TWJ2dXBJRzFWZFIzVExZMk4xR3NsZ2xDUmZUOWtlMExJRC10aVFBTHNiVWRyQmVBanFWT1p2Q0RJ?oc=5",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "importance": 46,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-25T16:07:49.916Z",
+  "checkedAt": "2026-11-26T00:19:30.985Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
