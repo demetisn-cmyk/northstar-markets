@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "marketState": "REGULAR",
+  "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-26T18:39:36.066Z",
+  "updatedAt": "2026-11-27T01:57:21.861Z",
   "quotes": {
     "^GSPC": {
       "price": 7182.78,
@@ -167,8 +167,8 @@
     }
   },
   "pulse": {
-    "marketState": "REGULAR",
-    "headline": "Πτωτική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 -0.25% · NASDAQ Composite -0.62% · NASDAQ 100 -0.64%.",
+    "marketState": "CLOSED",
+    "headline": "Η αγορά των ΗΠΑ είναι κλειστή. Τελευταίες διαθέσιμες τιμές: S&P 500 -0.25% · NASDAQ Composite -0.62% · NASDAQ 100 -0.64%.",
     "breadth": "7 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
     "advancers": 7,
     "decliners": 13,
@@ -237,12 +237,20 @@
     ],
     "strongestNews": [
       {
+        "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
+        "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+        "source": "Bloomberg.com",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-27T01:31:56.000Z"
+      },
+      {
         "title": "Trump demands probe of GDP data released before midterms - Reuters",
         "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
         "source": "Reuters",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-26T16:04:27.000Z"
+        "publishedAt": "2026-11-26T15:18:00.000Z"
       },
       {
         "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
@@ -251,14 +259,6 @@
         "source": "Financial Times",
         "confidence": "Χαμηλή",
         "publishedAt": "2026-11-26T14:58:45.000Z"
-      },
-      {
-        "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg",
-        "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-        "source": "Bloomberg",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-26T12:00:01.000Z"
       }
     ],
     "asOf": 1795644959
@@ -271,29 +271,29 @@
       "price": 7182.78,
       "intradayMove": -0.2542670623475113,
       "movement": "S&P 500: πτωτική μεταβολή 0.25% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-          "publishedAt": "2026-11-25T22:19:30.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+          "publishedAt": "2026-11-27T01:31:56.000Z",
+          "domain": "bloomberg.com",
+          "source": "Bloomberg.com",
           "description": "",
-          "category": "macro",
+          "category": "politics",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "Bloomberg.com",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+              "domain": "bloomberg.com"
             }
           ],
-          "importance": 49,
-          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+          "importance": 80,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
           "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         },
         {
           "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
@@ -311,84 +311,8 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-          "publishedAt": "2026-11-26T12:00:01.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg",
-          "description": "",
-          "category": "politics",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        }
-      ],
-      "updatedAt": "2026-11-26T18:39:36.065Z"
-    },
-    {
-      "symbol": "^IXIC",
-      "name": "NASDAQ Composite",
-      "change": -0.6224610029647921,
-      "price": 23585.803,
-      "intradayMove": -0.6224610029647921,
-      "movement": "NASDAQ Composite: πτωτική μεταβολή 0.62% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
-      "confidence": "Χαμηλή",
-      "articles": [
-        {
-          "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-          "publishedAt": "2026-11-26T14:58:45.000Z",
-          "domain": "ft.com",
-          "source": "Financial Times",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Financial Times",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-              "domain": "ft.com"
-            }
-          ],
-          "importance": 76,
-          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-          "publishedAt": "2026-11-26T12:00:01.000Z",
-          "domain": "bloomberg.com",
-          "source": "Bloomberg",
-          "description": "",
-          "category": "politics",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Bloomberg",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-              "domain": "bloomberg.com"
-            }
-          ],
-          "importance": 72,
-          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
@@ -408,44 +332,44 @@
               "domain": "marketwatch.com"
             }
           ],
-          "importance": 70,
+          "importance": 62,
           "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.065Z"
+      "updatedAt": "2026-11-27T01:57:21.860Z"
     },
     {
-      "symbol": "^NDX",
-      "name": "NASDAQ 100",
-      "change": -0.6380976882424834,
-      "price": 26046.896,
-      "intradayMove": -0.6380976882424834,
-      "movement": "NASDAQ 100: πτωτική μεταβολή 0.64% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "symbol": "^IXIC",
+      "name": "NASDAQ Composite",
+      "change": -0.6224610029647921,
+      "price": 23585.803,
+      "intradayMove": -0.6224610029647921,
+      "movement": "NASDAQ Composite: πτωτική μεταβολή 0.62% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
-          "publishedAt": "2026-11-25T21:52:28.000Z",
+          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+          "publishedAt": "2026-11-27T01:31:56.000Z",
           "domain": "bloomberg.com",
           "source": "Bloomberg.com",
           "description": "",
-          "category": "macro",
+          "category": "politics",
           "corroborations": 1,
           "sources": [
             {
               "name": "Bloomberg.com",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 56,
-          "whyItMatters": "Αφορά ζήτηση, προσφορά ή επενδύσεις σε τεχνολογικές υποδομές. Για να φανεί η επίδραση στις εταιρείες, χρειάζεται επιβεβαίωση από παραγγελίες, guidance και δαπάνες πελατών.",
+          "importance": 80,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
           "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         },
         {
           "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
@@ -463,34 +387,110 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         },
         {
-          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg",
+          "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+          "publishedAt": "2026-11-26T13:41:00.000Z",
+          "domain": "marketwatch.com",
+          "source": "MarketWatch",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "MarketWatch",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+              "domain": "marketwatch.com"
+            }
+          ],
+          "importance": 62,
+          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        }
+      ],
+      "updatedAt": "2026-11-27T01:57:21.860Z"
+    },
+    {
+      "symbol": "^NDX",
+      "name": "NASDAQ 100",
+      "change": -0.6380976882424834,
+      "price": 26046.896,
+      "intradayMove": -0.6380976882424834,
+      "movement": "NASDAQ 100: πτωτική μεταβολή 0.64% έναντι του προηγούμενου κλεισίματος.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "confidence": "Χαμηλή",
+      "articles": [
+        {
+          "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-          "publishedAt": "2026-11-26T12:00:01.000Z",
+          "publishedAt": "2026-11-27T01:31:56.000Z",
           "domain": "bloomberg.com",
-          "source": "Bloomberg",
+          "source": "Bloomberg.com",
           "description": "",
           "category": "politics",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Bloomberg",
+              "name": "Bloomberg.com",
               "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
               "domain": "bloomberg.com"
             }
           ],
-          "importance": 72,
+          "importance": 80,
           "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+          "publishedAt": "2026-11-26T14:58:45.000Z",
+          "domain": "ft.com",
+          "source": "Financial Times",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+              "domain": "ft.com"
+            }
+          ],
+          "importance": 67,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+          "publishedAt": "2026-11-26T13:41:00.000Z",
+          "domain": "marketwatch.com",
+          "source": "MarketWatch",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "MarketWatch",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+              "domain": "marketwatch.com"
+            }
+          ],
+          "importance": 62,
+          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.065Z"
+      "updatedAt": "2026-11-27T01:57:21.860Z"
     },
     {
       "symbol": "ORCL",
@@ -505,7 +505,7 @@
         {
           "title": "Trump demands probe of GDP data released before midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "publishedAt": "2026-11-26T16:04:27.000Z",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -518,7 +518,7 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 77,
+          "importance": 68,
           "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -539,7 +539,7 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -560,13 +560,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.860Z"
     },
     {
       "symbol": "NVDA",
@@ -575,34 +575,55 @@
       "price": 149.3,
       "intradayMove": -3.912987514480618,
       "movement": "NVIDIA: πτωτική μεταβολή 3.91% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: υπάρχει δημοσίευμα που αναφέρει άμεσα την εταιρεία ή τον δείκτη. Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook. Η μεταβολή είναι 3.27 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια. Η μεταβολή είναι 3.27 ποσοστιαίες μονάδες χειρότερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
         {
-          "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWcwUFUtanNBbC1sQXBGMW1yQ2t3UDNwWWdBU3pJRGpsR1ZfN0hxUDhSN3JLS2ZaYm9MTWc5UWl0RmNFZEJaUUhWelFiSVRvamZwZ0VabThONmNOX0tUNnlIdWIyOTNwemtQWVJwTm44SThQN3NnNlFCNGJOakpGWUpJLW9XUWdFN2Uzdl9XdUI1UjBIemNZ?oc=5",
-          "publishedAt": "2026-11-26T00:30:00.000Z",
-          "domain": "yahoo.com",
-          "source": "Yahoo",
+          "title": "Trump demands probe of GDP data released before midterms - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
+          "domain": "reuters.com",
+          "source": "Reuters",
           "description": "",
-          "category": "technology",
+          "category": "macro",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWcwUFUtanNBbC1sQXBGMW1yQ2t3UDNwWWdBU3pJRGpsR1ZfN0hxUDhSN3JLS2ZaYm9MTWc5UWl0RmNFZEJaUUhWelFiSVRvamZwZ0VabThONmNOX0tUNnlIdWIyOTNwemtQWVJwTm44SThQN3NnNlFCNGJOakpGWUpJLW9XUWdFN2Uzdl9XdUI1UjBIemNZ?oc=5",
-              "domain": "yahoo.com"
+              "name": "Reuters",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
+              "domain": "reuters.com"
             }
           ],
-          "importance": 51,
-          "whyItMatters": "Τα αποτελέσματα και κυρίως η μελλοντική καθοδήγηση επηρεάζουν τις προσδοκίες για ταμειακές ροές. Χρειάζεται σύγκριση με τις προσδοκίες της αγοράς και το προηγούμενο outlook.",
+          "importance": 68,
+          "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         },
         {
-          "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
-          "publishedAt": "2026-11-25T22:06:45.000Z",
+          "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+          "publishedAt": "2026-11-26T14:58:45.000Z",
+          "domain": "ft.com",
+          "source": "Financial Times",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+              "domain": "ft.com"
+            }
+          ],
+          "importance": 67,
+          "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
+          "publishedAt": "2026-11-26T11:16:49.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -611,38 +632,17 @@
           "sources": [
             {
               "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlhlX0ZnQlVlZ2N6SmdFbTdRTEl6Y2RYRS1sVmRlUk9zdkpxMXR5Wk5pcDhmSTFsbXVHelFCOXdHeUNpMWhVU3NHYWQ5elZyNXQyX3NGNGhDaTZCcFBuQ2ZUc05fSWZaZ1RlTkpRRm1BUUtmM3g2eElSUzRVUldGTUpMOUowblFOVDMzU3FnaldPUU0w?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 48,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
-          "directMatch": true
-        },
-        {
-          "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
-          "publishedAt": "2026-11-25T21:18:06.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
-          "description": "",
-          "category": "technology",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
-              "domain": "finance.yahoo.com"
-            }
-          ],
-          "importance": 47,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": true
+          "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.860Z"
     },
     {
       "symbol": "META",
@@ -657,7 +657,7 @@
         {
           "title": "Trump demands probe of GDP data released before midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "publishedAt": "2026-11-26T16:04:27.000Z",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -670,7 +670,7 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 77,
+          "importance": 68,
           "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -691,7 +691,7 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -712,13 +712,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.860Z"
     },
     {
       "symbol": "AMZN",
@@ -733,7 +733,7 @@
         {
           "title": "Trump demands probe of GDP data released before midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "publishedAt": "2026-11-26T16:04:27.000Z",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -746,7 +746,7 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 77,
+          "importance": 68,
           "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -767,7 +767,7 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -788,13 +788,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.861Z"
     },
     {
       "symbol": "GOOGL",
@@ -809,7 +809,7 @@
         {
           "title": "Trump demands probe of GDP data released before midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "publishedAt": "2026-11-26T16:04:27.000Z",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -822,7 +822,7 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 77,
+          "importance": 68,
           "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -843,7 +843,7 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -864,13 +864,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.861Z"
     },
     {
       "symbol": "CRM",
@@ -885,7 +885,7 @@
         {
           "title": "Trump demands probe of GDP data released before midterms - Reuters",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "publishedAt": "2026-11-26T16:04:27.000Z",
+          "publishedAt": "2026-11-26T15:18:00.000Z",
           "domain": "reuters.com",
           "source": "Reuters",
           "description": "",
@@ -898,7 +898,7 @@
               "domain": "reuters.com"
             }
           ],
-          "importance": 77,
+          "importance": 68,
           "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -919,7 +919,7 @@
               "domain": "ft.com"
             }
           ],
-          "importance": 76,
+          "importance": 67,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -940,13 +940,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 64,
+          "importance": 55,
           "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-26T18:39:36.066Z"
+      "updatedAt": "2026-11-27T01:57:21.861Z"
     }
   ]
 }
