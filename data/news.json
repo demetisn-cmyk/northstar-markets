@@ -1,109 +1,89 @@
 {
-  "at": 1795776305256,
+  "at": 1795808439318,
   "articles": [
     {
-      "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-      "publishedAt": "2026-11-27T10:31:56.000Z",
-      "domain": "bloomberg.com",
-      "source": "Bloomberg.com",
-      "description": "",
-      "category": "politics",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-          "domain": "bloomberg.com"
-        }
-      ],
-      "importance": 80,
-      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Event Report: Higher US tariffs to weigh on exporters’ earnings even as market shares hold up - Pinetree Securities",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RRVEMzYmxtSFdTV0VuOTdlV3JrTzlYT0pGamcyWnJPMzJuOUlBZ2FBT0dMeXhJWUZYSVd3TkRSVC1MT2oxdGNLNVdUSV9wMXVZN2lnWlN4Nk0yQnVTVFRWelViQ05xblRGZDludFhGbVN1U05ZLW5XWGpSSG5XMS1JUVlYNG1kRUU3b2R5NVFOblEwM2lZWWo0NmVGdi15NXFCbUlHeTFfRFFXN2szZXN6MF9fMXZ0YXU3Yk1EUDRqc3JMRXVMeA?oc=5",
-      "publishedAt": "2026-11-26T12:44:50.000Z",
-      "domain": "pinetree.vn",
-      "source": "Pinetree Securities",
-      "description": "",
-      "category": "politics",
-      "corroborations": 1,
-      "sources": [
-        {
-          "name": "Pinetree Securities",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0RRVEMzYmxtSFdTV0VuOTdlV3JrTzlYT0pGamcyWnJPMzJuOUlBZ2FBT0dMeXhJWUZYSVd3TkRSVC1MT2oxdGNLNVdUSV9wMXVZN2lnWlN4Nk0yQnVTVFRWelViQ05xblRGZDludFhGbVN1U05ZLW5XWGpSSG5XMS1JUVlYNG1kRUU3b2R5NVFOblEwM2lZWWo0NmVGdi15NXFCbUlHeTFfRFFXN2szZXN6MF9fMXZ0YXU3Yk1EUDRqc3JMRXVMeA?oc=5",
-          "domain": "pinetree.vn"
-        }
-      ],
-      "importance": 59,
-      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
-      "confidence": "Χαμηλή"
-    },
-    {
-      "title": "Trump demands probe of GDP data released before midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-      "publishedAt": "2026-11-26T15:18:00.000Z",
-      "domain": "reuters.com",
-      "source": "Reuters",
+      "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
+      "publishedAt": "2026-11-27T16:42:47.000Z",
+      "domain": "cnbctv18.com",
+      "source": "CNBC TV18",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-          "domain": "reuters.com"
+          "name": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
+          "domain": "cnbctv18.com"
         }
       ],
-      "importance": 58,
-      "whyItMatters": "Δημιουργεί ρυθμιστικό ή νομικό ενδεχόμενο που μπορεί να επηρεάσει κόστος, λειτουργία ή πρόσβαση στην αγορά. Η διαδικασία και το τελικό αποτέλεσμα παραμένουν αβέβαια.",
+      "importance": 73,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-      "publishedAt": "2026-11-26T14:58:45.000Z",
-      "domain": "ft.com",
-      "source": "Financial Times",
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+      "publishedAt": "2026-11-27T18:02:01.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-          "domain": "ft.com"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+          "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 57,
-      "whyItMatters": "Μεταβάλλει τις προσδοκίες για επιτόκια, αποδόσεις ομολόγων και κόστος δανεισμού. Για τις μετοχές μετρά αν τα στοιχεία αλλάζουν την πορεία που αναμένει η αγορά από τη Fed.",
+      "importance": 70,
+      "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
-      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
-      "publishedAt": "2026-11-26T13:41:00.000Z",
-      "domain": "marketwatch.com",
-      "source": "MarketWatch",
+      "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRoS2o2eE11NG1MOGhPQlVpb1NKYTZzaTdmNmF2NmIzTTJ5ek1Tem9vY1Jia0E1STdmTG5lUlI2bDl6VGRwLTdmQXBQRnltMjg4Z0NRelJncFBWNExYbHk3NEhOeEx1c29leHpXb1dnb0J5Vmg4QVpmM25tLUtySFFNNFc0SWw3N0RwalBQWEs?oc=5",
+      "publishedAt": "2026-11-27T16:05:02.000Z",
+      "domain": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "description": "",
+      "category": "company",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRoS2o2eE11NG1MOGhPQlVpb1NKYTZzaTdmNmF2NmIzTTJ5ek1Tem9vY1Jia0E1STdmTG5lUlI2bDl6VGRwLTdmQXBQRnltMjg4Z0NRelJncFBWNExYbHk3NEhOeEx1c29leHpXb1dnb0J5Vmg4QVpmM25tLUtySFFNNFc0SWw3N0RwalBQWEs?oc=5",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "importance": 68,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
+      "publishedAt": "2026-11-27T12:06:17.000Z",
+      "domain": "cnbc.com",
+      "source": "CNBC",
       "description": "",
       "category": "macro",
       "corroborations": 1,
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
-          "domain": "marketwatch.com"
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
+          "domain": "cnbc.com"
         }
       ],
-      "importance": 52,
-      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+      "importance": 67,
+      "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-27T10:45:05.256Z",
+  "checkedAt": "2026-11-27T19:40:39.318Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
