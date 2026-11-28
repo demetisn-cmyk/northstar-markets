@@ -1,8 +1,8 @@
 {
   "mode": "live",
-  "marketState": "REGULAR",
+  "marketState": "CLOSED",
   "provider": "Yahoo Finance chart endpoint",
-  "updatedAt": "2026-11-27T19:40:39.684Z",
+  "updatedAt": "2026-11-28T02:12:26.152Z",
   "quotes": {
     "^GSPC": {
       "price": 7297.49,
@@ -167,8 +167,8 @@
     }
   },
   "pulse": {
-    "marketState": "REGULAR",
-    "headline": "Ανοδική εικόνα στην τελευταία διαθέσιμη συνεδρία. S&P 500 +1.60% · NASDAQ Composite +2.31% · NASDAQ 100 +2.61%.",
+    "marketState": "CLOSED",
+    "headline": "Η αγορά των ΗΠΑ είναι κλειστή. Τελευταίες διαθέσιμες τιμές: S&P 500 +1.60% · NASDAQ Composite +2.31% · NASDAQ 100 +2.61%.",
     "breadth": "20 από 20 παρακολουθούμενες εταιρείες είναι ανοδικές",
     "advancers": 20,
     "decliners": 0,
@@ -237,6 +237,14 @@
     ],
     "strongestNews": [
       {
+        "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+        "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+        "source": "DD News",
+        "confidence": "Χαμηλή",
+        "publishedAt": "2026-11-27T08:44:26.000Z"
+      },
+      {
         "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18",
         "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
@@ -250,15 +258,7 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
         "source": "Yahoo Finance",
         "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-27T18:02:01.000Z"
-      },
-      {
-        "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO. - Yahoo Finance",
-        "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRoS2o2eE11NG1MOGhPQlVpb1NKYTZzaTdmNmF2NmIzTTJ5ek1Tem9vY1Jia0E1STdmTG5lUlI2bDl6VGRwLTdmQXBQRnltMjg4Z0NRelJncFBWNExYbHk3NEhOeEx1c29leHpXb1dnb0J5Vmg4QVpmM25tLUtySFFNNFc0SWw3N0RwalBQWEs?oc=5",
-        "source": "Yahoo Finance",
-        "confidence": "Χαμηλή",
-        "publishedAt": "2026-11-27T16:05:02.000Z"
+        "publishedAt": "2026-11-27T18:37:33.000Z"
       }
     ],
     "asOf": 1795806959
@@ -290,7 +290,7 @@
               "domain": "cnbctv18.com"
             }
           ],
-          "importance": 73,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -311,34 +311,34 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": true
         },
         {
-          "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
-          "domain": "finance.yahoo.com",
-          "source": "Yahoo Finance",
+          "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+          "publishedAt": "2026-11-27T08:44:26.000Z",
+          "domain": "ddnews.gov.in",
+          "source": "DD News",
           "description": "",
-          "category": "macro",
+          "category": "politics",
           "corroborations": 1,
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-              "domain": "finance.yahoo.com"
+              "name": "DD News",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+              "domain": "ddnews.gov.in"
             }
           ],
-          "importance": 70,
-          "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
+          "importance": 68,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.683Z"
+      "updatedAt": "2026-11-28T02:12:26.151Z"
     },
     {
       "symbol": "^IXIC",
@@ -347,9 +347,30 @@
       "price": 24129.5,
       "intradayMove": 2.3051875740673324,
       "movement": "NASDAQ Composite: ανοδική μεταβολή 2.31% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή κινείται κοντά στον δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+          "publishedAt": "2026-11-27T08:44:26.000Z",
+          "domain": "ddnews.gov.in",
+          "source": "DD News",
+          "description": "",
+          "category": "politics",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "DD News",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+              "domain": "ddnews.gov.in"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
@@ -366,7 +387,7 @@
               "domain": "cnbctv18.com"
             }
           ],
-          "importance": 73,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -374,7 +395,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -387,34 +408,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
-          "publishedAt": "2026-11-27T12:06:17.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 67,
-          "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.683Z"
+      "updatedAt": "2026-11-28T02:12:26.151Z"
     },
     {
       "symbol": "^NDX",
@@ -423,9 +423,30 @@
       "price": 26726.389,
       "intradayMove": 2.6087292704666174,
       "movement": "NASDAQ 100: ανοδική μεταβολή 2.61% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI. Η μεταβολή είναι 1.01 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή είναι 1.01 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+          "publishedAt": "2026-11-27T08:44:26.000Z",
+          "domain": "ddnews.gov.in",
+          "source": "DD News",
+          "description": "",
+          "category": "politics",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "DD News",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+              "domain": "ddnews.gov.in"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
@@ -442,7 +463,7 @@
               "domain": "cnbctv18.com"
             }
           ],
-          "importance": 73,
+          "importance": 65,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -450,7 +471,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -463,34 +484,13 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
-          "confidence": "Χαμηλή",
-          "directMatch": false
-        },
-        {
-          "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
-          "publishedAt": "2026-11-27T12:06:17.000Z",
-          "domain": "cnbc.com",
-          "source": "CNBC",
-          "description": "",
-          "category": "macro",
-          "corroborations": 1,
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
-              "domain": "cnbc.com"
-            }
-          ],
-          "importance": 67,
-          "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.683Z"
+      "updatedAt": "2026-11-28T02:12:26.151Z"
     },
     {
       "symbol": "PLTR",
@@ -505,7 +505,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -518,7 +518,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -539,13 +539,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.683Z"
+      "updatedAt": "2026-11-28T02:12:26.151Z"
     },
     {
       "symbol": "TSLA",
@@ -554,9 +554,51 @@
       "price": 400,
       "intradayMove": 5.224391013837011,
       "movement": "Tesla: ανοδική μεταβολή 5.22% έναντι του προηγούμενου κλεισίματος.",
-      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση. Η μεταβολή είναι 3.63 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
+      "interpretation": "Πιθανό πλαίσιο: οι διαθέσιμες ειδήσεις αφορούν ευρύτερα τον σχετικό κλάδο ή τη μακροοικονομία. Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα. Η μεταβολή είναι 3.63 ποσοστιαίες μονάδες καλύτερη από τον ευρύτερο δείκτη αναφοράς. Η είδηση είναι πιθανός παράγοντας προς έλεγχο, όχι αποδεδειγμένη αιτία.",
       "confidence": "Χαμηλή",
       "articles": [
+        {
+          "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+          "publishedAt": "2026-11-27T08:44:26.000Z",
+          "domain": "ddnews.gov.in",
+          "source": "DD News",
+          "description": "",
+          "category": "politics",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "DD News",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+              "domain": "ddnews.gov.in"
+            }
+          ],
+          "importance": 68,
+          "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
+        {
+          "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+          "publishedAt": "2026-11-27T12:22:00.000Z",
+          "domain": "marketwatch.com",
+          "source": "MarketWatch",
+          "description": "",
+          "category": "macro",
+          "corroborations": 1,
+          "sources": [
+            {
+              "name": "MarketWatch",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+              "domain": "marketwatch.com"
+            }
+          ],
+          "importance": 60,
+          "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
+          "confidence": "Χαμηλή",
+          "directMatch": false
+        },
         {
           "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow - CNBC",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
@@ -573,13 +615,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.683Z"
+      "updatedAt": "2026-11-28T02:12:26.151Z"
     },
     {
       "symbol": "AMD",
@@ -607,7 +649,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 68,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": true
@@ -615,7 +657,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -628,7 +670,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -649,13 +691,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.684Z"
+      "updatedAt": "2026-11-28T02:12:26.152Z"
     },
     {
       "symbol": "AMZN",
@@ -670,7 +712,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -683,7 +725,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -704,13 +746,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.684Z"
+      "updatedAt": "2026-11-28T02:12:26.152Z"
     },
     {
       "symbol": "AVGO",
@@ -725,7 +767,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -738,7 +780,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -759,13 +801,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.684Z"
+      "updatedAt": "2026-11-28T02:12:26.152Z"
     },
     {
       "symbol": "ORCL",
@@ -780,7 +822,7 @@
         {
           "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "publishedAt": "2026-11-27T18:02:01.000Z",
+          "publishedAt": "2026-11-27T18:37:33.000Z",
           "domain": "finance.yahoo.com",
           "source": "Yahoo Finance",
           "description": "",
@@ -793,7 +835,7 @@
               "domain": "finance.yahoo.com"
             }
           ],
-          "importance": 70,
+          "importance": 63,
           "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
           "confidence": "Χαμηλή",
           "directMatch": false
@@ -814,13 +856,13 @@
               "domain": "cnbc.com"
             }
           ],
-          "importance": 67,
+          "importance": 60,
           "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
           "confidence": "Χαμηλή",
           "directMatch": false
         }
       ],
-      "updatedAt": "2026-11-27T19:40:39.684Z"
+      "updatedAt": "2026-11-28T02:12:26.152Z"
     }
   ]
 }

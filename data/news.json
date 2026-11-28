@@ -1,6 +1,26 @@
 {
-  "at": 1795808439318,
+  "at": 1795831945878,
   "articles": [
+    {
+      "title": "Global Markets- Stocks rally in Asia, unrocked by US tariffs - DD News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+      "publishedAt": "2026-11-27T08:44:26.000Z",
+      "domain": "ddnews.gov.in",
+      "source": "DD News",
+      "description": "",
+      "category": "politics",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "DD News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDlPNnpsMDBoRzN1OEczaU5saHZhNUtVVjZ2TXYwRXItMUZlQVdNOXMzZDREX3RPaS1Ec2VpQ0QwWWJjaVVBWXZpdXc5bGxOQjBqbmlqRmJPQUJIeGI5cFFzOWhrblc4ZExJSmtRNUh3SWlUMTR6Y0c1OUVaa3RUdEFBbV9RYlIyTGZ4Mg?oc=5",
+          "domain": "ddnews.gov.in"
+        }
+      ],
+      "importance": 68,
+      "whyItMatters": "Μπορεί να αλλάξει κόστος εισαγωγών, πρόσβαση σε αγορές και αλυσίδες εφοδιασμού. Η πραγματική επίδραση εξαρτάται από το τελικό μέτρο, τις εξαιρέσεις και τυχόν αντίμετρα.",
+      "confidence": "Χαμηλή"
+    },
     {
       "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURWTzRsMXNsZjlaaElaSWlXZkZnZEdCR1JXdmF6U2xMY1I5UmZUNVZFLVp6cTZ0cjZsdjBzZ0l3T0ZKX2Fjc2lKeVhMWDRvTE5rcUZraXlQblItd1NYNkVwWEZvUjY0SHVHTGtfV1ZQR3FvU05rLXkxd29UZzdySktzUFVMUkczeGxDQnZGcUpTVjlTVVlpaF9oTk55a3dwS1RobXVPLTA5NWYxbDNla1hqSk1WVHhFc2JWYmZ5MFBNeGtWd3fSAcsBQVVfeXFMUFVWWXdlMkJyYm4tUVZidVhFQVBSVXkzRkI4MWU2czZPX1pFQzhOU3NUcUZyS3BMSlhHZl9OeGNnTGpzazRWWTJDdFVYNlBVdGZCZDFUZVdraUZpZW5Qc0YyQlN6V3pWbDRqYjBHTHpBLVNDZUlzQlZOZ3BVUGRHLVk0bE1IaUJzbmY3STFxZklDWVFuQklDREc0ZVdabEhxZ1Z6bUxFZE1XWTBWUDBDc19TOFNVQTlUVWJEZkxTWUFJLURuZDBIbFVUMHc?oc=5",
@@ -17,14 +37,14 @@
           "domain": "cnbctv18.com"
         }
       ],
-      "importance": 73,
+      "importance": 65,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
     {
       "title": "Wall Street ends higher as battered AI stocks gain in volatile week - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-      "publishedAt": "2026-11-27T18:02:01.000Z",
+      "publishedAt": "2026-11-27T18:37:33.000Z",
       "domain": "finance.yahoo.com",
       "source": "Yahoo Finance",
       "description": "",
@@ -37,7 +57,7 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 70,
+      "importance": 63,
       "whyItMatters": "Η είδηση δείχνει ότι η τεχνολογία πιέζει ή στηρίζει την ευρύτερη αγορά, αλλά δεν κατονομάζει από μόνη της τον καταλύτη. Για εξήγηση χρειάζεται σύγκριση με αποδόσεις ομολόγων, εταιρικά αποτελέσματα και δαπάνες για AI.",
       "confidence": "Χαμηλή"
     },
@@ -57,8 +77,28 @@
           "domain": "finance.yahoo.com"
         }
       ],
-      "importance": 68,
+      "importance": 60,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
+      "confidence": "Χαμηλή"
+    },
+    {
+      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+      "publishedAt": "2026-11-27T12:22:00.000Z",
+      "domain": "marketwatch.com",
+      "source": "MarketWatch",
+      "description": "",
+      "category": "macro",
+      "corroborations": 1,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE9mOFpzWmp4WWRTX0NlTmluWXViNlRBUGFXcllTOWV6T0lHRkhfV0tsRndZS1dfQ09KaEo2djg2dFpjamN2UWVLSVVQSTllU3NHb09CUVlIT2RVdjE5VzE3NDJvdVJqMHpRcWhDd0dMckszQlJ5TVViMU9sa1R0eDBLMkhoaHlFNDFXMVNCWjhWTUpLUkVlcDZWM3VmRG9HTTA1MjhHaG1ySS1fNTVpYkFtQjJzcll2cElWbk95dFRMZDVKVmNVSmh6dUNtd3llMnoyUXRSa1NKaFNhdlgweQ?oc=5",
+          "domain": "marketwatch.com"
+        }
+      ],
+      "importance": 60,
+      "whyItMatters": "Το δημοσίευμα καταγράφει κίνηση ή σχετική επίδοση αγοράς, όχι κατ’ ανάγκη τον καταλύτη της. Χρειάζεται διασταύρωση με επιτόκια, εταιρικές ανακοινώσεις και ταυτόχρονες ειδήσεις πριν αποδοθεί αιτία.",
       "confidence": "Χαμηλή"
     },
     {
@@ -77,13 +117,13 @@
           "domain": "cnbc.com"
         }
       ],
-      "importance": 67,
+      "importance": 60,
       "whyItMatters": "Η είδηση μπορεί να επηρεάσει τις προσδοκίες της αγοράς, αλλά το κανάλι μετάδοσης χρειάζεται επιβεβαίωση από επίσημα στοιχεία ή εταιρική ανακοίνωση.",
       "confidence": "Χαμηλή"
     }
   ],
   "state": "ready",
-  "checkedAt": "2026-11-27T19:40:39.318Z",
+  "checkedAt": "2026-11-28T02:12:25.878Z",
   "sources": {
     "gdelt": 0,
     "officialFeeds": true,
